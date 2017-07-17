@@ -1,0 +1,1611 @@
+,id,looking,miles,name,powertrain,price,state
+0,696670580,Crystal Black Pearl (ext),43256,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23999,AL
+1,697912095,Basque Red Pearl Ii (ext),26460,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24999,AL
+2,696436013,Graphite Luster Metallic (ext),9136,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,27999,AL
+3,697199035,Basque Red Pearl Ii (ext) | Parchment (int),7501,Used 2016 Acura TLX Base,8-Speed Auto-Shift Manual w/OD | FWD,25988,FL
+4,699999195,Basque Red Pearl Ii (ext) | Parchment (int),24465,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,23137,NY
+5,697045251,Bellanova White Pearl (ext) | Ebony (int),5336,Certified 2017 Acura TLX V6 w/Technology Package,9-Speed Automatic | AWD,38493,OH
+6,697045250,Modern Steel Metallic (ext) | Ebony (int),3509,Certified 2017 Acura TLX Technology,8-Speed Automatic with Auto-Shift | FWD,32993,OH
+7,697165356,Crystal Black Pearl (ext) | Ebony (int),3224,Certified 2017 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,29993,OH
+8,698178610,Modern Steel Metallic (ext) | Ebony (int),4408,Certified 2017 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,30491,OH
+9,697123520,Crystal Black Pearl (ext) | Parchment (int),8609,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,29498,NC
+10,679605373,Bellanova White Pearl (ext) | Espresso (int),13425,Used 2016 Acura TLX V6 Advance,9-Speed Automatic | FWD,33845,KY
+11,699053033,Ebony (int),13739,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,28899,AR
+12,697293966,Graphite Luster Metallic (ext) | Graystone (int),7198,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,29792,AZ
+13,697903680,White (ext) | Espresso (int),50939,Certified 2015 Acura TLX V6,9-Speed Automatic | FWD,24718,NJ
+14,699046962,Crystal Black Pearl (ext) | Ebony (int),51222,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,23992,TX
+15,699431330,Crystal Black Pearl (ext),15980,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28864,KY
+16,700447513,Black (ext),26967,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,23991,TX
+17,699378426,Bellanova White Pearl (ext) | Espresso (int),32973,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,28595,TX
+18,699818248,Bellanova White Pearl (ext) | Ebony (int),41594,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,23900,NE
+19,698095408,Fathom Blue Pearl (ext) | Graystone (int),16135,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25996,TX
+20,700287622,Fathom Blue Pearl (ext) | Greystone (int),9647,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23474,NY
+21,700661208,9-Speed Automatic | FWD,25949,Used 2015 Acura TLX V6,Graphite Luster Metallic (ext) | Graystone (int),23498,FL
+22,698922597,Maroon (ext) | Beige (int),28304,Used 2016 Acura TLX V6,9-Speed Automatic w/OD | FWD,26888,WI
+23,696231411,White (ext) | Black (int),32810,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24998,GA
+24,699768641,Fathom Blue Pearl (ext) | Greystone (int),21771,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,22995,IL
+25,696337373,Black Copper Pearl (ext),36159,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,28991,PA
+26,698262686,Black Copper Pearl (ext) | Parchment (int),36859,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,24498,SC
+27,695933531,Slate Silver (ext),3859,Used 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | FWD,31500,WA
+28,652340464,Crystal Black Pearl (ext) | Ebony (int),8805,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,33450,IL
+29,695767660,Black (ext),30382,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,30000,NC
+30,687218308,Crystal Black Pearl (ext) | Graystone (int),4417,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,29500,FL
+31,699726018,Gray (ext) | Black (int),7598,Used 2017 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26981,TX
+32,695846063,Crystal Black Pearl (ext) | Espresso (int),19973,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28000,NC
+33,690468954,Black Copper Pearl (ext) | Espresso (int),21004,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27991,WA
+34,695376696,Graphite Luster Metallic (ext) | Parchment (int),2873,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,31995,CO
+35,699320592,Slate Silver Metallic (ext) | Ebony (int),8289,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,27000,VA
+36,698407688,Graphite Luster Metallic (ext) | Ebony (int),10140,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25999,TX
+37,700287506,Black (ext) | Espresso (int),46149,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,24644,NY
+38,697369808,Crystal Black Pearl (ext) | Ebony (int),20,Certified 2017 Acura TLX Tech,8-Speed Auto-Shift Manual w/OD | FWD,29995,NJ
+39,696932824,Black (ext) | Ebony (int),22,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,32900,NJ
+40,677071481,Silver (ext),24,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,29498,CA
+41,690128737,Black Copper Pearl (ext) | Espresso (int),34,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,29800,NJ
+42,687018800,Fathom Blue Pearl (ext) | Greystone (int),178,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,37000,NV
+43,696987925,Bellanova White Pearl (ext) | Greystone (int),322,Used 2017 Acura TLX Technology,8-Speed Automatic with Auto-Shift | FWD,31995,RI
+44,700173394,Burgundy (ext) | Beige (int),800,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,24500,NY
+45,697627364,Lunar Silver Metallic (ext) | Ebony (int),1558,Used 2017 Acura TLX Technology,8-Speed Automatic with Auto-Shift | FWD,37888,NC
+46,700380394,Gray (ext) | Ebony (int),1674,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,33991,IL
+47,686089786,Black (ext),1856,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,19499,CO
+48,696987917,Modern Steel Metallic (ext) | Ebony (int),1881,Certified 2017 Acura TLX V6 Advance,9-Speed Automatic | AWD,39995,RI
+49,700575683,Bellanova White Pearl (ext) | Greystone (int),2084,Certified 2017 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,27980,RI
+50,690898284,Bellanova White Pearl (ext) | Greystone (int),2379,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,29000,NJ
+51,700317235,Gray (ext) | Ebony (int),2664,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,31471,IL
+52,698108524,Bellanova White Pearl (ext) | Ebony (int),2774,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,28500,GA
+53,696987888,Red (ext) | Parchment (int),3298,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,31980,RI
+54,693858749,Black (ext) | Espresso (int),3367,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,31000,WV
+55,698684120,Slate Silver Metallic (ext) | Ebony (int),3390,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26551,CA
+56,697099498,Slate Silver (ext) | Graystone (int),3458,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,33980,PA
+57,699779837,Black Copper Pearl (ext) | Black (int),3537,Used 2017 Acura TLX V6,9-Speed Automatic | FWD,31995,TX
+58,697037667,Blue (ext) | Graystone (int),3802,Certified 2017 Acura TLX Tech,Automatic | FWD,29450,VA
+59,700206371,Gray (ext) | Ebony (int),3925,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,30991,IL
+60,700324827,Crystal Black Pearl (ext) | Graystone (int),4049,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,38488,NC
+61,694751196,Bellanova White Pearl (ext) | Espresso (int),4100,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,31985,OH
+62,697627527,Lunar Silver Metallic (ext) | Greystone (int),4137,Used 2017 Acura TLX Technology,8-Speed Automatic with Auto-Shift | FWD,33488,NC
+63,695953888,Bellanova White Pearl (ext) | Graystone (int),4373,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,29499,NC
+64,699351869,Modern Steel Metallic (ext) | Greystone (int),4495,Used 2017 Acura TLX Technology,8-Speed Automatic with Auto-Shift | FWD,32680,AL
+65,700088264,Crystal Black Pearl (ext) | Ebony (int),4523,Certified 2017 Acura TLX Technology,8-Speed Automatic with Auto-Shift | FWD,32130,KS
+66,700089056,Bellanova White Pearl (ext) | Greystone (int),4536,Certified 2017 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,29900,KS
+67,700324876,Bellanova White Pearl (ext) | Ebony (int),4607,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,36888,NC
+68,697213067,Bellanova White Pearl (ext) | Ebony (int),4630,Certified 2016 Acura TLX Base,8-Speed Auto-Shift Manual w/OD | FWD,25993,TX
+69,700206372,Black (ext) | Ebony (int),4716,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,30771,IL
+70,696864161,Bellanova White Pearl (ext) | Graystone (int),4917,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,31396,TX
+71,682317527,Graphite Luster Metallic (ext),5205,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,27597,AZ
+72,697159834,Fathom Blue Pearl (ext) | Ebony (int),5346,Certified 2017 Acura TLX V6 w/Technology Package,9-Speed Automatic | AWD,35877,OH
+73,700206474,Black (ext) | Espresso (int),5360,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25991,IL
+74,698474859,Graphite Luster Metallic (ext) | Ebony (int),5375,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,34941,MD
+75,700321266,Modern Steel Metallic (ext) | Greystone (int),5391,Used 2017 Acura TLX Technology,8-Speed Automatic with Auto-Shift | FWD,30981,FL
+76,699351429,Black Copper Pearl (ext) | Parchment (int),5444,Used 2017 Acura TLX Technology,8-Speed Automatic with Auto-Shift | FWD,32680,AL
+77,694262835,Silver (ext),5458,Used 2017 Acura TLX V6 w/Technology Package,9-Speed Automatic | FWD,31595,NY
+78,694005002,Crystal Black Pearl (ext) | Ebony (int),5479,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,32400,NJ
+79,627570364,White (ext) | Black (int),5494,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,34989,GA
+80,699895727,White (ext),5528,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,24499,CO
+81,699729548,Graystone (int),5531,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26991,TX
+82,698911401,Basque Red Pearl (ext) | Parchment (int),5912,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,29197,TX
+83,697723551,Crystal Black Pearl (ext) | Ebony (int),6047,Certified 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28988,OK
+84,698084560,Silver (ext) | Ebony (int),6109,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26730,FL
+85,681223585,Crystal Black Pearl (ext) | Graystone (int),6128,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25888,NC
+86,699592481,Bellanova White Pearl (ext) | Graystone (int),6152,Certified 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,29491,TX
+87,699592483,Bellanova White Pearl (ext) | Graystone (int),6241,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,27991,TX
+88,694558644,Slate Silver Metallic (ext) | Ebony (int),6320,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,31000,PA
+89,698084549,Blue (ext) | Graystone (int),6535,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26395,FL
+90,693042627,Basque Red Pearl Ii (ext) | Parchment (int),6559,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,31888,NC
+91,698684118,Basque Red Pearl Ii (ext) | Parchment (int),6787,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26250,CA
+92,682535292,Gray (ext),6871,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,27998,CA
+93,694262874,Black (ext),6876,Used 2017 Acura TLX V6 w/Technology Package,9-Speed Automatic | AWD,33995,NY
+94,696595346,Red (ext),6881,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,30609,GA
+95,696645595,Graphite Luster Metallic (ext) | Ebony (int),6954,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24384,FL
+96,697335928,Graphite Luster (ext) | Graystone (int),7105,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,33599,PA
+97,692901383,Gray (ext) | Greystone (int),7131,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27893,AL
+98,699487573,Slate Silver Metallic (ext) | Ebony (int),7184,Certified 2016 Acura TLX V6 Advance,9-Speed Automatic | AWD,37500,NJ
+99,697880949,Bellanova White Pearl (ext) | Greystone (int),7241,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,29000,VA
+100,696488912,Slate Silver Metallic (ext) | Graystone (int),7287,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25992,GA
+101,695096324,Graphite Luster Metallic (ext) | Ebony (int),7296,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,29698,NE
+102,696180084,Graphite Luster Metallic (ext) | Parchment (int),7301,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,30000,TX
+103,676289992,Crystal Black Pearl (ext) | Graystone (int),7399,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23500,NY
+104,677512685,Slate Silver Metallic (ext),7435,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,28749,MO
+105,693555988,Black (ext) | Gray (int),7454,Certified 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,24984,CA
+106,696202375,Bellanova White Pearl (ext) | Graystone (int),7500,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,29999,NC
+107,690660526,Black (ext),7525,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,30287,CO
+108,698684117,Crystal Black Pearl (ext) | Espresso (int),7529,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,31000,CA
+109,699409925,Graphite (ext),7615,Used 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | AWD,29426,VA
+110,699895580,Black (ext),7844,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,24999,CO
+111,699274172,Bellanova White Pearl (ext) | Graystone (int),7913,Certified 2016 Acura TLX Tech,8-Speed Auto-Shift Manual w/OD | FWD,30650,FL
+112,687005798,Graphite Luster Metallic (ext) | Ebony (int),7929,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,26250,GA
+113,699592482,Graphite Luster Metallic (ext) | Graystone (int),7979,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,27991,TX
+114,700239208,Graphite Luster Metallic (ext) | Ebony (int),8012,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,33991,TX
+115,671235657,Graphite Luster Metallic (ext) | Graystone (int),8054,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,25857,FL
+116,697572788,White (ext) | Black (int),8223,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28492,GA
+117,700317598,Blue (ext) | Greystone (int),8282,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27976,VA
+118,699592480,White (ext) | Graystone (int),8299,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,29991,TX
+119,694599318,White (ext),8386,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,21299,CO
+120,690190755,Slate Silver Metallic (ext) | Ebony (int),8449,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,28980,NJ
+121,685661049,Graphite (ext) | Graystone (int),8733,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,25499,NC
+122,692936913,Slate Silver Metallic (ext) | Greystone (int),8913,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,29890,GA
+123,700501471,Bellanova White Pearl (ext) | Espresso (int),8933,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,27200,FL
+124,694807048,Bellanova White Pearl (ext) | Ebony (int),9103,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,30890,GA
+125,697669692,Crystal Black Pearl (ext) | Ebony (int),9179,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,29875,FL
+126,694807121,Graphite Luster Metallic (ext) | Graystone (int),9241,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,30890,GA
+127,677512667,Slate Silver Metallic (ext),9256,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,27449,MO
+128,681223187,Bellanova White Pearl (ext) | Graystone (int),9269,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26888,NC
+129,654764638,Bellanova White Pearl (ext),9283,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26998,FL
+130,696605446,Bellanova White Pearl (ext) | Ebony (int),9385,Used 2016 Acura TLX Base,Automatic | FWD,24300,PA
+131,692974998,Basque Red Pearl Ii (ext) | Parchment (int),9467,Certified 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25490,GA
+132,693379902,Graphite Luster Metallic (ext) | Ebony (int),9490,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,27879,FL
+133,685696764,Black (ext) | Black (int),9500,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,29499,WA
+134,695189489,Fathom Blue Pearl (ext) | Graystone (int),9532,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25165,FL
+135,695347770,Black Copper Pearl (ext) | Parchment (int),9540,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,30000,CA
+136,695036296,Bellanova White Pearl (ext),9664,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24749,CA
+137,695516874,White (ext),9709,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,22888,CA
+138,699666078,Bellanova White Pearl (ext) | Ebony (int),9935,Used 2016 Acura TLX Base,8-Speed Auto-Shift Manual w/OD | FWD,26000,TX
+139,695955041,Bellanova White Pearl (ext) | Gray (int),9999,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,26422,FL
+140,695209211,Black Copper Pearl (ext) | Espresso (int),10254,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,32550,UT
+141,694841357,Slate Silver (ext) | Graystone (int),10427,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,30996,PA
+142,696830563,Maroon (ext) | Parchment (int),10442,Used 2016 Acura TLX V6 Advance,9-Speed Automatic | FWD,33488,TX
+143,697572351,White (ext) | Ebony (int),10585,Certified 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,27992,GA
+144,698466445,Crystal Black Pearl (ext) | Ebony (int),10661,Certified 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,26593,PA
+145,700143164,Graphite Luster Metallic (ext) | Graystone (int),10798,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,32999,OK
+146,695955297,Bellanova White Pearl (ext) | White (int),10863,Certified 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,26060,FL
+147,698046543,Crystal Black Pearl (ext) | Ebony (int),10979,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25726,FL
+148,694156492,Crystal Black Pearl (ext) | Parchment (int),10981,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,28750,VA
+149,699487626,Graphite Luster Metallic (ext) | Ebony (int),11191,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | AWD,32900,NJ
+150,696501795,Black (ext),11197,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic w/OD | FWD,32988,MD
+151,699830091,White (ext) | Gray (int),11317,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28500,NJ
+152,685839818,Black (ext),11423,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,29689,CO
+153,698487243,Crystal Black Pearl (ext) | Ebony (int),11423,Certified 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,26977,CA
+154,698440361,White (ext),11553,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,22999,NV
+155,694641836,Ebony (int),11833,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,31298,TX
+156,698406706,Slate Silver Metallic (ext) | Greystone (int),11862,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27593,PA
+157,700087840,Gray (ext),11967,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,34295,NJ
+158,698210449,Graphite Luster Metallic (ext) | Parchment (int),12165,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25727,NE
+159,699319848,Basque Red Pearl (ext),12492,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | AWD,29900,NJ
+160,696501794,Silver (ext),12574,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | AWD,31988,MD
+161,698406469,Black Copper Pearl (ext) | Parchment (int),12610,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27593,PA
+162,677428765,Fathom Blue Pearl (ext) | Greystone (int),12897,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,28999,NJ
+163,677395754,Fathom Blue Pearl (ext) | Greystone (int),12897,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,28999,NJ
+164,696906530,Black (ext),12994,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,29000,TX
+165,695873694,Crystal Black Pearl (ext) | Ebony (int),13231,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,28888,TX
+166,699269227,Black (ext) | Espresso (int),13349,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,23900,CT
+167,699457466,Slate Silver Metallic (ext) | Ebony (int),13380,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28981,NC
+168,677512722,Bellanova White Pearl (ext),13388,Certified 2016 Acura TLX V6 Advance,9-Speed Automatic | FWD,33849,MO
+169,698315940,Silver (ext) | Graystone (int),13590,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,30599,CA
+170,698724608,Bellanova White Pearl (ext) | Graystone (int),13662,Used 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | FWD,30000,WA
+171,697960309,Brown (ext),13753,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,28595,NY
+172,697278049,Crystal Black Pearl (ext) | Ebony (int),13961,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | AWD,31988,ID
+173,686089974,Black (ext),14024,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,21499,CO
+174,698336196,White (ext),14125,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,27900,AR
+175,680424513,Bellanova White Pearl (ext) | Parchment (int),14170,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,25997,NJ
+176,700560832,Fathom Blue Pearl (ext) | Greystone (int),14260,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24981,NC
+177,691719739,Slate Silver Metallic (ext) | Greystone (int),14262,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,30488,MD
+178,697895783,Bellanova White Pearl (ext) | Graystone (int),14272,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,25993,FL
+179,699963328,Black (ext),14294,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,27776,AZ
+180,698728911,Blue (ext),14520,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24249,MI
+181,700221482,Slate Silver Metallic (ext) | Ebony (int),14524,Used 2016 Acura TLX V6 Advance,9-Speed Automatic | AWD,33352,NJ
+182,698263103,Black (ext),14653,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28888,NY
+183,700738852,Silver (ext) | Black Leather (int),14788,Used 2015 Acura TLX V6,Automatic | FWD,28995,NJ
+184,697035469,Red (ext) | Tan (int),14823,Certified 2016 Acura TLX V6,Automatic | FWD,29500,VA
+185,697369809,Bellanova White Pearl (ext) | Espresso (int),15010,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | FWD,29495,NJ
+186,696279879,Slate Silver Metallic (ext) | Greystone (int),15032,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27780,GA
+187,698561075,White (ext) | Espresso (int),15227,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,30363,FL
+188,696639339,Silver (ext),15315,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,27000,AR
+189,671007111,Black Copper Pearl (ext) | Greystone (int),15350,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,24995,NJ
+190,680225070,Graphite Luster Metallic (ext) | Ebony (int),15485,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,24990,TX
+191,679548877,Crystal Black Pearl (ext),15693,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,29477,AZ
+192,699212364,Graphite Luster Metallic (ext) | Ebony (int),15820,Used 2015 Acura TLX V6 Advance,9-Speed Automatic w/OD | FWD,29999,NJ
+193,679168453,Crystal Black Pearl (ext) | Ebony (int),16107,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,29998,TN
+194,699194261,Black Copper Pearl (ext) | Tan (int),16496,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,24900,TX
+195,700537301,Bellanova White Pearl (ext) | Greystone (int),16581,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,28788,KS
+196,698408834,Graphite Luster Metallic (ext),16738,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,29000,TX
+197,699665980,Crystal Black Pearl (ext) | Ebony (int),16850,Certified 2015 Acura TLX Base,Automatic | FWD,24000,TX
+198,688114850,Fathom Blue Pearl (ext),16969,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,19999,CO
+199,695906039,White (ext) | Espresso (int),17000,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,31900,KS
+200,699183378,Fathom Blue Pearl (ext) | Graystone (int),17687,Certified 2016 Acura TLX V6 Advance,9-Speed Automatic | FWD,33500,KS
+201,700636730,White (ext) | Brown (int),17790,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27991,GA
+202,697338070,Crystal Black Pearl (ext) | Black (int),17817,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,30499,CO
+203,687239591,Brown (ext) | Maroon (int),18167,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23837,FL
+204,697243971,White (ext) | Brown (int),18197,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,28595,OH
+205,696684001,Graphite Luster Metallic (ext) | Espresso (int),18243,Used 2016 Acura TLX,8-Speed Automatic with Auto-Shift | FWD,26598,NC
+206,696729475,Graphite Luster Metallic (ext) | Espresso (int),18243,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26598,GA
+207,691342701,Graphite Luster Metallic (ext) | Greystone (int),18396,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,24999,GA
+208,678898589,Graphite Luster Metallic (ext) | Ebony (int),18428,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | AWD,29995,NJ
+209,697630866,Graphite Luster Metallic (ext) | Ebony (int),18575,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27565,VA
+210,692884261,Bellanova White Pearl (ext) | Ebony (int),18712,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,28977,LA
+211,700654612,Gray (ext) | Gray (int),18788,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23991,FL
+212,697052274,Black (ext) | Ebony (int),19139,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,29000,CT
+213,699967236,Crystal Black Pearl (ext) | Ebony (int),19741,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,28989,GA
+214,698809975,Graphite Luster Metallic (ext) | Graystone (int),19809,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26800,NC
+215,700136772,8-Speed Automatic with Auto-Shift | FWD,20052,Used 2016 Acura TLX Base,Bellanova White Pearl (ext) | Espresso (int),25696,NY
+216,696552254,Black (ext),21683,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23993,TX
+217,699542461,Black (ext) | Espresso (int),21856,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,23900,DE
+218,698119649,Gray (ext),22618,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,27000,OR
+219,699424565,Fathom Blue Pearl (ext) | Greystone (int),22693,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23968,OH
+220,697452581,Crystal Black Pearl (ext) | Beige (int),22812,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,23393,TX
+221,699906077,White (ext),23072,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,26000,MA
+222,695277998,Slate Silver Metallic (ext),23302,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,26000,TX
+223,695660564,Graphite Luster Metallic (ext) | Ebony (int),23793,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,25652,NH
+224,693312779,Crystal Black Pearl (ext) | Espresso (int),23912,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,24998,IL
+225,699887625,Slate Silver Metallic (ext) | Ebony (int),23935,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24791,PA
+226,682611832,White (ext) | Brown (int),23950,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,27999,WA
+227,699516948,White (ext) | Gray (int),24073,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,28818,AL
+228,697912906,Black Copper Pearl (ext) | Espresso (int),24078,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | AWD,29983,NC
+229,698186416,Black Copper Pearl (ext) | Espresso (int),24102,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27998,GA
+230,699934057,Black (ext),24244,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24749,MO
+231,699069857,Other (ext),24643,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23916,CA
+232,681028484,Graphite Luster Metallic (ext) | Ebony (int),25136,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,28995,UT
+233,700000744,Crystal Black Pearl (ext) | Espresso (int),25190,Used 2015 Acura TLX Tech,8-Speed Auto-Shift Manual w/OD | FWD,24397,TX
+234,695704497,Black Copper Pearl (ext) | Ebony (int),25245,Used 2016 Acura TLX Tech,8-Speed Auto-Shift Manual w/OD | FWD,23123,TX
+235,699711915,Black (ext) | Gray (int),25326,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,23999,GA
+236,700203010,Crystal Black Pearl (ext),25401,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23479,FL
+237,688056660,Brown (ext) | Espresso (int),25770,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,21995,CT
+238,697440331,Black Copper Pearl (ext) | Espresso (int),26044,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,28995,AL
+239,696109843,Bellanova White Pearl (ext) | Ebony (int),26559,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,20982,FL
+240,699335822,Crystal Black Pearl (ext) | Espresso (int),26664,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,26598,FL
+241,699927802,Gray (ext) | Black (int),27125,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,19980,NY
+242,699038030,Basque Red Pearl Ii (ext) | Parchment (int),27226,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,26000,FL
+243,698266315,Slate Silver Metallic (ext) | Ebony (int),27234,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,23995,NJ
+244,699857982,Crystal Black Pearl (ext) | Espresso (int),27625,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26000,OR
+245,684934541,Black (ext) | Black (int),27775,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,23998,FL
+246,694591677,Slate Silver Metallic (ext) | Graystone (int),28013,Used 2015 Acura TLX V6 Advance,9-Speed Automatic w/OD | FWD,28907,TN
+247,698512225,Bellanova White Pearl (ext) | Ebony (int),28195,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,25995,NJ
+248,698002448,Gray (ext) | Black (int),28241,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,26492,MD
+249,696108536,Crystal Black Pearl (ext) | Ebony (int),28261,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,25401,NJ
+250,700194063,Black (ext) | Gray Leather (int),28362,Used 2015 Acura TLX V6 Advance,9-Speed Automatic w/OD | FWD,29495,NJ
+251,696997450,Graphite Luster Metallic (ext) | Greystone (int),28383,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,27900,TX
+252,694521502,Crystal Black Pearl (ext) | Graphite (int),28386,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25990,KS
+253,692870309,Graphite Luster Metallic (ext) | Espresso (int),28616,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28899,TN
+254,700136905,Crystal Black Pearl (ext) | Ebony (int),28717,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24473,OH
+255,698299626,Bellanova White Pearl (ext) | Greystone (int),28867,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,25500,NY
+256,698128096,Crystal Black Pearl (ext) | Ebony (int),29161,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,25490,MN
+257,700700540,White (ext) | Black (int),29190,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,24981,CA
+258,698481972,Black Copper Pearl (ext) | Parchment (int),29396,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,29800,NJ
+259,699776929,White (ext) | Gray (int),29411,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23988,MO
+260,698321463,Crystal Black Pearl (ext) | Ebony (int),29759,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,24300,TX
+261,692934059,Gray (ext) | Gray (int),29874,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,22995,CT
+262,698878184,Graphite (ext) | Ebony (int),29901,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,27549,OH
+263,699537341,Graphite Luster Metallic (ext),30203,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,25991,VA
+264,697816253,Crystal Black Pearl (ext) | Espresso (int),30284,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,27491,TX
+265,698575507,Bellanova White Pearl (ext) | Graystone (int),30457,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23982,TX
+266,699865176,White (ext) | Brown (int),30633,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,21495,OH
+267,699310093,Black Copper Pearl (ext) | Parchment (int),30696,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,24990,TX
+268,692318942,Crimson Garnet (ext) | Tan (int),30699,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,25496,PA
+269,688868594,Graphite Luster Metallic (ext),31136,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,25998,TX
+270,700478642,Ebony (int),31779,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,23250,FL
+271,697085611,White (ext),31969,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,23990,FL
+272,695480280,Bellanova White Pearl (ext) | Greystone (int),32160,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24000,PA
+273,700445268,Slate Silver Metallic (ext) | Greystone (int),32700,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,29950,ID
+274,696941728,Crystal Black Pearl (ext) | Ebony (int),32838,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,27493,MN
+275,698806309,Fathom Blue Pearl (ext) | Greystone (int),32860,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25325,PA
+276,696716412,Gray (ext),32928,Certified 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,26125,AR
+277,698444888,Black (ext),33267,Certified 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25700,AR
+278,696782586,Blue (ext) | Gray (int),33653,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,21995,CT
+279,700478678,Crystal Black Pearl (ext) | Ebony (int),34430,Used 2015 Acura TLX,8-Speed Automatic with Auto-Shift | FWD,22500,WI
+280,699804820,Gray (ext) | Greystone (int),34537,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28999,CA
+281,700436723,Crystal Black Pearl (ext) | Espresso (int),35042,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,26995,NC
+282,699292864,Black Copper Pearl (ext) | Espresso (int),35207,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25981,NC
+283,698151117,White (ext) | Black (int),35552,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,22982,VA
+284,700054076,Graphite Luster Metallic (ext) | Greystone (int),35797,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,27634,NJ
+285,693759897,Crystal Black Pearl (ext) | Ebony (int),36001,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,25788,WA
+286,700275796,Slate Silver Metallic (ext) | Ebony (int),36375,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23500,MD
+287,698742815,Bellanova White Pearl (ext) | Ebony (int),36507,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,24998,NJ
+288,688026013,Crystal Black Pearl (ext) | Espresso (int),36624,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,27694,CO
+289,699169097,Black (ext),36974,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,27490,VA
+290,699863977,Crystal Black (ext),37391,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,24991,KY
+291,698316042,Black (ext),37497,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,27208,OH
+292,699517302,9-Speed Automatic | FWD,37563,Used 2015 Acura TLX V6 Tech,Crystal Black Pearl (ext) | Black (int),24000,TN
+293,698115088,Bellanova White Pearl (ext),38901,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,24992,SC
+294,698730842,Bellanova White Pearl (ext) | Espresso (int),39054,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,26997,GA
+295,700453715,Black (ext) | Brown (int),39121,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,23991,VA
+296,699912202,Black Copper Pearl (ext) | Espresso (int),39219,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,27900,PA
+297,694274819,Black (ext) | Ebony (int),39442,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,25582,AL
+298,698843493,8-Speed Automatic with Auto-Shift | FWD,39476,Used 2015 Acura TLX Tech,Graphite Luster Metallic (ext) | Ebony (int),23800,AL
+299,691237365,Basque Red Pearl Ii (ext) | Parchment (int),39984,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,24969,WA
+300,689195920,8-Speed Automatic with Auto-Shift | FWD,40022,Used 2015 Acura TLX Base,Crystal Black Pearl (ext) | Ebony (int),23499,IN
+301,698745969,Black Copper Pearl (ext) | Espresso (int),42365,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,22991,PA
+302,699356134,Black (ext),42687,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,23250,NY
+303,699032627,Crystal Black Pearl (ext) | Ebony (int),43038,Used 2015 Acura TLX V6 Advance,9-Speed Automatic w/OD | FWD,26995,PA
+304,699355825,Graphite Luster Metallic (ext) | Ebony (int),43228,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,22750,NY
+305,697644039,Black (ext) | Tan (int),43492,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,22995,TX
+306,691962208,White (ext) | Ebony (int),44931,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,21499,CA
+307,689118459,Crystal Black Pearl (ext) | Ebony (int),45004,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,22988,TX
+308,698635414,Graphite Luster Metallic (ext) | Graystone (int),45127,Used 2015 Acura TLX Base,Automatic | FWD,21992,TX
+309,699866018,Fathom Blue Pearl (ext) | Black (int),45833,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,22727,FL
+310,698889957,Gray (ext),46210,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | FWD,25500,VA
+311,677529619,Slate Silver Metallic (ext),46700,Used 2015 Acura TLX,8-Speed Automatic with Auto-Shift | FWD,20995,MA
+312,693702722,Gray (ext) | Gray (int),48182,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,22595,TX
+313,694893616,Red (ext),49209,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,20995,TX
+314,699991019,Black (ext),50026,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,25000,GA
+315,698436563,Gray (ext),50556,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,24951,CA
+316,699999206,Gray (ext) | Black (int),51807,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,18900,NY
+317,695314208,White (ext),54366,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25000,WA
+318,698220166,Bellanova White Pearl (ext) | Tan (int),55206,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,21991,GA
+319,697567629,Fathom Blue Pearl (ext) | Greystone (int),55875,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | AWD,25995,VA
+320,698903941,Crystal Black Pearl (ext) | Espresso (int),55883,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,22900,CT
+321,700368557,Black (ext) | Ebony (int),58399,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,20856,GA
+322,698244928,Black (ext) | Black (int),59900,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,23900,MD
+323,695239454,Bellanova White Pearl (ext) | Parchment (int),60680,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,23500,NC
+324,700068930,Black (ext) | Gray (int),62201,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,22900,MD
+325,699310039,Black (ext),65705,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,20490,NY
+326,685008330,Graphite Luster Metallic (ext) | Greystone (int),1,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,26000,NY
+327,691699597,Crystal Black Pearl (ext) | Ebony (int),1624,Used 2017 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,27990,PA
+328,699914930,Graphite (ext),1718,Certified 2017 Acura TLX Technology,8-Speed Automatic with Auto-Shift | FWD,28998,NJ
+329,700323064,Crystal Black Pearl (ext) | Espresso (int),2827,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,29999,PA
+330,687136874,Crystal Black Pearl (ext),3429,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,22499,UT
+331,666842643,Crystal Black Pearl (ext) | Ebony (int),3907,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,31183,NY
+332,696725454,Black (ext) | Espresso (int),5057,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24999,VA
+333,699949081,Lunar Silver (ext) | Lunar (int),5082,Certified 2017 Acura TLX V6 w/Technology Package,9-Speed Automatic | AWD,34988,PA
+334,655986560,Crystal Black Pearl (ext) | Ebony (int),6148,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,29795,NY
+335,699915704,Bellanova White Pearl (ext) | Graystone (int),6168,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,29000,OH
+336,694262853,Blue (ext),6654,Used 2017 Acura TLX Technology,8-Speed Automatic with Auto-Shift | FWD,28995,NY
+337,697114459,Graphite Luster Metallic (ext),6750,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,22999,UT
+338,652526069,Bellanova White Pearl (ext),6849,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,30998,FL
+339,695633796,Fathom Blue Pearl (ext) | Graystone (int),6855,Used 2016 Acura TLX,8-Speed Automatic with Auto-Shift | FWD,26999,GA
+340,699776296,Basque Red Pearl Ii (ext) | Graystone (int),7813,Certified 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,27687,NJ
+341,694262724,Black (ext),7859,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,27995,NY
+342,694262729,White (ext),7959,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,27995,NY
+343,696352655,Slate Silver Metallic (ext) | Ebony (int),8178,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25817,CO
+344,680023293,Slate Silver Metallic (ext),9336,Used 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | AWD,29799,NY
+345,696094521,Basque Red Pearl Ii (ext) | Parchment (int),11262,Used 2016 Acura TLX V6 Advance,9-Speed Automatic | AWD,33465,IL
+346,693555831,Black (ext) | Brown (int),11425,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,28984,CA
+347,695528784,Graphite Luster Metallic (ext),11992,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,20999,NV
+348,691892494,Graphite (ext),12086,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,27593,KS
+349,694262855,White (ext),12450,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,29995,NY
+350,694262845,White (ext),12459,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,27595,NY
+351,691892450,Copper (ext) | Parchment (int),13537,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,27993,KS
+352,699776297,Bellanova White Pearl (ext) | Espresso (int),13793,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,28497,NJ
+353,694174469,Gray (ext),14300,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,20999,CO
+354,699776299,Black Copper Pearl (ext) | Ebony (int),14518,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,29497,NJ
+355,684483382,Bellanova White Pearl (ext) | Greystone (int),14936,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,27990,NY
+356,697986791,Blue (ext),15300,Certified 2015 Acura TLX Base,8-Speed Auto-Shift Manual w/OD | FWD,23988,MD
+357,698263105,9-Speed Automatic | FWD,15507,Certified 2015 Acura TLX V6,Red (ext),27288,CO
+358,699016505,Bellanova White Pearl (ext) | Ebony (int),18098,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,28997,NJ
+359,694961058,Crystal Black Pearl (ext) | Ebony (int),18491,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24998,PA
+360,697286772,Graphite Luster Metallic (ext) | Greystone (int),19567,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,29980,TX
+361,698107070,Bellanova White Pearl (ext) | Ebony (int),19780,Used 2015 Acura TLX,8-Speed Automatic with Auto-Shift | FWD,24672,AZ
+362,696024902,Black (ext),20578,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,23500,MI
+363,691500547,Graphite Luster Metallic (ext) | Espresso (int),21730,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,26995,GA
+364,697350526,White (ext) | Gray (int),23355,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,26945,WA
+365,694750995,Black (ext) | Ebony (int),25067,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,25600,OR
+366,698295292,Brown (ext) | Parchment (int),25688,Certified 2015 Acura TLX V6,9-Speed Automatic | FWD,24882,CA
+367,699229828,Graphite Luster Metallic (ext),28130,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23988,CA
+368,685376053,Crystal Black Pearl (ext) | Ebony (int),30686,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,27969,NY
+369,697625889,White (ext),31388,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,28492,TN
+370,699189430,Gray (ext) | Black (int),31593,Used 2015 Acura TLX V6 Tech,Automatic | FWD,27000,CA
+371,697986809,Blue (ext),32633,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic w/OD | AWD,28988,MD
+372,694292506,Silver (ext),34715,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,24798,KS
+373,700356056,Crystal Black Pearl (ext),36526,Used 2015 Acura TLX Base,9-Speed Automatic | FWD,26485,IL
+374,697971229,Bellanova White Pearl (ext) | Graystone (int),0,Used 2016 Acura TLX V6 Advance,9-Speed Automatic | FWD,42600,AZ
+375,677927267,Modern Steel (ext) | Graystone (int),2,Used 2017 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,32840,AZ
+376,682845025,Silver Metallic (ext) | Graystone (int),2,Used 2017 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,32840,AZ
+377,681464941,Modern Steel (ext) | Ebony (int),2,Used 2017 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,32840,AZ
+378,678613601,Blue Pearl (ext) | Graystone (int),2,Used 2017 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,32840,AZ
+379,682845142,Blue Pearl (ext) | Graystone (int),2,Used 2017 Acura TLX Technology,8-Speed Automatic with Auto-Shift | FWD,36890,AZ
+380,677927255,Silver Metallic (ext) | Graystone (int),2,Used 2017 Acura TLX V6 w/Technology Package,9-Speed Automatic | FWD,40340,AZ
+381,683224703,Black (ext) | Ebony (int),2,Used 2017 Acura TLX V6 w/Technology Package,9-Speed Automatic | FWD,40340,AZ
+382,681464944,Bellanova White Pearl (ext) | Graystone (int),2,Used 2017 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,32840,AZ
+383,678887253,San Marino Red (ext) | Parchment (int),2,Used 2017 Acura TLX V6 w/Technology Package,9-Speed Automatic | FWD,40340,AZ
+384,681464814,Bellanova White Pearl (ext) | Espresso (int),2,Used 2017 Acura TLX V6 w/Technology Package,9-Speed Automatic | FWD,40340,AZ
+385,678887307,Copper (ext) | Parchment (int),2,Used 2017 Acura TLX V6,9-Speed Automatic | FWD,36290,AZ
+386,678887261,Silver Metallic (ext) | Graystone (int),3,Used 2017 Acura TLX V6,9-Speed Automatic | FWD,36290,AZ
+387,682737066,Bellanova White Pearl (ext) | Espresso (int),4,Used 2017 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,32840,AZ
+388,686748282,Slate Silver Metallic (ext) | Ebony (int),1699,Certified 2016 Acura TLX V6,Automatic | FWD,30326,PA
+389,677927243,White (ext) | Greystone (int),4362,Used 2017 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,27899,AZ
+390,699641133,Bellanova White Pearl (ext) | Ebony (int),4587,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,32397,IL
+391,690845897,Bellanova White Pearl (ext) | Espresso (int),4858,Certified 2015 Acura TLX V6 Tech,Automatic | FWD,28846,PA
+392,671235266,Crystal Black Pearl (ext) | Ebony (int),5253,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,26474,FL
+393,671235889,Crystal Black Pearl (ext) | Ebony (int),5496,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,30699,FL
+394,699311550,Bellanova White Pearl (ext) | Espresso (int),5814,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,28699,OK
+395,697812380,Crystal Black Pearl (ext) | Ebony (int),5913,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,27580,NJ
+396,687136727,Fathom Blue Pearl (ext),6163,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,20399,UT
+397,697803995,Bellanova White Pearl (ext),7369,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,20999,UT
+398,699441840,Graphite (ext) | Ebony (int),8244,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,34998,MD
+399,662324505,Crystal Black Pearl (ext) | Parchment (int),8585,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,25699,FL
+400,688417534,Slate Silver Metallic (ext) | Greystone (int),8793,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25800,OK
+401,699814554,Bellanova White Pearl (ext) | Ebony (int),9166,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | AWD,29500,NY
+402,688141566,Gray (ext),9259,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,22799,CO
+403,694948778,Gray (ext),11047,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic w/OD | FWD,28988,MD
+404,698046995,Black (ext) | Black (int),11104,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,31500,CT
+405,695111470,Basque Red Pearl Ii (ext) | Parchment (int),11414,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,27976,NY
+406,696501797,Black (ext),11987,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | FWD,29988,MD
+407,699703780,Crystal Black Pearl (ext) | Graystone (int),12234,Used 2015 Acura TLX V6,9-Speed Automatic w/OD | FWD,27999,NJ
+408,699828106,Bellanova White Pearl (ext) | Greystone (int),12253,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28940,MO
+409,698046985,Silver (ext) | Ebony (int),13783,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | AWD,33988,CT
+410,696589285,Slate Silver Metallic (ext) | Graystone (int),13786,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,29854,CA
+411,693966867,Graphite Luster Metallic (ext) | Greystone (int),13801,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,27697,NY
+412,691818901,Black (ext),13995,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | FWD,28988,MD
+413,695928790,Black Copper Pearl (ext) | Parchment (int),14211,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27383,PA
+414,698913215,Crystal Black Pearl (ext) | Parchment (int),14744,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,29999,NC
+415,697556358,Blue (ext) | Greystone (int),15534,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,31000,CT
+416,698753508,Silver (ext),16152,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,27997,NV
+417,693662836,Bellanova White Pearl (ext),16563,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,29277,CA
+418,698993595,Crystal Black Pearl (ext) | Black (int),17705,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,27900,PA
+419,693656161,Graphite Luster Metallic (ext) | Greystone (int),18711,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,26574,NY
+420,693677119,White (ext),20073,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,21899,CO
+421,697686411,Graphite Luster Metallic (ext) | Greystone (int),20432,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24303,NY
+422,697044490,Slate Silver Metallic (ext),22634,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,29788,OK
+423,698404317,Black (ext) | Brown (int),24676,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,22193,MA
+424,699814532,Graphite Luster Metallic (ext) | Greystone (int),25000,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | AWD,28500,NY
+425,698319733,Black (ext) | Ebony (int),26205,Certified 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,24588,IL
+426,698941387,Black Copper Pearl (ext),27380,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,26888,WA
+427,697712950,White (ext) | Espresso (int),28144,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,27689,PA
+428,682404065,Slate Silver Metallic (ext) | Ebony (int),29190,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,25500,NY
+429,694595947,Bellanova White Pearl (ext),30341,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,21299,UT
+430,675369531,Crystal Black Pearl (ext) | Ebony (int),30625,Used 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | FWD,28499,PA
+431,696858042,Bellanova White Pearl (ext) | Greystone (int),31929,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,23341,OH
+432,690930612,Graphite Luster Metallic (ext) | Ebony (int),32486,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24000,NY
+433,697414796,Fathom Blue Pearl (ext) | Greystone (int),36922,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,23609,MA
+434,694890498,Fathom Blue Pearl (ext) | Parchment (int),48975,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,20983,OH
+435,700616275,Black (ext) | Black (int),55926,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,19793,MA
+436,699783964,Crystal Black Pearl (ext) | Ebony (int),66471,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,21988,PA
+437,698031528,Bellanova White Pearl (ext) | Graystone (int),0,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,33000,AZ
+438,688774568,Crystal Black Pearl (ext) | Espresso (int),0,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,32591,AZ
+439,670340226,Graphite (ext) | Graystone (int),2,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,36690,AZ
+440,679722521,San Marino Red (ext) | Parchment (int),2,Used 2017 Acura TLX V6,9-Speed Automatic | FWD,36290,AZ
+441,684089044,Black (ext) | Ebony (int),2,Used 2017 Acura TLX V6 w/Technology Package,9-Speed Automatic | FWD,40340,AZ
+442,682736973,Modern Steel (ext) | Ebony (int),2,Used 2017 Acura TLX V6,9-Speed Automatic | FWD,36290,AZ
+443,676805867,Bellanova White Pearl (ext) | Graystone (int),2,Used 2017 Acura TLX Technology,8-Speed Automatic with Auto-Shift | FWD,36890,AZ
+444,679722484,Black (ext),2,Used 2017 Acura TLX Technology,8-Speed Automatic with Auto-Shift | FWD,36890,AZ
+445,677927367,San Marino Red (ext) | Ebony (int),2,Used 2017 Acura TLX Technology,8-Speed Automatic with Auto-Shift | FWD,36890,AZ
+446,663081149,Fathom Blue Pearl (ext) | Graystone (int),50,Used 2016 Acura TLX V6 Tech,9-Speed Automatic w/OD | FWD,34900,ID
+447,682535484,9-Speed Automatic | FWD,1882,Used 2015 Acura TLX V6 Tech,Basque Red Pearl Ii (ext) | Parchment (int),27998,AZ
+448,699335601,Fathom Blue Pearl (ext) | Graystone (int),3285,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,29146,NY
+449,689062438,Fathom Blue Pearl (ext) | Graystone (int),3638,Certified 2016 Acura TLX Base,8-Speed Auto-Shift Manual w/OD | FWD,27900,ID
+450,699728793,San Marino Red (ext) | Parchment (int),4369,Certified 2017 Acura TLX V6 w/Technology Package,9-Speed Automatic | FWD,30128,PA
+451,667050389,Blue (ext),5759,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,31000,AZ
+452,697346083,San Marino Red (ext),6127,Used 2017 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,28491,FL
+453,698667391,Basque Red Pearl Ii (ext) | Parchment (int),6386,Used 2016 Acura TLX V6 Tech,Automatic | FWD,30528,NY
+454,698667379,Graphite Luster Metallic (ext) | Ebony (int),6546,Certified 2016 Acura TLX V6 Tech,Automatic | FWD,30528,NY
+455,697574066,Bellanova White Pearl (ext) | Espresso (int),6969,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,30641,WA
+456,700318740,Gray (ext) | Black (int),7778,Certified 2017 Acura TLX V6 w/Technology Package,9-Speed Automatic | FWD,32830,NJ
+457,699061091,Graphite Luster Metallic (ext) | Ebony (int),8329,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,29900,IL
+458,684281639,Black Copper Pearl (ext) | Parchment (int),8369,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,34998,MS
+459,699441845,Crystal Black Pearl (ext) | Ebony (int),8832,Certified 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,30998,MD
+460,694610751,Basque Red Pearl Ii (ext) | Parchment (int),10234,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,28049,NY
+461,700722596,8-Speed Automatic with Auto-Shift | FWD,10369,Used 2015 Acura TLX Base,White (ext) | Espresso (int),23500,NY
+462,694013538,Crystal Black Pearl (ext) | Ebony (int),10648,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,27517,NY
+463,694180719,Slate Silver Metallic (ext) | Ebony (int),10669,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,30398,IL
+464,682876929,Graphite Luster Metallic (ext) | Ebony (int),11461,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,24734,NY
+465,696534663,Basque Red Pearl Ii (ext) | Parchment (int),11789,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28000,AZ
+466,682655455,Graphite Luster Metallic (ext) | Ebony (int),13148,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,23985,NY
+467,695034837,Basque Red Pearl Ii (ext) | Parchment (int),13472,Certified 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,23994,NJ
+468,699789251,Crystal Black Pearl (ext) | Graystone (int),15059,Certified 2015 Acura TLX Tech,Automatic | FWD,24894,PA
+469,697629220,Graphite Luster Metallic (ext) | Ebony (int),16084,Used 2016 Acura TLX,8-Speed Automatic with Auto-Shift | FWD,25681,CA
+470,696774269,Graphite Luster Metallic (ext) | Ebony (int),16221,Used 2016 Acura TLX V6 Tech,9-Speed Automatic w/OD | AWD,28424,MD
+471,692476708,Black (ext),19570,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,19199,CO
+472,698645186,Brown (ext) | Parchment (int),19859,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,26500,MA
+473,697133049,Graphite Luster Metallic (ext) | Ebony (int),21568,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,31500,AR
+474,700311862,Black Copper Pearl (ext) | Parchment (int),27970,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,24900,GA
+475,695446924,Black Copper Pearl (ext) | Parchment (int),37623,Certified 2015 Acura TLX,8-Speed Automatic with Auto-Shift | FWD,22000,AZ
+476,698031524,Graphite Luster Metallic (ext) | Greystone (int),43745,Certified 2015 Acura TLX,8-Speed Automatic with Auto-Shift | FWD,23000,AZ
+477,697584127,White (ext) | Graystone (int),44462,Used 2015 Acura TLX Base,8-Speed Auto-Shift Manual w/OD | FWD,22500,MI
+478,694983280,Graphite Luster Metallic (ext) | Ebony (int),17,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,36491,AZ
+479,680687263,Graphite Luster Metallic (ext) | Ebony (int),50,Used 2016 Acura TLX V6 Tech,9-Speed Automatic w/OD | FWD,34900,ID
+480,698636695,Bellanova White Pearl (ext) | Espresso (int),1824,Certified 2017 Acura TLX Base,Automatic | FWD,29894,PA
+481,694818448,Slate Silver Metallic (ext) | Ebony (int),2330,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic w/OD | FWD,34290,PA
+482,696627595,Bellanova White Pearl (ext) | Ebony (int),2939,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,27599,LA
+483,699914931,Black (ext),3445,Certified 2017 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26998,NJ
+484,699239488,White (ext) | Brown (int),3637,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23250,OH
+485,699437027,White (ext) | Brown (int),3637,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23250,FL
+486,700388207,White (ext) | Brown (int),3637,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23250,PA
+487,699237885,White (ext) | Brown (int),3637,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23250,OH
+488,699996540,White (ext) | Brown (int),3637,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23250,NC
+489,699993262,White (ext) | Brown (int),3637,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23250,TN
+490,699235172,White (ext) | Brown (int),3637,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23250,GA
+491,699288615,White (ext) | Brown (int),3637,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23250,IN
+492,699732497,White (ext) | Brown (int),3637,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23250,PA
+493,699996534,White (ext) | Brown (int),3637,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23250,TN
+494,699220821,White (ext) | Brown (int),3637,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23250,NC
+495,699239751,White (ext) | Brown (int),3637,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23250,TX
+496,699994629,White (ext) | Brown (int),3637,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23250,VA
+497,700385010,White (ext) | Brown (int),3637,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23250,MO
+498,699994682,White (ext) | Brown (int),3637,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23250,AL
+499,699239018,White (ext) | Brown (int),3637,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23250,OH
+500,699991783,White (ext) | Brown (int),3637,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23250,TX
+501,698968504,White (ext) | Brown (int),3637,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23250,TX
+502,699229223,White (ext) | Brown (int),3637,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23250,VA
+503,691920847,White (ext),4182,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,30888,CA
+504,691921197,White (ext),5046,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,28288,CA
+505,699856263,Modern Steel Metallic (ext) | Ebony (int),5403,Certified 2017 Acura TLX V6 Tech,Automatic | AWD,36995,CT
+506,657501172,Slate Silver Metallic (ext) | Ebony (int),5412,Certified 2016 Acura TLX V6 Tech,Automatic | FWD,32251,PA
+507,697390341,Gray (ext),6375,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,28949,AZ
+508,691920973,Bellanova White Pearl (ext) | Graystone (int),6619,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26288,CA
+509,699877412,White (ext) | Brown (int),7435,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,26500,TX
+510,699845710,White (ext) | Brown (int),7435,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,26500,VA
+511,698238628,White (ext) | Brown (int),7435,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,26500,TX
+512,700108042,White (ext) | Brown (int),7435,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,26500,PA
+513,699441942,Silver Metallic (ext) | Ebony (int),7632,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,27998,MD
+514,699822664,Bellanova White Pearl (ext) | Greystone (int),7912,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,24693,TN
+515,672612844,Crystal Black Pearl (ext) | Espresso (int),8017,Certified 2015 Acura TLX V6 Tech,Automatic | FWD,28770,NY
+516,699441846,Basque Red Pearl Ii (ext) | Parchment (int),8040,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,28998,MD
+517,698031527,Slate Silver Metallic (ext) | Ebony (int),8610,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,28000,AZ
+518,695956473,Slate Silver Metallic (ext) | Ebony (int),8711,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,30888,CA
+519,695693404,Bellanova White Pearl (ext) | Ebony (int),8930,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,28495,NY
+520,695546884,Black (ext),10012,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,22999,CO
+521,696784586,Black (ext) | Graystone (int),10094,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,34000,CT
+522,695189740,Black (ext),10200,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25500,NC
+523,695956387,Slate Silver Metallic (ext) | Graystone (int),11105,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,31500,CA
+524,699822538,Slate Silver Metallic (ext) | Greystone (int),11816,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,26991,TN
+525,699424223,Black Copper Pearl (ext) | Parchment (int),11901,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27999,TX
+526,699822666,Slate Silver Metallic (ext) | Greystone (int),12279,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,26991,TN
+527,693413122,Black (ext) | Ebony (int),12376,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,26995,NY
+528,687890367,Graphite Luster Metallic (ext) | Ebony (int),12479,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,29590,IL
+529,700231506,Crystal Black Pearl (ext) | Ebony (int),12952,Certified 2016 Acura TLX V6 Advance,9-Speed Automatic | FWD,35900,UT
+530,697874676,Crystal Black Pearl (ext) | Greystone (int),15045,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25421,MD
+531,698744792,Fathom Blue Pearl (ext) | Graystone (int),17771,Used 2016 Acura TLX V6 Advance,9-Speed Automatic | FWD,32995,DE
+532,699129435,Black Copper Pearl (ext) | Espresso (int),18969,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | FWD,27990,PA
+533,699212367,Black Copper Pearl (ext) | Espresso (int),19993,Used 2015 Acura TLX V6,9-Speed Automatic w/OD | FWD,27999,NJ
+534,700401901,Dark Gray (ext) | Black (int),22166,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,25500,OH
+535,700388317,Dark Gray (ext) | Black (int),22166,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,25500,PA
+536,700414087,Dark Gray (ext) | Black (int),22166,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,25500,TX
+537,700402970,Dark Gray (ext) | Black (int),22166,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,25500,TX
+538,700392899,Dark Gray (ext) | Black (int),22166,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,25500,VA
+539,700413869,Dark Gray (ext) | Black (int),22166,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,25500,IN
+540,699370453,Gray (ext) | Greystone (int),22766,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23773,NC
+541,693319994,Silver (ext) | Greystone (int),23231,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28995,OR
+542,699677421,Graphite Luster Metallic (ext) | Ebony (int),24056,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | FWD,27991,CT
+543,692476704,Brown (ext),26357,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,21599,CO
+544,694940501,Crystal Black Pearl (ext) | Ebony (int),26740,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | FWD,26555,CT
+545,681099735,Black (ext),29583,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,25988,NE
+546,694179440,Slate Silver Metallic (ext) | Ebony (int),30026,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,22995,IL
+547,699322780,Gray (ext) | Ebony (int),30803,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28691,AR
+548,693031281,Crystal Black Pearl (ext) | Espresso (int),32090,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,29999,CA
+549,696834932,Maroon (ext),34324,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,26929,CA
+550,700213568,Graphite Luster Metallic (ext) | Graystone (int),39860,Used 2015 Acura TLX Base,8-Speed Auto-Shift Manual w/OD | FWD,22588,CT
+551,692733123,White (ext) | Greystone (int),40207,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,24010,WA
+552,700627750,Gray (ext),46726,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,21999,FL
+553,692639566,Bellanova White Pearl (ext) | Graystone (int),0,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,36991,AZ
+554,680687260,Crystal Black Pearl (ext) | Ebony (int),50,Used 2016 Acura TLX Base,8-Speed Auto-Shift Manual w/OD | FWD,28900,ID
+555,680687261,Slate Silver Metallic (ext) | Graystone (int),50,Used 2016 Acura TLX Base,8-Speed Auto-Shift Manual w/OD | FWD,28900,ID
+556,692356855,Basque Red Pearl Ii (ext) | Parchment (int),102,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25577,CO
+557,697133517,Gray (ext),350,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,30975,CA
+558,691920839,Gray (ext) | Ebony (int),4045,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26988,CA
+559,691920980,Fathom Blue Pearl (ext) | Graystone (int),4157,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,30288,CA
+560,691118661,Slate Silver Metallic (ext) | Graystone (int),5335,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic w/OD | FWD,32900,ID
+561,696933304,Brown (ext) | Black (int),6254,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,23699,UT
+562,700405575,Bellanova White Pearl (ext) | Graystone (int),6379,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,33229,AZ
+563,697206699,8-Speed Automatic with Auto-Shift | FWD,6543,Used 2016 Acura TLX Tech,Bellanova White Pearl (ext) | Ebony (int),26993,NC
+564,697272001,Crystal Black (ext) | Ebony (int),7018,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,28488,SC
+565,683759061,White (ext),7163,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,22299,CO
+566,679501840,Bellanova White Pearl (ext),7781,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,36000,MO
+567,699887896,Silver (ext),9520,Certified 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,27988,CA
+568,700101179,White (ext),10888,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,31218,HI
+569,699822659,Crystal Black Pearl (ext) | Ebony (int),11086,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,26650,TN
+570,700077851,Slate Silver Metallic (ext) | Gray (int),11139,Used 2016 Acura TLX Tech,Automatic | FWD,28445,FL
+571,698173475,Graphite Luster Metallic (ext) | Ebony (int),12032,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | FWD,27734,CA
+572,695385708,Bellanova White Pearl (ext) | Ebony (int),13512,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,30677,CO
+573,699890240,Bellanova White Pearl (ext) | Greystone (int),16004,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27750,NY
+574,696260306,Slate Silver Metallic (ext) | Greystone (int),16329,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27600,CA
+575,698518061,White (ext),17264,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,24499,CO
+576,699399637,Graphite Luster Metallic (ext),18052,Used 2015 Acura TLX Base,8-Speed Auto-Shift Manual w/OD | FWD,23995,UT
+577,696727036,Black (ext) | Pewter (int),18480,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | AWD,24995,NY
+578,693093291,Bellanova White Pearl (ext) | Espresso (int),18723,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,25887,NY
+579,695366014,Black Copper Pearl (ext) | Parchment (int),19451,Used 2015 Acura TLX,8-Speed Automatic with Auto-Shift | FWD,24950,OH
+580,697598295,White (ext),20246,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28795,IN
+581,698638687,Basque Red Pearl Ii (ext) | Ebony (int),22952,Used 2015 Acura TLX Tech,Automatic | FWD,25693,PA
+582,700727149,White (ext) | Parchment (int),23774,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,22995,WA
+583,700088401,Silver (ext),25691,Used 2015 Acura TLX Base,8-Speed Auto-Shift Manual w/OD | FWD,23984,UT
+584,696184984,Gray (ext) | Greystone (int),26653,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,22995,NH
+585,682749034,Fathom Blue Pearl (ext) | Graphite (int),29601,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,24995,MA
+586,699818568,Graphite Luster (ext) | Greystone (int),31328,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,26995,FL
+587,700238817,Crystal Black Pearl (ext) | Black (int),32271,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,25996,NH
+588,699652990,Fathom Blue Pearl (ext) | Graystone (int),35840,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,22990,MA
+589,699188104,Black (ext) | Black (int),40186,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,22578,IN
+590,699459441,Graphite Luster Metallic (ext) | Ebony (int),41092,Used 2015 Acura TLX V6,9-Speed Automatic w/OD | FWD,24932,PA
+591,696960104,Crystal Black Pearl (ext) | Ebony (int),52290,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27600,CO
+592,691103527,Graphite Luster Metallic (ext) | Greystone (int),54521,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,22750,UT
+593,698473625,Graphite Luster Metallic (ext),65782,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,21999,IL
+594,694983054,Lunar Silver Metallic (ext) | Ebony (int),0,Used 2017 Acura TLX Technology,8-Speed Automatic with Auto-Shift | FWD,33791,AZ
+595,680687262,Graphite Luster Metallic (ext) | Graystone (int),52,Used 2016 Acura TLX Base,8-Speed Auto-Shift Manual w/OD | FWD,28900,ID
+596,694818453,Bellanova White Pearl (ext) | Graystone (int),2980,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic w/OD | AWD,33490,PA
+597,700318739,White (ext),4756,Certified 2017 Acura TLX V6 w/Technology Package,9-Speed Automatic | FWD,29888,CA
+598,695063956,Slate Silver Metallic (ext) | Graystone (int),4944,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,27500,VA
+599,698301216,Graphite (ext) | Greystone (int),5028,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,27998,MD
+600,681392030,Bellanova White Pearl (ext) | Graystone (int),5236,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,33471,KS
+601,695135998,Whtie (ext),5456,Used 2015 Acura TLX Tech,8-Speed Auto-Shift Manual w/OD | FWD,27490,CA
+602,698101528,Bellanova White Pearl (ext) | Graystone (int),5756,Certified 2016 Acura TLX V6,Automatic | FWD,29894,PA
+603,687686697,Silver (ext),6130,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,31890,IA
+604,688257377,White (ext),6264,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26887,CA
+605,683198602,Crystal Black Pearl (ext) | Ebony (int),6265,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,29595,NY
+606,691920898,Black (ext),6347,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,28288,CA
+607,691921176,Gray (ext),7080,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,30888,CA
+608,699894249,Crystal Black Pearl (ext) | Ebony (int),8017,Used 2016 Acura TLX V6,Automatic | FWD,30151,PA
+609,687312516,Silver (ext),8033,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,29890,IA
+610,687277436,Blue (ext) | Greystone (int),8315,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28795,IL
+611,687738145,Brown (ext),8486,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,31890,IA
+612,695086366,Graphite Luster Metallic (ext),8523,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27988,MN
+613,687277293,Crystal Black (ext) | Ebony (int),9023,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | AWD,28375,IL
+614,688622584,Bellanova White Pearl (ext) | Graystone (int),9213,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,33729,MS
+615,700017606,8-Speed Automatic with Auto-Shift | FWD,9338,Certified 2016 Acura TLX Base,Crystal Black Pearl (ext) | Ebony (int),25481,MD
+616,700443720,Slate Silver Metallic (ext) | Graystone (int),9900,Certified 2016 Acura TLX Tech,8-Speed Auto-Shift Manual w/OD | FWD,29499,CA
+617,686380434,Maroon (ext),9937,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25388,FL
+618,687277291,Crystal Black Pearl (ext) | Ebony (int),10510,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | AWD,30998,IL
+619,697332113,Bellanova White Pearl (ext),10592,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24083,NJ
+620,695412776,9-Speed Automatic | FWD,11153,Certified 2016 Acura TLX V6,Graphite (ext) | Ebony (int),27499,NY
+621,690403568,Bellanova White Pearl (ext) | Ebony (int),13263,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,29072,CA
+622,698814537,Crystal Black Pearl (ext) | Graystone (int),13269,Certified 2015 Acura TLX Base,8-Speed Auto-Shift Manual w/OD | FWD,24986,PA
+623,690930551,Slate Silver Metallic (ext) | Greystone (int),13742,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28500,CA
+624,696607316,Bellanova White Pearl (ext) | Graystone (int),13789,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,28399,MS
+625,697583926,Bellanova White Pearl (ext) | Espresso (int),13893,Certified 2016 Acura TLX Tech,Automatic | FWD,28394,PA
+626,698379394,9-Speed Automatic | AWD,15834,Used 2015 Acura TLX V6 Tech,Black Copper Pearl (ext) | Parchment (int),31000,MD
+627,690117479,Graphite Luster Metallic (ext) | Graystone (int),16600,Certified 2015 Acura TLX Tech,8-Speed Auto-Shift Manual w/OD | FWD,26497,NJ
+628,697906279,Black (ext),18316,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28999,OR
+629,698395861,Silver (ext),18472,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,27765,CT
+630,693347673,Black (ext),18524,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,21999,UT
+631,698450677,Crystal Black Pearl (ext) | Ebony (int),19151,Certified 2016 Acura TLX Tech,Automatic | FWD,27865,CA
+632,695738585,Crystal Black Pearl (ext) | Graystone (int),19926,Used 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | AWD,27299,FL
+633,696301654,Bellanova White Pearl (ext) | Ebony (int),21546,Used 2016 Acura TLX V6 Advance,9-Speed Automatic | FWD,34169,MS
+634,697451890,Black (ext),22663,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | AWD,26749,RI
+635,698856076,White (ext) | Brown (int),24183,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,25252,TX
+636,698037804,Fathom Blue Pearl (ext) | Greystone (int),29188,Certified 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,24999,MA
+637,688390565,Slate Silver Metallic (ext) | Graystone (int),29275,Used 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | FWD,27900,CA
+638,699878546,Basque Red Pearl Ii (ext) | Parchment (int),29298,Certified 2015 Acura TLX V6,9-Speed Automatic | FWD,25500,VA
+639,689237780,Black Copper Pearl (ext) | Parchment (int),30290,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,26500,MO
+640,699893390,Crystal Black Pearl (ext) | Ebony (int),31470,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,28961,KS
+641,696474510,Crystal Black Pearl (ext) | Espresso (int),31510,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,25995,MO
+642,698087643,Black Copper Pearl (ext) | Espresso (int),31628,Certified 2015 Acura TLX V6,9-Speed Automatic | FWD,24500,VA
+643,690069802,Dark Blue (ext),33584,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,27465,OR
+644,698865163,Crystal Black Pearl (ext),34213,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,27733,FL
+645,699106212,Graphite Luster Metallic (ext) | Ebony (int),34857,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | FWD,26995,CA
+646,696793937,Graphite Luster Metallic (ext) | Black (int),36076,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | FWD,25349,CA
+647,698548760,Black Copper Pearl (ext) | Ebony (int),36177,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,23988,SC
+648,699808639,Black (ext) | Ebony (int),44256,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,26977,CT
+649,694982490,Black Copper Pearl (ext) | Parchment (int),0,Used 2017 Acura TLX,8-Speed Automatic with Auto-Shift | FWD,29991,AZ
+650,694982653,Bellanova White Pearl (ext) | Ebony (int),0,Used 2017 Acura TLX,8-Speed Automatic with Auto-Shift | FWD,29991,AZ
+651,694982494,Bellanova White Pearl (ext) | Ebony (int),0,Used 2017 Acura TLX Technology,8-Speed Automatic with Auto-Shift | FWD,33901,AZ
+652,692639568,Bellanova White Pearl (ext) | Gray (int),0,Used 2017 Acura TLX V6 w/Technology Package,9-Speed Automatic | FWD,34991,AZ
+653,698371477,Black (ext),25,Used 2017 Acura TLX Technology,8-Speed Automatic with Auto-Shift | FWD,36994,IL
+654,696435416,Bellanova White Pearl (ext) | Brown (int),1902,Certified 2016 Acura TLX Base,8-Speed Auto-Shift Manual w/OD | FWD,27285,CA
+655,637005752,Black (ext),2659,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,32473,CO
+656,689294357,Bellanova White Pearl (ext),4245,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,30400,CA
+657,696831916,Crystal Black Pearl (ext) | Ebony (int),4692,Certified 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,29288,MA
+658,700226295,Sterling Gray (ext),4740,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,34900,CA
+659,691920978,Blue (ext),5002,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28687,CA
+660,691515226,Black (ext),5024,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,31900,CA
+661,691921048,Bellanova White Pearl (ext) | Graystone (int),5431,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26288,CA
+662,696452106,Modern Steel Metallic (ext) | Graystone (int),6288,Certified 2017 Acura TLX V6,9-Speed Automatic w/OD | FWD,29268,FL
+663,691920848,Basque Red Pearl Ii (ext) | Parchment (int),6320,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26288,CA
+664,688257289,White (ext) | Graystone (int),6410,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,28888,CA
+665,695696010,Crystal Black Pearl (ext) | Ebony (int),7297,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,29980,OR
+666,699970569,Crystal Black Pearl (ext) | Ebony (int),8198,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,28999,MA
+667,688622672,Crystal Black Pearl (ext) | Ebony (int),8534,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,35391,MS
+668,697344842,Crystal Black Pearl (ext) | Ebony (int),8681,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,31000,NJ
+669,691920987,Bellanova White Pearl (ext) | Graystone (int),8687,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26288,CA
+670,688257265,Blue (ext),8713,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26998,CA
+671,691109800,Basque Red Pearl (ext) | Parchment (int),9240,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,23889,OH
+672,688917038,Bellanova White Pearl (ext) | Graystone (int),9387,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,29657,MS
+673,687277292,White (ext) | Ebony (int),9716,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25698,IL
+674,696807202,Copper (ext) | Parchment (int),10077,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,30510,IN
+675,698922859,White (ext) | Ebony (int),10755,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28250,TN
+676,695531870,Bellanova White Pearl (ext) | Parchment (int),11062,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,28881,CA
+677,697924371,White (ext) | Espresso (int),11549,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,28980,CA
+678,697934336,White (ext) | Espresso (int),11549,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,28980,OH
+679,698191117,White (ext) | Espresso (int),11549,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,28980,MD
+680,697921454,White (ext) | Espresso (int),11549,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,29980,FL
+681,697920362,White (ext) | Espresso (int),11549,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,28980,AZ
+682,697930522,White (ext) | Espresso (int),11549,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,28980,TX
+683,697543352,White (ext) | Espresso (int),11549,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,28980,TX
+684,697920918,White (ext) | Espresso (int),11549,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,28980,IL
+685,698182116,White (ext) | Espresso (int),11549,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,28980,PA
+686,697922058,White (ext) | Espresso (int),11549,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,28980,CA
+687,698181141,White (ext) | Espresso (int),11549,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,28980,OH
+688,697922663,White (ext) | Espresso (int),11549,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,28980,CO
+689,698190218,White (ext) | Espresso (int),11549,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,28980,TX
+690,697922641,White (ext) | Espresso (int),11549,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,28980,GA
+691,687311404,Gray (ext),11732,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,23499,CO
+692,696606227,Crystal Black Pearl (ext) | Espresso (int),11915,Certified 2016 Acura TLX V6 Tech,Automatic | FWD,32833,TX
+693,700221481,Bellanova White Pearl (ext) | Graystone (int),12475,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,30000,NJ
+694,697838457,Bellanova White Pearl (ext) | Greystone (int),13568,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26854,MS
+695,699195333,Black (ext) | Brown (int),13810,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28980,CO
+696,699195296,Black (ext) | Brown (int),13810,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28980,GA
+697,699195387,Black (ext) | Brown (int),13810,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28980,CA
+698,699193863,Black (ext) | Brown (int),13810,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28980,TX
+699,699195823,Black (ext) | Brown (int),13810,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28980,PA
+700,699206705,Black (ext) | Brown (int),13810,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28980,TX
+701,699194731,Black (ext) | Brown (int),13810,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28980,AZ
+702,699206782,Black (ext) | Brown (int),13810,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28980,OH
+703,699194767,Black (ext) | Brown (int),13810,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28980,IL
+704,699207476,Black (ext) | Brown (int),13810,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28980,MD
+705,699195056,Black (ext) | Brown (int),13810,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28980,CA
+706,699195309,Black (ext) | Brown (int),13810,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28980,OH
+707,700406975,Slate Silver Metallic (ext) | Graystone (int),13914,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,29771,TX
+708,699124909,Black (ext) | Espresso (int),15000,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28980,MD
+709,699113365,Black (ext) | Espresso (int),15000,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28980,PA
+710,699112576,Black (ext) | Espresso (int),15000,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28980,CA
+711,699120132,Black (ext) | Espresso (int),15000,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28980,TX
+712,699112639,Black (ext) | Espresso (int),15000,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28980,GA
+713,699112763,Black (ext) | Espresso (int),15000,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28980,CO
+714,700705172,Black (ext) | Espresso (int),15000,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28980,MN
+715,699112312,Black (ext) | Espresso (int),15000,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28980,IL
+716,699112227,Black (ext) | Espresso (int),15000,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28980,AZ
+717,699111397,Black (ext) | Espresso (int),15000,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28980,TX
+718,699117199,Black (ext) | Espresso (int),15000,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28980,FL
+719,699112876,Black (ext) | Espresso (int),15000,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28980,CA
+720,694900693,Crystal Black Pearl (ext) | Espresso (int),15378,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic w/OD | FWD,30984,VA
+721,689794247,Fathom Blue Pearl (ext) | Greystone (int),15642,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,28495,AR
+722,699509666,Crystal Black Pearl (ext) | Graystone (int),15746,Certified 2015 Acura TLX V6 Tech,Automatic | FWD,30373,FL
+723,698736073,Crystal Black Pearl (ext) | Espresso (int),17397,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26381,TN
+724,694005234,Bellanova White Pearl (ext) | Parchment (int),18315,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27171,CA
+725,697950678,Black (ext),18688,Certified 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,29883,MD
+726,695335368,Graphite Luster Metallic (ext) | Greystone (int),18978,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,27972,MO
+727,699212363,Crystal Black Pearl (ext) | Espresso (int),19195,Used 2015 Acura TLX V6 Advance,9-Speed Automatic w/OD | FWD,29999,NJ
+728,694900592,Bellanova White Pearl (ext) | Graystone (int),19267,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic w/OD | FWD,30484,VA
+729,696963710,Graphite Luster Metallic (ext) | Ebony (int),19699,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic w/OD | FWD,30484,VA
+730,699075341,Fathom Blue Pearl (ext) | Ebony (int),21046,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25947,PA
+731,697484338,Crystal Black Pearl (ext) | Ebony (int),21769,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,27450,UT
+732,696774886,Crystal Black Pearl (ext) | Ebony (int),21823,Certified 2015 Acura TLX V6 Advance,Automatic | AWD,30655,TX
+733,699869938,Crystal Black Pearl (ext) | Ebony (int),22770,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23999,OK
+734,697456839,Crystal Black Pearl (ext) | Ebony (int),25123,Certified 2015 Acura TLX Tech,8-Speed Auto-Shift Manual w/OD | FWD,25334,WA
+735,695412195,Slate Silver Metallic (ext) | Greystone (int),26385,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,27487,IN
+736,697982299,Gray (ext) | Black (int),27176,Used 2015 Acura TLX V6 Tech,Automatic | FWD,25641,TX
+737,697921455,Blue (ext) | Gray (int),27960,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,26480,FL
+738,697919360,Blue (ext) | Gray (int),27960,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,25780,TX
+739,694751763,Crystal Black Pearl (ext) | Ebony (int),28579,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24006,MD
+740,699255739,9-Speed Automatic | FWD,28776,Certified 2015 Acura TLX V6 Tech,Bellanova White Pearl (ext) | Ebony (int),25771,WV
+741,696252088,Silver (ext),30014,Used 2015 Acura TLX Base,8-Speed Auto-Shift Manual w/OD | FWD,22995,TX
+742,693479665,Slate Silver Metallic (ext) | Ebony (int),31527,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | FWD,25484,VA
+743,699035697,Slate Silver Metallic (ext) | Black (int),32014,Certified 2015 Acura TLX Base,8-Speed Auto-Shift Manual w/OD | FWD,24828,CA
+744,695182134,Bellanova White Pearl (ext) | Greystone (int),32526,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27398,IL
+745,694021301,Crystal Black Pearl (ext),32855,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,22399,NY
+746,696842003,White (ext) | Black (int),33129,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,25490,MA
+747,698753420,Crystal Black Pearl (ext) | Greystone (int),33178,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,22997,IN
+748,699864545,Basque Red Pearl Ii (ext) | Parchment (int),33789,Used 2015 Acura TLX V6,9-Speed Automatic w/OD | FWD,28700,VA
+749,700442142,White (ext),34857,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | AWD,28164,AL
+750,699009853,Black (ext) | Black (int),36384,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25780,IL
+751,699017405,Black (ext) | Black (int),36384,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25780,IN
+752,699011371,Black (ext) | Black (int),36384,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25780,PA
+753,699021740,Black (ext) | Black (int),36384,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25780,TX
+754,699010438,Black (ext) | Black (int),36384,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25780,GA
+755,699009283,Black (ext) | Black (int),36384,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25780,TX
+756,699010594,Black (ext) | Black (int),36384,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25780,MO
+757,699010216,Black (ext) | Black (int),36384,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25780,CA
+758,699010461,Black (ext) | Black (int),36384,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25780,CO
+759,699009743,Black (ext) | Black (int),36384,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25780,AZ
+760,699010706,Black (ext) | Black (int),36384,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25780,CA
+761,699028562,Black (ext) | Black (int),36384,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25780,MD
+762,699667997,Graphite Luster Metallic (ext),37585,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | AWD,29999,NJ
+763,694900591,Crystal Black Pearl (ext) | Ebony (int),37786,Certified 2015 Acura TLX Base,8-Speed Auto-Shift Manual w/OD | FWD,22984,VA
+764,700152132,Crystal Black Pearl (ext) | Ebony (int),39094,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23398,IL
+765,699112749,Black (ext) | Black (int),40377,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,24980,GA
+766,699113367,Black (ext) | Black (int),40377,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,24980,PA
+767,699120209,Black (ext) | Black (int),40377,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,24980,TX
+768,699112520,Black (ext) | Black (int),40377,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,24980,CA
+769,700704854,Black (ext) | Black (int),40377,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,24980,MN
+770,699124988,Black (ext) | Black (int),40377,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,24980,MD
+771,699112820,Black (ext) | Black (int),40377,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,24980,CA
+772,699112762,Black (ext) | Black (int),40377,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,24980,CO
+773,699117128,Black (ext) | Black (int),40377,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,24980,FL
+774,699112427,Black (ext) | Black (int),40377,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,24980,IL
+775,699111396,Black (ext) | Black (int),40377,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,24980,TX
+776,699112226,Black (ext) | Black (int),40377,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,24980,AZ
+777,696741530,Black (ext),42875,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25967,NE
+778,700275805,Crystal Black Pearl (ext) | Ebony (int),43132,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23000,OH
+779,692400844,Graphite Luster Metallic (ext) | Greystone (int),44418,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,25688,FL
+780,697911142,Basque Red Pearl Ii (ext) | Parchment (int),49390,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,23270,TX
+781,692639565,Slate Silver Metallic (ext) | Black (int),0,Used 2017 Acura TLX V6 w/Technology Package,9-Speed Automatic | AWD,37591,AZ
+782,694983445,San Marino Red (ext) | Parchment (int),0,Used 2017 Acura TLX,8-Speed Automatic with Auto-Shift | FWD,29991,AZ
+783,692639563,Crystal Black Pearl (ext) | Ebony (int),0,Used 2016 Acura TLX V6 Advance,9-Speed Automatic | AWD,39791,AZ
+784,697971130,San Marino Red (ext) | Parchment (int),0,Used 2017 Acura TLX,8-Speed Automatic with Auto-Shift | FWD,31900,AZ
+785,692639564,Graphite Luster Metallic (ext) | Ebony (int),0,Used 2016 Acura TLX V6 Advance,9-Speed Automatic | AWD,39791,AZ
+786,692639567,Black Copper Pearl (ext) | Brown (int),0,Used 2017 Acura TLX V6 w/Technology Package,9-Speed Automatic | FWD,34991,AZ
+787,694983001,Modern Steel Metallic (ext) | Greystone (int),0,Used 2017 Acura TLX Technology,8-Speed Automatic with Auto-Shift | FWD,33791,AZ
+788,666469561,Slate Silver Metallic (ext) | Graystone (int),6,Certified 2016 Acura TLX V6,9-Speed Automatic w/OD | FWD,29240,PA
+789,700249755,Graphite Luster Metallic (ext) | Graystone (int),13,Used 2015 Acura TLX Tech,Automatic | FWD,24368,TX
+790,699737284,Black (ext),1799,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,33900,CA
+791,699163269,Slate Silver Metallic (ext),2070,Certified 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,31900,CA
+792,625942520,Slate Silver Metallic (ext),2185,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,32473,CO
+793,696688238,Black (ext),2240,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,29900,CA
+794,700195433,Basque Red Pearl Ii (ext),3002,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,33900,CA
+795,652162182,Graphite Luster Metallic (ext) | Graystone (int),3025,Certified 2016 Acura TLX V6 Advance,9-Speed Automatic | AWD,36900,UT
+796,692105861,8-Speed Automatic with Auto-Shift | FWD,3201,Used 2016 Acura TLX Base,Black (ext) | Ebony (int),25997,IL
+797,697849400,Graphite Luster Metallic (ext) | Graystone (int),3689,Certified 2016 Acura TLX V6,Automatic | FWD,28964,TX
+798,684817354,Black Copper Pearl (ext) | Espresso (int),3732,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | AWD,30495,IL
+799,691715465,Bellanova White Pearl (ext) | Graystone (int),3760,Used 2016 Acura TLX V6,Automatic | FWD,27985,PA
+800,697259834,Fathom Blue Pearl (ext) | Ebony (int),4089,Certified 2017 Acura TLX Technology,8-Speed Automatic with Auto-Shift | FWD,28889,TX
+801,691920884,Black (ext),4229,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26288,CA
+802,696832392,Modern Steel Metallic (ext) | Ebony (int),4306,Certified 2017 Acura TLX V6 w/Technology Package,9-Speed Automatic | FWD,30899,TX
+803,697088913,Crystal Black Pearl (ext) | Ebony (int),4314,Certified 2017 Acura TLX Technology,8-Speed Automatic with Auto-Shift | FWD,28799,TX
+804,698353518,Bellanova White Pearl (ext) | Greystone (int),4366,Used 2016 Acura TLX V6,8-Speed Automatic with Auto-Shift | FWD,29485,TX
+805,698982330,Bellanova White Pearl (ext) | Graystone (int),5174,Certified 2016 Acura TLX V6,Automatic | FWD,31349,TX
+806,698353135,Black Copper Pearl (ext) | Espresso (int),6997,Used 2016 Acura TLX V6 Tech,8-Speed Automatic with Auto-Shift | FWD,29485,TX
+807,693955025,Black (ext) | Espresso (int),7493,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,28910,IL
+808,679337533,Slate Silver Metallic (ext),7698,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,27900,CA
+809,625143683,Black (ext),7960,Used 2015 Acura TLX V6 Tech,Automatic | FWD,29521,CO
+810,700484652,White (ext),8258,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,28399,AR
+811,698594973,Graphite Luster Metallic (ext) | Graystone (int),8946,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,28613,WI
+812,697085535,Bellanova White Pearl (ext) | Ebony (int),8967,Certified 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28990,IL
+813,691921036,Black (ext),9478,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,30288,CA
+814,699287488,Black Copper Pearl (ext) | Espresso (int),9691,Certified 2016 Acura TLX V6 Advance,9-Speed Automatic | AWD,33545,CA
+815,699935487,Crystal Black Pearl (ext) | Ebony (int),9789,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,29990,MA
+816,693955028,9-Speed Automatic | AWD,9798,Used 2016 Acura TLX V6 Advance,Gray (ext),33445,CA
+817,699156243,Crystal Black Pearl (ext) | Ebony (int),9906,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | AWD,30956,CA
+818,698287841,Graphite Luster Metallic (ext) | Graystone (int),9980,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25998,IL
+819,699245132,Bellanova White Pearl (ext) | Ebony (int),10103,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,31789,CA
+820,676245879,Crystal Black Pearl (ext) | Espresso (int),10318,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,33219,AZ
+821,699546246,Black (ext),10538,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,31148,CA
+822,693954770,Black (ext) | Ebony (int),11434,Certified 2016 Acura TLX V6 Advance,9-Speed Automatic | AWD,35991,IL
+823,670824184,Basque Red Pearl Ii (ext),12313,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,26500,CA
+824,699255847,8-Speed Automatic with Auto-Shift | FWD,12494,Certified 2015 Acura TLX Base,Bellanova White Pearl (ext) | Greystone (int),24472,CO
+825,690146545,Gray (ext),12566,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25480,CA
+826,699911553,White (ext),12624,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,26900,VA
+827,698293987,Black (ext) | Ebony (int),12777,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25888,NY
+828,678208441,Black (ext) | Espresso (int),13233,Certified 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25910,IN
+829,693954866,9-Speed Automatic | FWD,13841,Used 2016 Acura TLX V6 Tech,Gray (ext) | Graystone (int),31457,TX
+830,699467526,Graphite Luster Metallic (ext) | Ebony (int),15176,Certified 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,26187,CO
+831,681309322,Crystal Black Pearl (ext),15203,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,31995,HI
+832,689794251,Silver (ext) | Graystone (int),16134,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27495,AR
+833,693375900,Crystal Black Pearl (ext),18246,Certified 2015 Acura TLX V6,9-Speed Automatic | FWD,28900,CA
+834,672061446,Bellanova White Pearl (ext),18323,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,29900,CA
+835,696616344,Graphite Luster Metallic (ext),18855,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,29900,CA
+836,693473070,Black Copper Pearl (ext) | Espresso (int),19065,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,27965,MO
+837,698889519,Graphite Luster Metallic (ext) | Graystone (int),19586,Used 2015 Acura TLX Base,Automatic | FWD,24897,TX
+838,696539066,Basque Red (ext),20450,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,22990,CA
+839,699978533,Brown (ext),20801,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,26588,FL
+840,683386290,Crystal Black Pearl (ext) | Espresso (int),21750,Used 2015 Acura TLX V6,Automatic | FWD,26961,TX
+841,698921506,Black Copper Pearl (ext) | Espresso (int),21838,Used 2015 Acura TLX Base,Automatic | FWD,23398,TX
+842,694221965,9-Speed Automatic | FWD,21926,Used 2015 Acura TLX V6 Tech,8-Speed Automatic with Auto-Shift | FWD,26997,IL
+843,697626969,Black (ext),23075,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,28699,CA
+844,699304150,Slate Silver Metallic (ext),23786,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,20799,UT
+845,697950521,Black (ext),24382,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,29833,MD
+846,693481966,Bellanova White Pearl (ext) | Parchment (int),24711,Used 2015 Acura TLX V6,Automatic | FWD,23500,AR
+847,696917933,Black (ext) | Ebony (int),24873,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27990,NE
+848,698987729,Black (ext),26110,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,25772,IL
+849,697032113,Black (ext) | Espresso (int),26333,Used 2015 Acura TLX Base,9-Speed Automatic w/OD | AWD,27995,IL
+850,699474876,Black Copper Pearl (ext) | Ebony (int),27155,Certified 2015 Acura TLX Tech,Automatic | FWD,26351,TX
+851,684651662,Gray (ext) | Gray (int),27431,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,21910,IN
+852,698077621,Graphite Luster Metallic (ext) | Ebony (int),28677,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23998,IL
+853,697754802,Red (ext),29721,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,26827,CA
+854,699969382,Gray (ext) | Greystone (int),29752,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23410,TX
+855,699250378,Crystal Black Pearl (ext) | Espresso (int),30326,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,22500,MD
+856,695397520,Fathom Blue Pearl (ext),30327,Certified 2015 Acura TLX V6,9-Speed Automatic | FWD,31971,IL
+857,698683977,Bellanova White Pearl (ext) | Ebony (int),30929,Certified 2015 Acura TLX V6,9-Speed Automatic | FWD,26398,IL
+858,672347015,Crystal Black Pearl (ext),31173,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25200,CA
+859,697950495,Gray (ext),31576,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,32443,MD
+860,698304639,Slate Silver Metallic (ext) | Greystone (int),35140,Certified 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,23788,GA
+861,699970316,White (ext),36167,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24810,CA
+862,685691682,9-Speed Automatic | FWD,38055,Used 2015 Acura TLX V6,Crystal Black (ext) | Ebony (int),26995,MO
+863,700549772,Dark Red (ext) | Parchment (int),43598,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,25955,TX
+864,697520213,Crystal Black Pearl (ext),47556,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,25993,IL
+865,698258871,White (ext),54352,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,22993,IL
+866,689750685,Black (ext),1700,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,23399,UT
+867,686847527,Graphite Luster Metallic (ext) | Ebony (int),2294,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25793,IL
+868,697388970,Slate (ext) | Graystone (int),2694,Certified 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,29951,MO
+869,633646068,Black (ext) | Ebony (int),3205,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,33473,CO
+870,695428884,Black Copper Pearl (ext) | Espresso (int),3370,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,27989,MO
+871,697628536,Slate (ext) | Graystone (int),3463,Certified 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,29386,MO
+872,695947510,Bellanova White Pearl (ext) | Ebony (int),4223,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,35995,WI
+873,697849401,Slate Silver Metallic (ext) | Ebony (int),4320,Certified 2016 Acura TLX V6,Automatic | FWD,28964,TX
+874,694501600,Crystal Black Pearl (ext) | Ebony (int),4332,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25993,IL
+875,696015791,Slate Silver Metallic (ext) | Graystone (int),4970,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,29780,MO
+876,695069133,Bellanova White Pearl (ext) | Espresso (int),4995,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,29995,IL
+877,636098412,Silver (ext),5308,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,30493,CO
+878,697849402,Slate Silver Metallic (ext) | Ebony (int),5788,Certified 2016 Acura TLX V6,Automatic | FWD,28964,TX
+879,699914807,Silver (ext) | Ebony (int),6447,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,31830,NJ
+880,696960773,9-Speed Automatic | FWD,6570,Used 2015 Acura TLX V6 Advance,Gray (ext) | Ebony (int),26995,WI
+881,697214812,Slate Silver Metallic (ext) | Ebony (int),6963,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,31985,CA
+882,700082491,Silver (ext) | Graystone (int),7439,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,31830,NJ
+883,699669918,Forged Silver (ext),7560,Certified 2016 Acura TLX V6 Advance,9-Speed Automatic | AWD,37987,NJ
+884,681221438,Red (ext) | Parchment (int),7654,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,31988,WI
+885,691920981,Crystal Black Pearl (ext) | Parchment (int),7725,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,29788,CA
+886,696084346,Black Copper Pearl (ext) | Ebony (int),8584,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,29995,CA
+887,697790498,Black (ext) | Ebony (int),8685,Certified 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28586,WI
+888,686395022,Crystal Black Pearl (ext) | Ebony (int),9006,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,29880,IL
+889,695669792,Crystal Black Pearl (ext) | Ebony (int),9176,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,29783,MA
+890,696091138,Bellanova White Pearl (ext) | Ebony (int),9362,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,26497,FL
+891,693064984,Bellanova White Pearl (ext) | Graystone (int),9511,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,29995,NC
+892,627230740,Fathom Blue Pearl (ext) | Greystone (int),9627,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,31993,CO
+893,695918371,Bellanova White Pearl (ext) | Ebony (int),9677,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,31901,TN
+894,698888292,Bellanova White Pearl (ext) | Ebony (int),9752,Certified 2016 Acura TLX V6,Automatic | FWD,28360,FL
+895,698354804,Crystal Black Pearl (ext) | Espresso (int),12564,Certified 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,27500,MO
+896,700138066,Black (ext),13231,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,27458,PA
+897,688865437,Basque Red Pearl Ii (ext) | Ebony (int),13448,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28888,CA
+898,698128614,Black (ext),14983,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26772,MD
+899,698773816,Black Copper Pearl (ext) | Espresso (int),15189,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27492,IL
+900,698571571,8-Speed Automatic with Auto-Shift | FWD,15543,Used 2016 Acura TLX Tech,Bellanova White Pearl (ext) | Ebony (int),29888,MD
+901,698528050,Bellanova White Pearl (ext) | Ebony (int),19347,Used 2015 Acura TLX V6 Tech,Automatic | AWD,28373,PA
+902,699171354,Crystal Black Pearl (ext) | Ebony (int),20024,Certified 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,26988,IN
+903,694745020,Automatic | FWD,21685,Used 2015 Acura TLX V6,Graphite Luster Metallic (ext) | Graystone (int),24487,IN
+904,691415026,Bellanova White Pearl (ext) | Ebony (int),25836,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,27991,NJ
+905,700174339,Gray (ext) | Gray (int),32119,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,22840,MA
+906,676978763,Silver (ext) | Greystone (int),32455,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,27999,IL
+907,697254676,Copper (ext) | Espresso (int),34290,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,22915,IN
+908,700722597,Crystal Black Pearl (ext) | Ebony (int),38194,Used 2015 Acura TLX,8-Speed Automatic with Auto-Shift | FWD,22500,MD
+909,694633525,Fathom Blue Pearl (ext) | Graystone (int),46576,Certified 2015 Acura TLX Base,Automatic | FWD,20594,PA
+910,699298097,Basque Red Pearl Ii (ext) | Parchment (int),52384,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,23991,SC
+911,694712805,Black (ext),53500,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,20000,CT
+912,668781005,Crystal Black Pearl (ext) | Ebony (int),10,Used 2016 Acura TLX Tech,automatic | FWD,30690,CA
+913,642928024,Black Copper Pearl (ext) | Espresso (int),54,Used 2015 Acura TLX V6 Advance,9-Speed Automatic w/OD | FWD,33995,NE
+914,698829067,Graphite Luster Metallic (ext) | Ebony (int),1977,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,32995,WI
+915,698025982,9-Speed Automatic | FWD,3017,Used 2016 Acura TLX V6 Tech,Graphite Luster Metallic (ext) | Ebony (int),33549,IL
+916,692081767,Black (ext),4060,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,33300,NC
+917,699355030,Black (ext),4318,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26620,NY
+918,695777526,Gray (ext) | Ebony (int),6704,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,30000,AZ
+919,633646098,Black (ext) | Ebony (int),6972,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,33273,CO
+920,687454206,Graphite (ext),7494,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,31493,CO
+921,688413412,Graphite Luster Metallic (ext) | Ebony (int),8022,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,29980,IL
+922,690756723,Crystal Black Pearl (ext) | Ebony (int),8233,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | AWD,32998,IL
+923,695918505,Crystal Black Pearl (ext) | Ebony (int),8371,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,27900,TN
+924,683378413,Silver (ext),9096,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,32993,CO
+925,690836783,Copper (ext) | Espresso (int),9132,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,27995,MO
+926,700101227,Slate Silver Metallic (ext) | Graystone (int),9699,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,27450,NJ
+927,683378405,Red (ext) | Parchment (int),10166,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,32993,CO
+928,698529186,Graphite Luster Metallic (ext) | Ebony (int),10335,Used 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | AWD,29956,IL
+929,699179791,White (ext),10486,Used 2016 Acura TLX V6,automatic | FWD,28480,CA
+930,698667720,White (ext) | Black (int),12258,Used 2016 Acura TLX V6,automatic | FWD,28480,CA
+931,697197331,Bellanova White Pearl (ext),12729,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25436,AZ
+932,698657089,Silver (ext) | Black (int),12998,Used 2016 Acura TLX Tech,automatic | FWD,26980,CA
+933,697574502,Graphite Luster Metallic (ext) | Silver (int),14329,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25594,GA
+934,699274267,Crystal Black Pearl (ext) | Espresso (int),14852,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,29780,TN
+935,696317030,Graphite Luster Metallic (ext) | Graystone (int),14986,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,30500,UT
+936,697447120,Black (ext) | Parchment (int),18125,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,26888,TX
+937,696429912,Bellanova White Pearl (ext) | Espresso (int),21967,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,25994,MN
+938,692173866,Graphite Luster Metallic (ext) | Greystone (int),23196,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,26990,MO
+939,698369575,Basque Red Pearl Ii (ext) | Parchment (int),25426,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24468,TN
+940,699264044,Black (ext) | Espresso (int),26055,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24985,CA
+941,699071820,Bellanova White Pearl (ext) | Ebony (int),28193,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25794,MO
+942,695298121,Basque Red Pearl Ii (ext),29164,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,28895,AR
+943,699505655,White (ext) | Ebony (int),29264,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23900,OK
+944,699520224,Silver (ext),35520,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,28991,CA
+945,699205539,Crystal Black Pearl (ext) | Ebony (int),36361,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,24991,WA
+946,698471404,Crystal Black Pearl (ext) | Ebony (int),38161,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24086,MO
+947,696073287,Red (ext),51678,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,21888,NY
+948,699481543,Maroon (ext),4353,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,26565,UT
+949,696181877,Black (ext) | Ebony (int),4925,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,33862,WI
+950,636413758,Black (ext),5038,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,30493,CO
+951,686759705,Crystal Black Pearl (ext) | Ebony (int),5111,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,27888,CA
+952,691921021,Black (ext),6098,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26288,CA
+953,689824727,Crystal Black Pearl (ext) | Ebony (int),6250,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,31995,IL
+954,695953753,Bellanova White Pearl (ext) | Parchment (int),6481,Certified 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28999,NC
+955,699019275,Black (ext) | Ebony (int),6524,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,29995,VA
+956,697790191,Gray (ext) | Graystone (int),8194,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,32856,WI
+957,684454536,Silver (ext) | Greystone (int),8489,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28729,IL
+958,687277421,Crystal Black Pearl (ext) | Ebony (int),8702,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | AWD,31961,IL
+959,687277301,Graphite Luster Metallic (ext) | Graystone (int),8933,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25698,IL
+960,628217239,Silver (ext),9649,Certified 2015 Acura TLX V6 Advance,Automatic | FWD,31000,CO
+961,699902791,Basque Red Pearl Ii (ext) | Parchment (int),9750,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28999,IL
+962,681646562,Bellanova White Pearl (ext) | Greystone (int),10008,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,29977,IL
+963,698232434,Blue (ext),10234,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25000,UT
+964,699225088,Dark (ext),10734,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,31995,CA
+965,699962208,Crystal Black Pearl (ext) | Ebony (int),10952,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,29995,NY
+966,614968873,Black (ext) | Ebony (int),11255,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,29873,CO
+967,697443983,Silver (ext),11590,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,33876,CA
+968,697703923,Black (ext) | Black (int),12621,Used 2016 Acura TLX V6,automatic | FWD,28480,CA
+969,684454346,White (ext) | Ebony (int),12694,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28438,IL
+970,699921400,Gray (ext),12707,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,27788,GA
+971,700575396,Graphite Luster Metallic (ext) | Greystone (int),13107,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,26967,LA
+972,676080681,Crystal Black Pearl (ext) | Ebony (int),14525,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,29217,IL
+973,696587523,Red (ext),17597,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,25500,NC
+974,687944400,Gray (ext) | Ebony (int),22486,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,26862,IL
+975,693904756,Bellanova White Pearl (ext) | Ebony (int),27232,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,24737,IL
+976,686976273,Crystal Black Pearl (ext) | Greystone (int),29732,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,22918,WA
+977,694418711,Black Copper Pearl (ext) | Parchment (int),34394,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,23990,IL
+978,699894946,9-Speed Automatic | AWD,34544,Used 2015 Acura TLX V6 Advance,Black (ext) | Black (int),29881,CA
+979,699016408,Bellanova White Pearl (ext) | Ebony (int),40634,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23946,NY
+980,697139479,Black (ext),43072,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23922,KY
+981,693799200,Graphite Luster Metallic (ext),47212,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,18600,CA
+982,696489235,Graphite Luster Metallic (ext) | Ebony (int),48948,Certified 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,22999,IL
+983,698690671,Crystal Black Pearl (ext),51170,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,24997,FL
+984,695050799,White (ext),3,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,35558,TN
+985,692750905,Crystal Black Pearl (ext) | Ebony (int),4,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,30977,IL
+986,700554454,Black Copper Pearl (ext) | Espresso (int),540,Used 2017 Acura TLX V6 Advance,9-Speed Automatic | AWD,36000,NV
+987,698423449,Black Copper Pearl (ext) | Parchment (int),2508,Certified 2016 Acura TLX V6 Tech,8-Speed Automatic with Auto-Shift | FWD,30939,IL
+988,698279822,Bellanova White Pearl (ext) | Ebony (int),3207,Used 2017 Acura TLX V6 Advance,9-Speed Automatic | FWD,33990,NC
+989,697124683,Gray (ext),3315,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,33250,TN
+990,697682585,Silver (ext) | Graystone (int),3323,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,34100,TN
+991,697848419,Crystal Black Pearl (ext) | Ebony (int),3349,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,30687,MD
+992,697916086,Graphite Luster Metallic (ext) | Ebony (int),3458,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,30936,NC
+993,681049584,Slate Silver Metallic (ext) | Ebony (int),3478,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26498,IL
+994,695985728,Bellanova White Pearl (ext) | Ebony (int),3739,Certified 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28888,CA
+995,682490236,Crystal Black Pearl (ext) | Ebony (int),3866,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,29477,IL
+996,696279109,Graphite (ext) | Ebony (int),3903,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,30553,OH
+997,688677996,Bellanova White Pearl (ext) | Ebony (int),4055,Certified 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28888,CA
+998,699310108,Red (ext) | Parchment (int),4197,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,31456,OH
+999,699179762,Bellanova White Pearl (ext) | Greystone (int),4526,Certified 2017 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,28929,IL
+1000,697979018,Bellanova White Pearl (ext) | Espresso (int),4742,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,30133,NC
+1001,697915949,Slate Silver Metallic (ext) | Ebony (int),4765,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,30758,NC
+1002,697682469,Gray (ext) | Graystone (int),5036,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,34448,TN
+1003,700535484,Bellanova White Pearl (ext) | Greystone (int),5037,Certified 2017 Acura TLX Technology,8-Speed Automatic with Auto-Shift | FWD,33995,CA
+1004,691920985,White (ext),5063,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,28288,CA
+1005,691206187,Silver (ext),5324,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,29998,TN
+1006,695647801,White (ext),5420,Used 2015 Acura TLX V6 Advance,9-Speed Automatic w/OD | FWD,29777,CT
+1007,697124957,Gray (ext),5432,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,33881,TN
+1008,695293295,Bellanova White Pearl (ext) | Espresso (int),5492,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,31877,IL
+1009,700582956,Fathom Blue Pearl (ext) | Graystone (int),5887,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26690,SC
+1010,697978988,Crystal Black Pearl (ext) | Ebony (int),6429,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,30421,NC
+1011,700656782,Black (ext) | Ebony (int),6553,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23999,FL
+1012,700656069,Black (ext) | Ebony (int),6553,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23999,FL
+1013,700521611,Graphite Luster Metallic (ext) | Ebony (int),6710,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,33900,WI
+1014,691921177,White (ext),6739,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26288,CA
+1015,697915950,Slate Silver Metallic (ext) | Greystone (int),6773,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,30342,NC
+1016,699902725,Bellanova White Pearl (ext) | Ebony (int),6814,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,29999,IL
+1017,697978984,Black Copper Pearl (ext) | Parchment (int),7062,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,29957,NC
+1018,695781261,Crystal Black Pearl (ext) | Espresso (int),7386,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28000,MA
+1019,699544831,White (ext) | Gray (int),8200,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,23950,CA
+1020,700431257,Graphite Luster Metallic (ext) | Graystone (int),8213,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,27861,IN
+1021,700047173,Black Copper Pearl (ext),8890,Certified 2015 Acura TLX V6,9-Speed Automatic | FWD,26997,FL
+1022,688603487,Black Copper Pearl (ext) | Parchment (int),9101,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,27862,OH
+1023,696812830,Basque Red Pearl Ii (ext) | Parchment (int),9349,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27900,WI
+1024,690324702,White (ext) | Brown (int),9403,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,26449,CA
+1025,695299844,Basque Red Pearl Ii (ext) | Parchment (int),9515,Certified 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,27939,IL
+1026,692867919,Gray (ext),10131,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27995,MA
+1027,700575913,Graphite Luster Metallic (ext) | Ebony (int),10310,Certified 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,26939,IL
+1028,697978997,Basque Red Pearl (ext) | Parchment (int),10459,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | AWD,30841,NC
+1029,700340229,Crystal Black Pearl (ext) | Ebony (int),10683,Certified 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,33342,OH
+1030,692622082,Silver (ext) | Ebony (int),10975,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24499,TN
+1031,697952166,Graphite Luster Metallic (ext) | Ebony (int),11084,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,32700,OH
+1032,697970635,Black (ext),11188,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,35900,NY
+1033,700706260,Slate Silver Metallic (ext) | Greystone (int),12117,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23995,WI
+1034,695325709,Slate Silver Metallic (ext) | Ebony (int),12209,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,31231,OH
+1035,688700241,Slate Silver Metallic (ext) | Greystone (int),12239,Certified 2015 Acura TLX V6,9-Speed Automatic | FWD,23999,NY
+1036,686759879,Graphite Luster (ext) | Ebony (int),13333,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24888,CA
+1037,697801029,Graphite Luster Metallic (ext) | Ebony (int),14202,Certified 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,26929,IL
+1038,689398842,Slate Silver Metallic (ext) | Ebony (int),14401,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,28900,MN
+1039,698413469,Fathom Blue Pearl (ext) | Graystone (int),14763,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,24551,NJ
+1040,697970852,Blue (ext),14972,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,29980,NY
+1041,699013515,Black Copper Pearl (ext) | Parchment (int),15024,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,29900,WI
+1042,696018800,White (ext),15220,Used 2016 Acura TLX V6 Advance,9-Speed Automatic | FWD,31845,AL
+1043,689563093,Bellanova White Pearl (ext) | Ebony (int),16665,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25999,IL
+1044,646051536,Bellanova White Pearl (ext),16778,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,34500,HI
+1045,697344693,Crystal Black Pearl (ext) | Espresso (int),16850,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | AWD,29699,MO
+1046,698829459,Basque Red Pearl Ii (ext) | Parchment (int),17576,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23900,WI
+1047,687741254,Graphite Luster (ext) | Black (int),18613,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,24950,ID
+1048,696140714,Slate Silver Metallic (ext) | Ebony (int),18866,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,20999,FL
+1049,699506999,Slate Silver Metallic (ext) | Ebony (int),18866,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,20999,FL
+1050,700525204,White (ext) | Greystone (int),20023,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,29999,TN
+1051,697498972,Black (ext),20750,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23977,LA
+1052,699892567,Bellanova White Pearl (ext) | Greystone (int),21028,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27977,OH
+1053,698095647,Graphite Luster Metallic (ext) | Ebony (int),21273,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24468,NC
+1054,697970911,Black (ext),23123,Certified 2015 Acura TLX V6,9-Speed Automatic | FWD,28000,NY
+1055,699013408,Crystal Black Pearl (ext) | Ebony (int),23211,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,29500,WI
+1056,698310217,Brown (ext),23743,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,28992,FL
+1057,695165955,Black (ext),24056,Certified 2015 Acura TLX V6,9-Speed Automatic | FWD,28680,TN
+1058,699382556,Crystal Black Pearl (ext) | Ebony (int),25703,Certified 2015 Acura TLX V6,9-Speed Automatic | FWD,25929,IL
+1059,688146309,Slate Silver Metallic (ext) | Gray (int),26197,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,21999,FL
+1060,699099300,Slate Silver Metallic (ext) | Gray (int),26197,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,21999,FL
+1061,699326164,Black (ext) | Greystone (int),31342,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24500,TN
+1062,695758696,Bellanova White Pearl (ext) | Espresso (int),31452,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,26900,WI
+1063,700239061,Black (ext),32390,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,22581,NY
+1064,692766001,Black (ext),32622,Certified 2015 Acura TLX V6,9-Speed Automatic | FWD,27833,TN
+1065,679091479,Graphite Luster Metallic (ext) | Greystone (int),32860,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,25498,IL
+1066,697969805,Crystal Black Pearl (ext),34978,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,25460,CA
+1067,700525206,White (ext),36067,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28500,TN
+1068,697676744,Crystal Black Pearl (ext) | Ebony (int),36872,Certified 2015 Acura TLX V6,9-Speed Automatic | FWD,26700,OH
+1069,695781250,Crystal Black Pearl (ext) | Ebony (int),37176,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,23800,MA
+1070,692715137,Black (ext) | Greystone (int),39889,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,24897,TX
+1071,699447274,Bellanova White Pearl (ext),68660,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,19988,CT
+1072,700512273,Black Copper Pearl (ext) | Espresso (int),540,Used 2017 Acura TLX V6 Advance,9-Speed Automatic | AWD,36000,NV
+1073,688677997,Slate Silver Metallic (ext),3271,Certified 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28888,CA
+1074,698051413,Lunar Silver Metallic (ext) | Ebony (int),5873,Certified 2017 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,28929,IL
+1075,697625598,Bellanova White Pearl (ext) | Graystone (int),7242,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,31583,DE
+1076,694621957,Bellanova White Pearl (ext) | Graystone (int),8275,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,27677,OH
+1077,697625208,Crystal Black Pearl (ext) | Ebony (int),8504,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,28277,OH
+1078,694248379,Fathom Blue Pearl (ext) | Graystone (int),8577,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25818,OH
+1079,697487403,Crystal Black Pearl (ext) | Parchment (int),10267,Certified 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,29498,GA
+1080,698091491,Basque Red Pearl Ii (ext) | Parchment (int),11165,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24477,OH
+1081,695497041,Crystal Black Pearl (ext) | Ebony (int),11833,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,28600,OH
+1082,688139897,Fathom Blue Pearl (ext) | Graystone (int),12257,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23477,OH
+1083,696890864,Crystal Black Pearl (ext) | Graystone (int),12477,Certified 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,29990,AL
+1084,697466750,Crystal Black Pearl (ext) | Ebony (int),13344,Certified 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,24995,NY
+1085,695060428,Crystal Black Pearl (ext) | Graystone (int),15587,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,29931,GA
+1086,699041951,Gray (ext),15865,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28995,CA
+1087,697613383,Burgundy (ext),17025,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,26500,CA
+1088,698442537,White (ext),23966,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,30998,KS
+1089,694109156,Graphite Luster Metallic (ext) | Ebony (int),27862,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27637,AL
+1090,699128517,Bellanova White Pearl (ext) | Espresso (int),36767,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,20999,FL
+1091,695847871,Crystal Black Pearl (ext) | Ebony (int),52593,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,26877,OH
+1092,696794827,Slate Silver Metallic (ext) | Graystone (int),988,Used 2016 Acura TLX Base,8-Speed Auto-Shift Manual w/OD | FWD,22999,FL
+1093,697058700,Bellanova White Pearl (ext),2032,Certified 2017 Acura TLX Technology,8-Speed Automatic with Auto-Shift | FWD,32288,SC
+1094,698545409,Modern Steel Metallic (ext) | Black (int),3464,Certified 2017 Acura TLX V6 w/Technology Package,9-Speed Automatic | FWD,32991,TX
+1095,671286819,Crystal Black Pearl (ext) | Greystone (int),4250,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,29900,UT
+1096,698673358,Crystal Black Pearl (ext) | Black (int),4557,Certified 2017 Acura TLX Technology,8-Speed Automatic with Auto-Shift | FWD,28992,TX
+1097,689175713,Crystal Black Pearl (ext) | Greystone (int),4601,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,25998,NY
+1098,688956099,Graphite Luster Metallic (ext) | Ebony (int),4640,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,26998,NY
+1099,666401160,Graphite Luster Metallic (ext) | Ebony (int),5327,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,30995,TX
+1100,700318802,Silver (ext) | Ebony (int),5502,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,33830,NJ
+1101,698327168,Graphite Luster Metallic (ext) | Ebony (int),7796,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,27877,OH
+1102,698351205,Crystal Black Pearl (ext) | Espresso (int),8435,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,27877,OH
+1103,689050711,Graphite Luster Metallic (ext) | Greystone (int),12269,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,28600,OH
+1104,688700242,Bellanova White Pearl (ext) | Greystone (int),12889,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,23998,NY
+1105,695417492,Graphite Luster Metallic (ext) | Graystone (int),14377,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25990,AL
+1106,697670180,Crystal Black Pearl (ext) | Ebony (int),15173,Certified 2016 Acura TLX V6 Advance,9-Speed Automatic | FWD,30990,NJ
+1107,699069150,Slate Silver Metallic (ext) | Ebony (int),20074,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23977,OH
+1108,668480457,Black Copper Pearl (ext) | Greystone (int),22002,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25998,SC
+1109,698817152,Bellanova White Pearl (ext) | Greystone (int),23680,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,26471,TN
+1110,692431256,Crystal Black Pearl (ext) | Greystone (int),26306,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23877,OH
+1111,699384166,Black (ext) | Black (int),38065,Certified 2015 Acura TLX V6,9-Speed Automatic | FWD,24698,KS
+1112,695952431,Crystal Black Pearl (ext),45318,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,24300,OH
+1113,673570996,Black (ext) | Gray (int),58908,Certified 2015 Acura TLX V6,9-Speed Automatic | FWD,21500,PA
+1114,638581715,Black (ext) | Ebony (int),104,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,38000,NV
+1115,697393746,Crystal Black Pearl (ext) | Brown (int),2022,Certified 2017 Acura TLX V6 w/Technology Package,9-Speed Automatic | FWD,32993,TX
+1116,698478455,Crystal Black Pearl (ext) | Black (int),3061,Used 2016 Acura TLX V6 Tech,8-Speed Automatic with Auto-Shift | FWD,26993,TX
+1117,700082582,Silver (ext) | Graystone (int),4382,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,33897,NJ
+1118,666796779,Bellanova White Pearl (ext) | Espresso (int),4664,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,35900,UT
+1119,698684119,Crystal Black Pearl (ext) | Espresso (int),5432,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26404,CA
+1120,697393753,Graphite Luster Metallic (ext) | Ebony (int),6161,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,27993,TX
+1121,698923983,Crystal Black Pearl (ext) | Greystone (int),11445,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,28985,FL
+1122,696407755,Slate Silver Metallic (ext) | Ebony (int),12067,Certified 2015 Acura TLX V6,9-Speed Automatic | FWD,26955,SC
+1123,697230443,Black Copper Pearl (ext) | Parchment (int),13416,Used 2017 Acura TLX Technology,8-Speed Automatic with Auto-Shift | FWD,27800,FL
+1124,697314295,Silver (ext),17501,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25988,CA
+1125,691661643,Basque Red Pearl Ii (ext) | Parchment (int),28652,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,27985,MN
+1126,698637022,Black Copper Pearl (ext) | Parchment (int),28760,Certified 2015 Acura TLX V6 Advance,Automatic | FWD,28991,MN
+1127,659845869,Graphite Luster Metallic (ext) | Ebony (int),4250,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,36900,UT
+1128,697682812,White (ext) | Parchment (int),4513,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,34684,TN
+1129,700568203,Silver (ext) | Ebony (int),9035,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,28595,AR
+1130,699313111,Red (ext),9778,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,28973,OR
+1131,699945769,Crystal Black Pearl (ext) | Black (int),11009,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,25991,TX
+1132,699057755,Basque Red Pearl Ii (ext) | Parchment (int),11250,Certified 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,26688,OR
+1133,696472448,Graphite Luster Metallic (ext),17501,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,32375,GA
+1134,699017099,Graphite Luster Metallic (ext) | Greystone (int),32290,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,23995,LA
+1135,692258780,Graphite Luster Metallic (ext) | Ebony (int),34621,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,24987,PA
+1136,698947956,Crystal Black Pearl (ext) | Ebony (int),2154,Certified 2017 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,28488,OR
+1137,660655394,Graphite Luster (ext) | Graystone (int),4250,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,29900,UT
+1138,696242759,White (ext),11051,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26989,CT
+1139,696171839,Fathom Blue Pearl (ext) | Greystone (int),14655,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27988,OR
+1140,688163898,Black (ext) | Espresso (int),14787,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | AWD,28998,CO
+1141,696171246,Graphite Luster Metallic (ext) | Greystone (int),15933,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28888,OR
+1142,693418857,8-Speed Automatic with Auto-Shift | FWD,17703,Certified 2015 Acura TLX Tech,White (ext),24787,AR
+1143,698678708,Black (ext),22227,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,29308,MN
+1144,680485113,Gray (ext),42154,Used 2015 Acura TLX Tech,Automatic,16599,TX
+1145,661641612,Bellanova White Pearl (ext) | Ebony (int),4250,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,33900,UT
+1146,693475635,Crystal Black Pearl (ext),12192,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,29995,HI
+1147,697896762,Slate Silver Metallic (ext) | Ebony (int),14622,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23988,IL
+1148,699720102,Gray (ext),17080,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28805,AZ
+1149,693037639,Basque Red Pearl Ii (ext) | Parchment (int),18457,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,23995,FL
+1150,700458886,Black (ext) | Black (int),61311,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,25900,SC
+1151,700085972,Modern Steel (ext) | Greystone (int),965,Certified 2017 Acura TLX V6 w/Technology Package,9-Speed Automatic | FWD,35995,AR
+1152,699464600,Crystal Black Pearl (ext) | Red (int),3919,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,29599,PA
+1153,698671088,Pearl (ext) | Greystone (int),7624,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,23995,CA
+1154,700347166,Crystal Black Pearl (ext),12938,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,27600,PA
+1155,671223888,Slate Silver Metallic (ext) | Ebony (int),15710,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | FWD,28640,CA
+1156,689323791,Black (ext),37727,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,26777,CA
+1157,691970287,Bellanova White (ext),2136,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,28395,CA
+1158,689650461,Crystal Black Pearl (ext),2278,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25895,CA
+1159,690041867,Crystal Black Pearl (ext),2684,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,28395,CA
+1160,692872760,8-Speed Automatic with Auto-Shift | FWD,2832,Used 2016 Acura TLX Tech,Crystal Black Pearl (ext),26481,CA
+1161,691747119,Bellanova White (ext),3044,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,28395,CA
+1162,690041955,Slate Silver (ext),3217,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25895,CA
+1163,689102088,Graphite Luster (ext),3784,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,28395,CA
+1164,655757554,Bellanova White Pearl (ext) | Espresso (int),4250,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,29900,UT
+1165,700060328,Bellanova White (ext),5067,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26999,CA
+1166,700407905,Crystal Black Pearl (ext),5428,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,33999,CA
+1167,697799803,Slate Silver Metallic (ext) | Ebony (int),6233,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25993,IL
+1168,696185642,Crystal Black Pearl (ext),7315,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,36595,CA
+1169,679173053,Slate Silver Metallic (ext) | Ebony (int),7833,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,25750,NY
+1170,691374437,Crystal Black Pearl (ext),8033,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,27785,CA
+1171,647061787,Graphite Luster Metallic (ext) | Ebony (int),14397,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | FWD,29735,CA
+1172,637167352,Slate Silver Metallic (ext) | Graystone (int),15344,Certified 2015 Acura TLX Tech,8-Speed Auto-Shift Manual w/OD | FWD,26465,CA
+1173,620903898,Bellanova White Pearl (ext) | Ebony (int),15526,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | AWD,30231,CA
+1174,699991022,White (ext) | Greystone (int),26988,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,25000,GA
+1175,700645769,Maroon (ext) | Tan (int),32908,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,22500,GA
+1176,696110183,Bellanova White Pearl (ext) | Parchment (int),7,Used 2015 Acura TLX Tech,9-Speed Automatic | FWD,29877,CA
+1177,687820907,Crystal Black (ext) | Ebony (int),28,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,33498,KS
+1178,687784993,Bellanova White Pearl (ext) | Ebony (int),57,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,31988,CA
+1179,695653820,Bellanova White Pearl (ext) | Greystone (int),15092,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,27759,WA
+1180,680163721,Bellanova White Pearl (ext) | Espresso (int),20017,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,31662,GA
+1181,695421216,Slate (ext),1589,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,30731,OH
+1182,699914935,White (ext),5698,Certified 2017 Acura TLX Technology,8-Speed Automatic with Auto-Shift | FWD,28998,NJ
+1183,696805155,Crystal Black Pearl (ext),11026,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,28999,FL
+1184,698758499,Black Copper Pearl (ext) | Parchment (int),12716,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27885,MN
+1185,688689568,Black (ext) | Espresso (int),5962,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,29900,OK
+1186,688689580,Black (ext) | Parchment (int),7480,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,27500,OK
+1187,699044295,Black (ext),10061,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,27747,OR
+1188,686254845,Slate Silver Metallic (ext) | Graystone (int),17984,Used 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | FWD,25995,CA
+1189,700582761,White (ext) | Ebony (int),20786,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,27500,TX
+1190,699828104,Black Copper Pearl (ext) | Parchment (int),23488,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,29940,MO
+1191,698022897,Blue (ext),45183,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,28756,IN
+1192,700082574,Black (ext) | Black (int),4010,Used 2017 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,30170,NJ
+1193,700082493,White (ext) | Black (int),4893,Used 2017 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,30170,NJ
+1194,697793462,Black (ext) | Brown (int),6203,Used 2015 Acura TLX V6 Advance,9 speed automatic,27375,TX
+1195,679501844,Graphite Luster Metallic (ext),9165,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,34000,MO
+1196,700318800,Black (ext) | Ebony (int),9252,Certified 2016 Acura TLX V6 Advance,9-Speed Automatic | AWD,34830,NJ
+1197,679501838,Graphite Luster Metallic (ext),13514,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,36000,MO
+1198,700296450,Crystal Black Pearl (ext) | Ebony (int),25502,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,26980,MA
+1199,698095968,Blue (ext),55652,Certified 2015 Acura TLX Tech,Automatic | FWD,22000,CO
+1200,692813503,Red (ext),19,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,32010,CT
+1201,697160075,Bellanova White Pearl (ext) | Espresso (int),2092,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,36999,FL
+1202,669249096,Slate Silver Metallic (ext) | Graystone (int),4119,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28058,TX
+1203,699853112,Fathom Blue Pearl (ext) | Graystone (int),6365,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,28987,CT
+1204,672476732,Crystal Black Pearl (ext) | Graystone (int),6690,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28275,TX
+1205,699333408,Graphite Luster Metallic (ext) | Graystone (int),8187,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,25987,CT
+1206,693291732,Black (ext),9139,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,30995,AK
+1207,700305961,Bellanova White Pearl (ext) | Parchment (int),14840,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27500,IN
+1208,698821518,Black Copper Pearl (ext) | Espresso (int),19991,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,22999,FL
+1209,699865235,Slate Silver Metallic (ext) | Ebony (int),21039,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26495,CA
+1210,700748386,Slate Silver Metallic (ext) | Ebony (int),24585,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24943,LA
+1211,690064499,Black Copper Pearl (ext) | Parchment (int),25224,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,21999,FL
+1212,700526209,Crystal Black Pearl (ext) | Black (int),45517,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27791,LA
+1213,695941332,8-Speed Automatic with Auto-Shift | FWD,2380,Used 2017 Acura TLX Base,White (ext) | Ebony (int),31949,FL
+1214,694818373,Graphite (ext),3114,Used 2016 Acura TLX V6 Tech,Automatic | FWD,34997,PA
+1215,694818454,White (ext),3952,Used 2016 Acura TLX V6 Tech,Automatic | AWD,34997,PA
+1216,695941496,9-Speed Automatic | AWD,8757,Used 2017 Acura TLX V6 w/Technology Package,Brown (ext),35000,AZ
+1217,700592394,Crystal Black Pearl (ext) | Ebony (int),16234,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,25999,NY
+1218,697592506,Bellanova White Pearl (ext) | Ebony (int),18202,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,26999,FL
+1219,700231504,Graphite Luster Metallic (ext) | Ebony (int),19040,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25892,AZ
+1220,698729687,Bellanova White Pearl (ext) | Greystone (int),23997,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,22999,FL
+1221,694818372,Bellanova White Pearl (ext),1007,Used 2016 Acura TLX V6,8-Speed Automatic with Auto-Shift | FWD,36890,MO
+1222,679173051,Slate Silver Metallic (ext) | Ebony (int),5414,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24000,NY
+1223,688920970,9-Speed Automatic | FWD,5572,Used 2016 Acura TLX V6 Advance,9-Speed Automatic | AWD,36500,MO
+1224,684792916,Graphite Luster Metallic (ext),7009,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,36000,MO
+1225,698156930,En (ext) | Black (int),18867,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25595,TX
+1226,699950343,Silver (ext) | Greystone (int),36604,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23900,OK
+1227,700479349,Pearl (ext),39077,Certified 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,24988,CA
+1228,699436327,Crystal Black Pearl (ext),64831,Certified 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,18868,NY
+1229,697626966,Slate Silver Metallic (ext) | Greystone (int),7476,Used 2016 Acura TLX V6,8-Speed Automatic with Auto-Shift | FWD,27999,OK
+1230,700142821,Black Copper Pearl (ext) | Espresso (int),10461,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,27999,OK
+1231,688689490,Crystal (ext) | Espresso (int),12658,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27900,OK
+1232,699919471,Graphite Luster Metallic (ext) | Greystone (int),14154,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,27876,CA
+1233,699481139,Gray (ext) | Gray (int),20392,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,29898,GA
+1234,700674454,Black (ext),28087,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23900,OH
+1235,700643226,Graphite (ext),29108,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27984,NC
+1236,698673806,Silver (ext),29981,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,36420,NJ
+1237,697627421,Bellanova White Pearl (ext) | Greystone (int),3420,Used 2017 Acura TLX V6 w/Technology Package,9-Speed Automatic | AWD,37488,NC
+1238,700694941,Silver (ext),22800,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,27000,TX
+1239,699340125,Gray (ext),26399,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27210,CA
+1240,699845095,Bellanova White Pearl (ext) | Espresso (int),29210,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,20911,MI
+1241,697363992,Gray (ext),32030,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | AWD,26977,MO
+1242,700637466,8-Speed Automatic with Auto-Shift | FWD,37597,Used 2015 Acura TLX Tech,Automatic | FWD,23988,VA
+1243,700736547,Automatic | FWD,0,Used 2016 Acura TLX V6 Tech,Automatic | FWD,28900,VA
+1244,700736583,Automatic | FWD,0,Used 2016 Acura TLX V6 Tech,Automatic | FWD,28900,VA
+1245,700736897,Automatic | FWD,0,Used 2016 Acura TLX V6 Tech,Automatic | FWD,28900,VA
+1246,689534507,Slate Silver Metallic (ext) | Ebony (int),0,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28488,MD
+1247,700736622,Automatic | FWD,0,Used 2016 Acura TLX V6 Tech,Automatic | FWD,28900,VA
+1248,700736497,Automatic | FWD,0,Used 2016 Acura TLX V6 Tech,Automatic | FWD,28900,VA
+1249,689534588,Bellanova White Pearl (ext),0,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,29488,MD
+1250,699160853,Graphite Luster Metallic (ext) | Graystone (int),5,Certified 2016 Acura TLX AWDTECH,9AT | AWD,36988,CA
+1251,700465412,Crystal Black Pearl (ext) | Ebony (int),759,Used 2017 Acura TLX Base,9-Speed Automatic | AWD,36400,NY
+1252,698970191,Black Copper Pearl (ext) | Espresso (int),943,Certified 2015 Acura TLX AWDADV,9AT | AWD,34988,NY
+1253,700572322,Basque Red Pearl Ii (ext) | Parchment (int),1296,Certified 2016 Acura TLX TLX,9AT,28772,PA
+1254,698969223,Crystal Black Pearl (ext) | Ebony (int),1497,Certified 2015 Acura TLX AWDTECH,9AT | AWD,33488,NY
+1255,700732468,Black Copper Pearl (ext) | Parchment (int),1525,Used 2016 Acura TLX Base,9AT,28750,CA
+1256,696837447,Fathom Blue Pearl (ext) | Graystone (int),1558,Certified 2017 Acura TLX TLX2.4,8DC,27988,CA
+1257,696541442,Modern Steel Metallic (ext) | Graystone (int),2004,Certified 2017 Acura TLX TLX2.4,8DC,27988,CA
+1258,696837441,Bellanova White Pearl (ext) | Graystone (int),2020,Certified 2017 Acura TLX TLX2.4,8DC,27988,CA
+1259,697071892,Basque Red Pearl Ii (ext) | Parchment (int),2106,Certified 2016 Acura TLX TLX,9AT,28750,CA
+1260,696837420,Fathom Blue Pearl (ext) | Graystone (int),2393,Certified 2017 Acura TLX TECH2.4,8DC,30988,CA
+1261,696837395,Modern Steel Metallic (ext) | Ebony (int),2415,Certified 2017 Acura TLX TLX2.4,8DC,27988,CA
+1262,698328878,Slate Silver Metallic (ext) | Ebony (int),2525,Certified 2015 Acura TLX AWDTECH,9AT | AWD,33488,NY
+1263,698970192,Crystal Black Pearl (ext) | Ebony (int),2575,Certified 2015 Acura TLX AWDADV,9AT | AWD,34988,NY
+1264,696837424,Lunar Silver Metallic (ext) | Ebony (int),2925,Certified 2017 Acura TLX TECH2.4,8DC,30988,CA
+1265,699076570,Bellanova White Pearl (ext) | Ebony (int),2992,Certified 2016 Acura TLX TLX,9AT,36260,FL
+1266,695345222,Crystal Black Pearl (ext) | Ebony (int),3017,Certified 2016 Acura TLX TECH,9AT,33549,NC
+1267,700501500,Fathom Blue Pearl (ext) | Graystone (int),3040,Certified 2016 Acura TLX AWDTECH,9AT | AWD,31985,PA
+1268,699798376,Black Copper Pearl (ext) | Espresso (int),3072,Certified 2017 Acura TLX TLX2.4,8DC,28995,TN
+1269,699798176,Crystal Black Pearl (ext) | Ebony (int),3174,Certified 2017 Acura TLX TECH2.4,8DC,31995,TN
+1270,691361546,Slate Silver Metallic (ext) | Ebony (int),3490,Certified 2016 Acura TLX AWDTECH,9AT | AWD,35995,TN
+1271,700732197,Slate Silver Metallic (ext) | Ebony (int),3539,Used 2016 Acura TLX V6 Tech,9AT,32967,IL
+1272,697634061,Graphite Luster Metallic (ext) | Graystone (int),3596,Certified 2016 Acura TLX TLX2.4,8DC,27988,TX
+1273,698449915,Graphite Luster Metallic (ext) | Ebony (int),3625,Certified 2016 Acura TLX TLX2.4,8DC,28350,NC
+1274,699798350,Modern Steel Metallic (ext) | Graystone (int),3688,Certified 2017 Acura TLX TLX2.4,8DC,28995,TN
+1275,696837383,Bellanova White Pearl (ext) | Graystone (int),3695,Certified 2017 Acura TLX TECH2.4,8DC,30988,CA
+1276,698851855,Modern Steel Metallic (ext) | Ebony (int),3744,Certified 2017 Acura TLX TECH2.4,8DC,36890,FL
+1277,697642518,Blue (ext),3799,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28905,HI
+1278,698970312,Graphite Luster Metallic (ext) | Ebony (int),3806,Certified 2015 Acura TLX AWDADV,9AT | AWD,34988,NY
+1279,692354290,Graphite Luster Metallic (ext) | Ebony (int),3916,Certified 2016 Acura TLX AWDTECH,9AT | AWD,37078,NH
+1280,693660817,Bellanova White Pearl (ext) | Graystone (int),4025,Certified 2016 Acura TLX TECH,9AT,29888,CA
+1281,699557026,San Marino Red (ext) | Parchment (int),4025,Certified 2017 Acura TLX TECH,9AT,36000,LA
+1282,693554406,Crystal Black Pearl (ext) | Ebony (int),4060,Certified 2016 Acura TLX TECH,9AT,33300,NC
+1283,699076698,Graphite Luster Metallic (ext) | Ebony (int),4141,Certified 2016 Acura TLX TECH,9AT,31800,TX
+1284,693782573,Black Copper Pearl (ext) | Parchment (int),4242,Certified 2016 Acura TLX TECH,9AT,30750,CA
+1285,698449440,Crystal Black Pearl (ext) | Graystone (int),4368,Certified 2016 Acura TLX TLX2.4,8DC,28550,NC
+1286,694744207,Crystal Black Pearl (ext) | Ebony (int),4462,Certified 2017 Acura TLX TECH2.4,8DC,31995,TN
+1287,700572401,Crystal Black Pearl (ext) | Graystone (int),4505,Certified 2016 Acura TLX TLX,9AT,28553,PA
+1288,696540841,Modern Steel Metallic (ext) | Ebony (int),4725,Certified 2017 Acura TLX TLX2.4,8DC,27900,TX
+1289,699076701,Bellanova White Pearl (ext) | Ebony (int),4783,Certified 2017 Acura TLX TECH2.4,8DC,29900,TX
+1290,699648164,Lunar Silver Metallic (ext) | Graystone (int),4868,Certified 2017 Acura TLX TECH2.4,8DC,31995,TN
+1291,695345220,Crystal Black Pearl (ext) | Ebony (int),4998,Certified 2015 Acura TLX AWDTECH,9AT | AWD,28489,FL
+1292,694306228,Black Copper Pearl (ext) | Parchment (int),5052,Certified 2016 Acura TLX AWDADV,9AT | AWD,40660,CO
+1293,695385836,Crystal Black (ext),5052,Used 2016 Acura TLX V6 Advance,9-Speed Automatic | AWD,40660,CO
+1294,689736941,Fathom Blue Pearl (ext) | Graystone (int),5106,Certified 2015 Acura TLX AWDADV,9AT | AWD,36994,MI
+1295,700464085,Bellanova White Pearl (ext) | Ebony (int),5157,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28500,OH
+1296,693782916,Bellanova White Pearl (ext) | Ebony (int),5198,Certified 2015 Acura TLX TECH,9AT,28492,MI
+1297,695254979,Graphite Luster Metallic (ext) | Ebony (int),5235,Certified 2015 Acura TLX TECH,9AT,30845,WA
+1298,697072135,Crystal Black Pearl (ext) | Ebony (int),5311,Certified 2017 Acura TLX ADVANCE,9AT,38995,TN
+1299,697736032,Bellanova White Pearl (ext),5529,Used 2017 Acura TLX Technology,8-Speed Automatic with Auto-Shift | FWD,30981,FL
+1300,700286977,Bellanova White Pearl (ext) | Graystone (int),5605,Certified 2017 Acura TLX TECH2.4,8DC,31998,NH
+1301,693992416,Crystal Black Pearl (ext) | Ebony (int),5606,Certified 2015 Acura TLX ADVANCE,9AT,32088,WA
+1302,697897459,Slate Silver Metallic (ext) | Ebony (int),5833,Certified 2015 Acura TLX TLX2.4,8DC,27491,NM
+1303,700167020,Crystal Black Pearl (ext) | Ebony (int),6058,Certified 2016 Acura TLX TLX,9AT,30995,TN
+1304,698240371,Crystal Black Pearl (ext) | Ebony (int),6396,Certified 2016 Acura TLX TLX2.4,8DC,26888,CA
+1305,699951804,Graphite Luster Metallic (ext) | Ebony (int),6690,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26995,MN
+1306,699217358,Basque Red Pearl Ii (ext) | Parchment (int),6920,Certified 2016 Acura TLX TECH,9AT,36891,PA
+1307,699076697,Bellanova White Pearl (ext) | Ebony (int),7141,Certified 2016 Acura TLX TLX,9AT,36260,FL
+1308,699160869,Bellanova White Pearl (ext) | Espresso (int),7176,Certified 2016 Acura TLX TLX2.4,8DC,29488,NY
+1309,698751343,Graphite Luster Metallic (ext) | Ebony (int),7271,Certified 2015 Acura TLX TECH,9AT,31697,MI
+1310,697634040,Crystal Black Pearl (ext) | Graystone (int),7339,Certified 2016 Acura TLX TLX2.4,8DC,26990,MI
+1311,695955377,Bellanova White Pearl (ext),7457,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,26208,FL
+1312,699798272,Slate Silver Metallic (ext) | Ebony (int),7660,Certified 2016 Acura TLX TLX2.4,8DC,24755,TX
+1313,697990488,Fathom Blue Pearl (ext) | Graystone (int),7763,Certified 2015 Acura TLX ADVANCE,9AT,32864,TX
+1314,697990495,Graphite Luster Metallic (ext) | Graystone (int),7782,Certified 2016 Acura TLX TLX2.4,8DC,26900,CA
+1315,698239472,Bellanova White Pearl (ext) | Graystone (int),7795,Certified 2016 Acura TLX TLX2.4,8DC,26888,CA
+1316,696424554,Bellanova White Pearl (ext) | Espresso (int),7816,Certified 2015 Acura TLX AWDTECH,9AT | AWD,28489,FL
+1317,699217537,Graphite Luster Metallic (ext) | Graystone (int),8056,Certified 2016 Acura TLX TECH,9AT,36891,PA
+1318,687788387,Black Copper Pearl (ext) | Parchment (int),8307,Certified 2016 Acura TLX TLX2.4,8DC,26750,CA
+1319,697634058,Bellanova White Pearl (ext) | Graystone (int),8600,Certified 2016 Acura TLX TLX2.4,8DC,27876,TX
+1320,697070993,Slate Silver Metallic (ext) | Graystone (int),8644,Certified 2016 Acura TLX TECH,9AT,30750,CA
+1321,687355957,Bellanova White Pearl (ext) | Ebony (int),8705,Certified 2015 Acura TLX TECH,9AT,28779,TN
+1322,695254809,Graphite Luster Metallic (ext) | Ebony (int),8790,Certified 2016 Acura TLX TLX2.4,8DC,22995,VT
+1323,696837426,Crystal Black Pearl (ext) | Ebony (int),8795,Certified 2016 Acura TLX TECH2.4,8DC,27425,TX
+1324,693554593,Bellanova White Pearl (ext) | Ebony (int),8953,Certified 2016 Acura TLX TLX2.4,8DC,27988,CA
+1325,699823869,Fathom Blue Pearl (ext),8990,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,26937,AZ
+1326,697275691,Crystal Black Pearl (ext) | Graystone (int),9377,Certified 2015 Acura TLX TLX2.4,8DC,26000,LA
+1327,699436251,Maroon (ext) | Parchment (int),9454,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,30991,TX
+1328,692356196,Black Copper Pearl (ext) | Parchment (int),9500,Certified 2016 Acura TLX TECH,9AT,33989,NH
+1329,700673002,White (ext),9750,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,28998,MA
+1330,694203116,Graphite Luster Metallic (ext) | Graystone (int),9867,Certified 2016 Acura TLX AWDTECH,9AT | AWD,33170,NY
+1331,697897485,Black Copper Pearl (ext) | Espresso (int),9955,Certified 2016 Acura TLX TECH,9AT,28145,TX
+1332,694980592,Graphite Luster Metallic (ext) | Ebony (int),10416,Certified 2016 Acura TLX TLX2.4,8DC,27342,NY
+1333,694203014,Bellanova White Pearl (ext) | Espresso (int),10502,Certified 2016 Acura TLX TLX2.4,8DC,26392,NY
+1334,697070954,Bellanova White Pearl (ext) | Graystone (int),10601,Certified 2016 Acura TLX TLX2.4,8DC,26995,CA
+1335,699445468,Black Copper Pearl (ext) | Espresso (int),10627,Certified 2016 Acura TLX TECH,9AT,28249,TX
+1336,700696379,Brown (ext),10638,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,19999,UT
+1337,700589142,Crystal Black Pearl (ext) | Ebony (int),10707,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,31779,GA
+1338,698851633,Graphite Luster Metallic (ext) | Ebony (int),10712,Certified 2015 Acura TLX TECH2.4,8DC,24988,TX
+1339,694305239,Crystal Black Pearl (ext) | Graystone (int),10723,Certified 2015 Acura TLX ADVANCE,9AT,31211,WA
+1340,698240162,Graphite Luster Metallic (ext) | Graystone (int),10812,Certified 2015 Acura TLX TLX,9AT,27577,SD
+1341,698632533,Crystal Black Pearl (ext) | Graystone (int),11138,Certified 2016 Acura TLX AWDTECH,9AT | AWD,31998,MI
+1342,692354423,Crystal Black Pearl (ext) | Ebony (int),11143,Certified 2016 Acura TLX TLX2.4,8DC,26312,NY
+1343,692245641,Bellanova White Pearl (ext) | Ebony (int),11353,Certified 2016 Acura TLX TLX2.4,8DC,26253,NY
+1344,693992394,Slate Silver Metallic (ext) | Ebony (int),11437,Certified 2016 Acura TLX AWDTECH,9AT | AWD,32500,NY
+1345,700286601,Basque Red Pearl Ii (ext) | Parchment (int),11439,Certified 2015 Acura TLX ADVANCE,9AT,31995,CA
+1346,693992426,Slate Silver Metallic (ext) | Ebony (int),12063,Certified 2016 Acura TLX AWDTECH,9AT | AWD,31750,NY
+1347,700388555,Slate Silver Metallic (ext) | Ebony (int),12083,Certified 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28900,NJ
+1348,699217357,Graphite Luster Metallic (ext) | Ebony (int),12248,Certified 2016 Acura TLX TLX2.4,8DC,25958,NY
+1349,700521524,Bellanova White Pearl (ext) | Espresso (int),12478,Certified 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26900,NJ
+1350,698449555,Graphite Luster Metallic (ext) | Ebony (int),12711,Certified 2015 Acura TLX TLX2.4,8DC,24970,IL
+1351,699798342,Graphite Luster Metallic (ext) | Graystone (int),12725,Certified 2015 Acura TLX ADVANCE,9AT,31682,MI
+1352,700523582,Bellanova White Pearl (ext) | Ebony (int),13512,Used 2015 Acura TLX V6,9AT,30677,CO
+1353,698852002,Basque Red Pearl Ii (ext) | Parchment (int),13520,Certified 2016 Acura TLX TLX,9AT,28499,NJ
+1354,699557070,Black Copper Pearl (ext) | Espresso (int),13909,Certified 2015 Acura TLX TECH2.4,8DC,24985,MA
+1355,698240020,Slate Silver Metallic (ext) | Ebony (int),14042,Certified 2015 Acura TLX TLX2.4,8DC,23977,SD
+1356,699217309,Black Copper Pearl (ext) | Espresso (int),14130,Certified 2016 Acura TLX TECH,9AT,31868,VA
+1357,698969198,Crystal Black Pearl (ext) | Ebony (int),14255,Certified 2015 Acura TLX TECH,9AT,27476,PA
+1358,698329040,Bellanova White Pearl (ext) | Graystone (int),14302,Certified 2016 Acura TLX TECH,9AT,30500,MI
+1359,700271214,Graphite Luster Metallic (ext),14338,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,29900,NJ
+1360,697634038,Bellanova White Pearl (ext) | Espresso (int),14479,Certified 2015 Acura TLX TLX2.4,8DC,29999,TX
+1361,700501556,Bellanova White Pearl (ext) | Graystone (int),14573,Certified 2015 Acura TLX TLX2.4,8DC,26000,AZ
+1362,700339885,Graphite Luster Metallic (ext),14602,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,37228,OH
+1363,698721248,Gray (ext) | Black (int),14650,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27482,AL
+1364,689506897,Graphite Luster Metallic (ext) | Ebony (int),14954,Certified 2016 Acura TLX TECH,9AT,30387,NY
+1365,700403300,Bellanova White Pearl (ext),15290,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,24991,TX
+1366,698632547,Crystal Black Pearl (ext) | Graystone (int),15383,Certified 2015 Acura TLX TECH2.4,8DC,24195,PA
+1367,699916456,9-Speed Automatic | FWD,15500,Used 2015 Acura TLX V6 Tech,Fathom Blue Pearl (ext) | Graystone (int),27991,TN
+1368,699160856,Graphite Luster Metallic (ext) | Ebony (int),15967,Certified 2016 Acura TLX TLX2.4,8DC,24879,MA
+1369,699972469,Graphite Luster Metallic (ext) | Ebony (int),16142,Certified 2015 Acura TLX TECH2.4,8DC,27995,VA
+1370,698851925,Crystal Black Pearl (ext) | Ebony (int),16793,Certified 2016 Acura TLX TECH2.4,8DC,25800,MI
+1371,699076565,Black Copper Pearl (ext) | Espresso (int),17014,Certified 2015 Acura TLX TECH,9AT,27961,CA
+1372,693473430,Crystal Black Pearl (ext) | Espresso (int),17892,Certified 2015 Acura TLX TECH,9AT,28985,WA
+1373,700323074,8-Speed Automatic with Auto-Shift | FWD,17900,Used 2015 Acura TLX Tech,Bellanova White Pearl (ext) | Greystone (int),24999,FL
+1374,700388764,Crystal Black Pearl (ext) | Ebony (int),18163,Certified 2015 Acura TLX V6 Advance,9-Speed Automatic | AWD,29900,NJ
+1375,696837429,Slate Silver Metallic (ext) | Ebony (int),18168,Certified 2016 Acura TLX TECH,9AT,29725,CA
+1376,700167965,Basque Red Pearl Ii (ext) | Parchment (int),18189,Certified 2015 Acura TLX TLX2.4,8DC,24114,FL
+1377,697194991,Crystal Black Pearl (ext) | Espresso (int),18657,Certified 2016 Acura TLX AWDTECH,9AT | AWD,32975,IL
+1378,698127500,Graphite Luster Metallic (ext) | Ebony (int),18960,Certified 2016 Acura TLX TECH,9AT,28487,FL
+1379,698329156,Crystal Black Pearl (ext) | Espresso (int),19206,Certified 2015 Acura TLX TECH,9AT,27977,SD
+1380,687788593,Bellanova White Pearl (ext) | Espresso (int),19211,Certified 2015 Acura TLX TECH,9AT,32995,NJ
+1381,697196218,Crystal Black Pearl (ext) | Ebony (int),19221,Certified 2015 Acura TLX TECH2.4,8DC,26974,IL
+1382,699548646,Gray (ext),19370,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,29600,CO
+1383,695107380,Slate Silver Metallic (ext) | Ebony (int),19602,Certified 2015 Acura TLX AWDADV,9AT | AWD,29995,CA
+1384,700705382,Graphite Luster Metallic (ext) | Ebony (int),19892,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,24991,TX
+1385,699849296,Bellanova White Pearl (ext) | Ebony (int),20192,Used 2016 Acura TLX V6 Tech,8DC,24144,FL
+1386,700401820,Graphite Luster Metallic (ext) | Graystone (int),20305,Certified 2016 Acura TLX TECH2.4,8DC,25991,CA
+1387,697196090,Crystal Black Pearl (ext) | Espresso (int),20463,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25752,NC
+1388,697195749,Crystal Black Pearl (ext) | Graystone (int),20672,Certified 2015 Acura TLX TECH,9AT,28977,WA
+1389,693554527,Black Copper Pearl (ext) | Parchment (int),20821,Certified 2016 Acura TLX TECH,9AT,26994,CA
+1390,700501215,Graphite Luster Metallic (ext) | Graystone (int),20894,Certified 2015 Acura TLX TECH,9AT,27374,PA
+1391,700439636,Bellanova White Pearl (ext) | Graystone (int),21882,Certified 2015 Acura TLX TLX2.4,8DC,25490,NM
+1392,696963075,Crystal Black Pearl (ext) | Graystone (int),22018,Certified 2015 Acura TLX TLX2.4,8DC,25206,NY
+1393,699798089,Graphite Luster Metallic (ext) | Ebony (int),22964,Certified 2015 Acura TLX TLX2.4,8DC,23640,FL
+1394,699972472,Graphite Luster Metallic (ext) | Ebony (int),23035,Certified 2015 Acura TLX TECH,9AT,27800,CA
+1395,700639442,Black Copper Pearl (ext) | Ebony (int),23426,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27777,MD
+1396,699620531,Black (ext) | Black (int),24000,Used 2015 Acura TLX V6 Tech,Automatic | FWD,26374,TX
+1397,691260926,Graphite Luster Metallic (ext) | Ebony (int),24189,Certified 2015 Acura TLX ADVANCE,9AT,27000,NY
+1398,700651989,Black (ext) | Black (int),24398,Used 2016 Acura TLX V6,9-Speed Automatic w/OD | FWD,28750,TX
+1399,700457654,9-Speed Automatic | FWD,25300,Used 2015 Acura TLX V6 Tech,Crystal Black Pearl (ext) | Espresso (int),26965,CA
+1400,700619353,Slate Silver Metallic (ext) | Graystone (int),26312,Certified 2015 Acura TLX TECH,9AT,27500,AZ
+1401,698632435,Crystal Black Pearl (ext) | Ebony (int),27773,Certified 2015 Acura TLX TLX2.4,8DC,25924,VA
+1402,697070951,Slate Silver Metallic (ext) | Ebony (int),27774,Certified 2015 Acura TLX AWDTECH,9AT | AWD,26250,NY
+1403,694860798,Slate Silver Metallic (ext) | Graystone (int),28013,Certified 2015 Acura TLX ADVANCE,9AT,28907,TN
+1404,699768211,Crystal Black Pearl (ext) | Ebony (int),28387,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | AWD,27191,IL
+1405,696724013,Graphite Luster Metallic (ext) | Ebony (int),28387,Certified 2015 Acura TLX AWDTECH,9AT | AWD,29951,SD
+1406,700294820,Crystal Black Pearl (ext) | Greystone (int),28554,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25451,MA
+1407,698913222,Bellanova White Pearl (ext) | Greystone (int),29743,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,24998,NC
+1408,700370038,Fathom Blue Pearl (ext) | Ebony (int),30534,Certified 2015 Acura TLX V6,Automatic | FWD,25981,CA
+1409,694860940,Graphite Luster Metallic (ext) | Graystone (int),31235,Certified 2015 Acura TLX TECH,9AT,26500,CA
+1410,700732129,Slate Silver Metallic (ext) | Ebony (int),31852,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23559,MI
+1411,700402212,Graphite Luster Metallic (ext) | Graystone (int),32190,Certified 2015 Acura TLX TECH,9AT,26990,FL
+1412,699076792,Bellanova White Pearl (ext) | Espresso (int),32341,Certified 2015 Acura TLX ADVANCE,9AT,27998,CA
+1413,700631397,Slate Silver Metallic (ext) | Graystone (int),32995,Certified 2015 Acura TLX TLX,9AT,26900,AZ
+1414,692535577,Bellanova White Pearl (ext) | Graystone (int),33074,Certified 2015 Acura TLX TECH,9AT,25500,CA
+1415,695107297,Graphite Luster Metallic (ext) | Ebony (int),33588,Certified 2015 Acura TLX TECH,9AT,25967,IL
+1416,699160857,Basque Red Pearl Ii (ext) | Parchment (int),33916,Certified 2015 Acura TLX ADVANCE,9AT,28500,AZ
+1417,695345159,Slate Silver Metallic (ext) | Graystone (int),35130,Certified 2016 Acura TLX TECH,9AT,28591,NV
+1418,700104529,Silver (ext),35234,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,22000,AR
+1419,699556940,Bellanova White Pearl (ext) | Graystone (int),35922,Certified 2015 Acura TLX TLX2.4,8DC,22899,NJ
+1420,700614300,Slate Silver Metallic (ext) | Ebony (int),35964,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27502,FL
+1421,694554636,Basque Red Pearl Ii (ext) | Parchment (int),36369,Certified 2015 Acura TLX TECH,9AT,23466,FL
+1422,700090220,Bellanova White Pearl (ext) | Graystone (int),36541,Certified 2015 Acura TLX ADVANCE,9AT,31995,TN
+1423,699576644,White (ext),36543,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23995,OK
+1424,698969757,Fathom Blue Pearl (ext) | Graystone (int),37230,Certified 2015 Acura TLX ADVANCE,9AT,28995,CA
+1425,699951907,Crystal Black Pearl (ext) | Ebony (int),37541,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23995,MN
+1426,700294469,Bellanova White Pearl (ext) | Espresso (int),38299,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,23900,KS
+1427,700163231,Gray (ext) | Greystone (int),43135,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23545,KY
+1428,699976954,Crystal Black Pearl (ext) | Ebony (int),43183,Used 2015 Acura TLX V6 Tech,Automatic | FWD,25000,TX
+1429,700636725,Bellanova White Pearl (ext) | Espresso (int),46900,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,21990,AL
+1430,699160983,Crystal Black Pearl (ext) | Ebony (int),48413,Certified 2015 Acura TLX TECH2.4,8DC,24000,CA
+1431,698970228,Bellanova White Pearl (ext) | Espresso (int),56376,Certified 2015 Acura TLX TECH,9AT,24995,TN
+1432,700212603,Black (ext),64846,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,21979,TN
+1433,700130096,Black (ext),70024,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,22343,IN
+1434,699962206,Black (ext),0,Used 2016 Acura TLX V6,8-Speed Automatic with Auto-Shift | FWD,25999,IL
+1435,700525168,White (ext) | Parchment (int),2,Used 2017 Acura TLX V6 w/Technology Package,9-Speed Automatic | FWD,38994,TN
+1436,700816234,Crystal Black (ext) | BLACK MILANO LEATHER (int),83,Used 2017 Acura TLX V6 Advance,9 speed automatic | AWD,37664,CA
+1437,664078717,Black Copper Pearl (ext) | PARCHMENT (int),261,Used 2015 Acura TLX Tech,8 speed automatic with auto-shift | FWD,29990,CA
+1438,700756367,Modern Steel Metallic (ext) | Ebony (int),1056,Used 2017 Acura TLX Tech,Automatic | FWD,27999,FL
+1439,700786036,Bellanova White Pearl (ext) | Graystone (int),1625,Used 2017 Acura TLX Technology,8DC,27971,CO
+1440,700450079,Bellanova White Pearl (ext),2032,Used 2017 Acura TLX Technology,8-Speed Automatic with Auto-Shift | FWD,32288,SC
+1441,700417485,Slate Silver Metallic (ext),2350,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,33900,CA
+1442,695666836,Bellanova White Pearl (ext) | Ebony (int),2363,Certified 2016 Acura TLX TLX,9AT,32000,UT
+1443,700785777,9-Speed Automatic | AWD,2402,Used 2017 Acura TLX V6 w/Technology Package,Graphite Luster Metallic (ext) | Graystone (int),42540,UT
+1444,699902718,Basque Red Pearl Ii (ext) | Parchment (int),2635,Certified 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28499,IL
+1445,692354437,Graphite Luster Metallic (ext) | Graystone (int),2842,Certified 2016 Acura TLX TECH,9AT,33500,UT
+1446,700501407,Crystal Black Pearl (ext) | Ebony (int),3245,Certified 2016 Acura TLX TECH,9AT,32800,UT
+1447,698632399,Crystal Black Pearl (ext) | Ebony (int),3315,Certified 2015 Acura TLX TECH,9AT,36990,MA
+1448,700575995,Fathom Blue Pearl (ext) | Greystone (int),3494,Used 2017 Acura TLX V6 Advance,9-Speed Automatic | AWD,37929,IL
+1449,700395442,White (ext) | Brown (int),3637,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23250,FL
+1450,698969228,Bellanova White Pearl (ext) | Graystone (int),3806,Certified 2016 Acura TLX TECH,9AT,31500,UT
+1451,700525169,White (ext),3989,Used 2017 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,29999,TN
+1452,700782826,Gray (ext) | Ebony (int),4107,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,29480,TX
+1453,695669671,Bellanova White Pearl (ext) | Ebony (int),4140,Certified 2016 Acura TLX TLX,9AT,32000,UT
+1454,691920885,Black (ext),4305,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,30888,CA
+1455,699798360,Bellanova White Pearl (ext) | Ebony (int),4403,Certified 2017 Acura TLX TECH,9AT,35491,CA
+1456,700062561,Modern Steel Metallic (ext) | Graystone (int),4442,Certified 2017 Acura TLX TECH,9AT,35991,CA
+1457,700471684,Gray (ext),4500,Used 2017 Acura TLX V6 w/Technology Package,9-Speed Automatic | FWD,31900,NY
+1458,699685880,8-Speed Automatic with Auto-Shift | FWD,4778,Used 2016 Acura TLX Base,Black (ext),27497,LA
+1459,697503377,Lunar Silver Metallic (ext) | Ebony (int),5122,Certified 2017 Acura TLX TECH,9AT,35991,CA
+1460,680769543,Bellanova White Pearl (ext) | Ebony (int),5198,Certified 2015 Acura TLX TECH,9AT,31722,IL
+1461,700816281,Crystal Black Pearl (ext) | Ebony (int),5544,Used 2017 Acura TLX Tech,9-Speed Automatic | AWD,34998,MD
+1462,699902788,Crystal Black Pearl (ext) | Ebony (int),5567,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,31999,IL
+1463,693473687,Slate Silver Metallic (ext) | Graystone (int),5632,Certified 2016 Acura TLX TLX2.4,8DC,25391,CA
+1464,698114992,Bellanova White Pearl (ext) | Espresso (int),5809,Certified 2015 Acura TLX TECH2.4,8DC,25988,TN
+1465,700728950,Crystal Black Pearl (ext),5845,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,33999,CA
+1466,699456136,Crystal Black Pearl (ext) | Ebony (int),5863,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | AWD,32999,IL
+1467,700646979,Black (ext),5925,Used 2016 Acura TLX V6 Tech,8-Speed Automatic with Auto-Shift | FWD,26288,CA
+1468,696169399,Graphite Luster Metallic (ext) | Espresso (int),6252,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | AWD,27895,NJ
+1469,699441835,Crystal Black Pearl (ext) | Ebony (int),6278,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,29998,MD
+1470,700501497,Bellanova White Pearl (ext) | Ebony (int),6383,Certified 2017 Acura TLX TECH2.4,8DC,29900,TX
+1471,699855939,Graphite Luster Metallic (ext) | Ebony (int),6527,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,28844,NY
+1472,699217614,Bellanova White Pearl (ext) | Graystone (int),7177,Certified 2015 Acura TLX ADVANCE,9AT,43520,CA
+1473,692957842,Graphite Luster Metallic (ext),7326,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,25900,CA
+1474,700463748,Crystal Black Pearl (ext),7418,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,28997,FL
+1475,700589984,Bellanova White Pearl (ext) | Graystone (int),7594,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26988,CA
+1476,688400244,Black Copper Pearl (ext) | Parchment (int),7603,Certified 2015 Acura TLX TLX2.4,8DC,25500,UT
+1477,699770202,Silver Metallic (ext),7981,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,34991,MD
+1478,700446949,Bellanova White Pearl (ext) | Ebony (int),8033,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,28900,FL
+1479,698632390,Graphite Luster Metallic (ext) | Ebony (int),8113,Certified 2015 Acura TLX ADVANCE,9AT,34990,MA
+1480,699441888,Bellanova White Pearl (ext) | Espresso (int),8138,Certified 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,34998,MD
+1481,700441242,Graphite Luster (ext),8310,Used 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | AWD,40000,WA
+1482,700449967,White Pearl (ext),8333,Used 2016 Acura TLX V6 Advance,9-Speed Automatic | AWD,33877,OH
+1483,700646973,Bellanova White Pearl (ext) | Graystone (int),8511,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,35742,LA
+1484,698632512,Bellanova White Pearl (ext) | Graystone (int),8550,Certified 2016 Acura TLX TECH2.4,8DC,28990,MA
+1485,699530390,Bellanova White Pearl (ext) | Graystone (int),8652,Certified 2016 Acura TLX V6,9-Speed Automatic | FWD,31806,CA
+1486,700646975,Crystal Black Pearl (ext) | Ebony (int),8850,Used 2016 Acura TLX V6 Tech,9AT,40295,CA
+1487,700804698,Bellanova White Pearl (ext) | Espresso (int),8899,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23533,NY
+1488,699902777,Bellanova White Pearl (ext) | Greystone (int),9067,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,29999,IL
+1489,700441243,Slate Silver (ext),9113,Used 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | AWD,40000,WA
+1490,694554643,Crystal Black Pearl (ext) | Graystone (int),9155,Certified 2016 Acura TLX TLX,9AT,25988,TX
+1491,699888585,Black (ext),9164,Certified 2017 Acura TLX Technology,8-Speed Automatic with Auto-Shift | FWD,27995,PA
+1492,700396066,Modern Steel Metallic (ext) | Graystone (int),9510,Used 2015 Acura TLX V6 Advance,8DC,28990,TX
+1493,700469101,Bellanova White (ext),10158,Used 2016 Acura TLX V6,9-Speed Automatic w/OD | FWD,37000,WA
+1494,698632550,Graphite Luster Metallic (ext) | Ebony (int),10229,Certified 2016 Acura TLX AWDTECH,9AT | AWD,34500,UT
+1495,700589981,Bellanova White Pearl (ext) | Graystone (int),10684,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,30988,CA
+1496,700050166,Bellanova White Pearl (ext) | Greystone (int),10829,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28900,WA
+1497,700441109,Graphite Luster (ext),10983,Used 2015 Acura TLX V6 Advance,9-Speed Automatic w/OD | FWD,41000,WA
+1498,699217449,Bellanova White Pearl (ext) | Espresso (int),11036,Certified 2016 Acura TLX TLX,9AT,32995,WA
+1499,694744209,Crystal Black Pearl (ext) | Graystone (int),11103,Certified 2016 Acura TLX TECH,9AT,29598,TX
+1500,700264151,Gray (ext),11127,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,20499,CO
+1501,700790093,Blue (ext) | Graystone (int),11251,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,23699,UT
+1502,700441110,Crystal Black Pearl (ext),11256,Used 2015 Acura TLX V6 Advance,9-Speed Automatic w/OD | FWD,41000,WA
+1503,700809898,9-Speed Automatic | AWD,11276,Used 2015 Acura TLX V6 Tech,Black (ext),29995,CO
+1504,700441108,Black Copper (ext),11527,Used 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | AWD,40000,WA
+1505,700441240,Bellanova White (ext),11543,Used 2015 Acura TLX V6 Tech,Automatic | AWD,40000,WA
+1506,696540682,Black Copper Pearl (ext) | Espresso (int),11739,Certified 2016 Acura TLX TECH2.4,8DC,27989,VA
+1507,700280506,Crystal Black Pearl (ext) | Ebony (int),11749,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28532,NY
+1508,700051187,Bellanova White Pearl (ext) | Espresso (int),11895,Used 2016 Acura TLX V6 Advance,9-Speed Automatic | AWD,29041,NY
+1509,700708389,Graphite Luster Metallic (ext) | Greystone (int),11947,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,28500,MA
+1510,694554645,Bellanova White Pearl (ext) | Ebony (int),12306,Certified 2016 Acura TLX TECH,9AT,29898,TX
+1511,694744215,Slate Silver Metallic (ext) | Ebony (int),12398,Certified 2016 Acura TLX TECH2.4,8DC,27908,TX
+1512,700713879,Bellanova White Pearl (ext),12422,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | AWD,29809,OH
+1513,680768957,Basque Red Pearl Ii (ext) | Parchment (int),12669,Certified 2015 Acura TLX AWDTECH,9AT | AWD,33981,CT
+1514,699611430,Gray (ext),12943,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,35000,CA
+1515,700745751,Crystal Black Pearl (ext) | Ebony (int),12984,Used 2015 Acura TLX V6 Tech,9AT,29781,VA
+1516,700162793,White (ext) | Ebony (int),13169,Used 2016 Acura TLX V6,9-Speed Automatic | FWD,28261,NY
+1517,696178920,Fathom Blue Pearl (ext) | Graystone (int),13179,Certified 2015 Acura TLX TECH2.4,8DC,29995,CT
+1518,698176656,Graphite Luster Metallic (ext) | Ebony (int),13296,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,29995,OR
+1519,700649242,Black (ext),13370,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,28888,CA
+1520,700720191,Graphite Luster Metallic (ext) | Ebony (int),13553,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24366,IL
+1521,698746071,Gray (ext) | Espresso (int),14252,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,24990,IL
+1522,700402490,Bellanova White Pearl (ext) | Ebony (int),14414,Certified 2016 Acura TLX TECH,9AT,30988,CA
+1523,700572405,Basque Red Pearl Ii (ext) | Parchment (int),14443,Certified 2016 Acura TLX TLX2.4,8DC,28995,AZ
+1524,700501384,Crystal Black Pearl (ext) | Graystone (int),14570,Certified 2015 Acura TLX TECH,9AT,28489,CA
+1525,694744196,Bellanova White Pearl (ext) | Graystone (int),14603,Certified 2015 Acura TLX TECH2.4,8DC,27955,VA
+1526,700816285,Slate Silver Metallic (ext),14918,Used 2016 Acura TLX V6,8-Speed Automatic with Auto-Shift | FWD,26995,HI
+1527,700710202,Graphite Luster Metallic (ext) | Graystone (int),15051,Certified 2016 Acura TLX AWDTECH,9AT | AWD,32657,MA
+1528,700619415,Crystal Black Pearl (ext) | Ebony (int),15273,Certified 2015 Acura TLX TLX,9AT,29988,FL
+1529,700501370,Fathom Blue Pearl (ext) | Graystone (int),15329,Certified 2015 Acura TLX TLX2.4,8DC,24390,FL
+1530,700395910,Graphite Luster Metallic (ext) | Greystone (int),15449,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23911,IL
+1531,700315283,Graphite Luster Metallic (ext) | Graystone (int),16302,Used 2016 Acura TLX V6 Tech,9-Speed Automatic w/OD | FWD,30994,IN
+1532,700112898,Black Copper Pearl (ext) | Espresso (int),16358,Used 2016 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,27000,VA
+1533,700296327,Fathom Blue Pearl (ext) | Graystone (int),17658,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,30487,NC
+1534,697503283,Crystal Black Pearl (ext) | Ebony (int),18324,Certified 2016 Acura TLX TLX,9AT,27988,TX
+1535,700401737,Graphite Luster Metallic (ext) | Graystone (int),18443,Certified 2015 Acura TLX TECH,9AT,28995,TN
+1536,696540466,Crystal Black Pearl (ext) | Espresso (int),18720,Certified 2016 Acura TLX AWDADV,9AT | AWD,33500,UT
+1537,700804892,Black (ext),18808,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,27600,VA
+1538,700445063,Red (ext),19013,Used 2015 Acura TLX V6,9-Speed Automatic w/OD | FWD,26500,NC
+1539,699160866,Basque Red Pearl Ii (ext) | Parchment (int),19273,Certified 2015 Acura TLX TLX,9AT,29995,WA
+1540,700799285,Crystal Black Pearl (ext) | Espresso (int),19510,Used 2015 Acura TLX V6 Tech,8-Speed Automatic with Auto-Shift | FWD,26787,CO
+1541,699916790,Graphite Luster Metallic (ext) | Greystone (int),19555,Certified 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,26498,FL
+1542,700047373,Gray (ext) | Ebony (int),19568,Certified 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,26351,CT
+1543,699785783,Bellanova White Pearl (ext) | Espresso (int),19692,Certified 2015 Acura TLX V6 Advance,Automatic | FWD,29500,CO
+1544,700759326,White (ext) | Brown (int),19790,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,28981,AL
+1545,700373399,Black (ext),20129,Used 2015 Acura TLX Tech,Automatic | FWD,25700,PA
+1546,700137075,8-Speed Automatic with Auto-Shift | FWD,20268,Used 2016 Acura TLX Base,Graphite Luster Metallic (ext) | Ebony (int),25657,NJ
+1547,700357088,Gray (ext),20364,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,24383,NY
+1548,700427130,Basque Red Pearl Ii (ext) | Parchment (int),20719,Used 2015 Acura TLX V6 Tech,Automatic | FWD,27000,TX
+1549,700777733,Crystal Black Pearl (ext) | Ebony (int),21009,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | AWD,29888,MD
+1550,700496575,White (ext) | Black (int),21195,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,29801,CA
+1551,699256409,Crystal Black Pearl (ext) | Ebony (int),21349,Certified 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27562,MD
+1552,695773970,Graphite Luster Metallic (ext) | Graystone (int),21862,Certified 2015 Acura TLX TLX,9AT,25491,CA
+1553,700382793,Dark Gray (ext) | Black (int),22166,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,25500,NC
+1554,700400013,Dark Gray (ext) | Black (int),22166,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,25500,GA
+1555,700685581,Fathom Blue Pearl (ext),23200,Used 2015 Acura TLX V6,8-Speed Automatic with Auto-Shift | FWD,24377,OH
+1556,700563405,White (ext),23254,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | FWD,25998,MN
+1557,699997100,Black (ext),23315,Used 2015 Acura TLX Base,8-Speed Auto-Shift Manual w/OD | FWD,25999,WA
+1558,700467376,Gray (ext),23346,Certified 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,26153,FL
+1559,698322264,Graphite Luster Metallic (ext) | Ebony (int),23640,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27492,NM
+1560,700710204,Bellanova White Pearl (ext) | Graystone (int),24152,Certified 2015 Acura TLX TLX,9AT,25990,FL
+1561,700480421,Black Copper Pearl (ext) | Parchment (int),24380,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,27548,MI
+1562,700705641,Graphite Luster Metallic (ext),24498,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,26995,OH
+1563,700753771,Black (ext),25103,Used 2016 Acura TLX V6 Advance,9-Speed Automatic | FWD,31995,TX
+1564,699336029,Bellanova White Pearl (ext),25139,Certified 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23998,FL
+1565,700427390,Crystal Black Pearl (ext) | Ebony (int),25210,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25929,IL
+1566,700739795,Black (ext),25288,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,28650,MD
+1567,698126094,Gray (ext),25341,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,22900,FL
+1568,699648008,Crystal Black Pearl (ext) | Ebony (int),25494,Certified 2015 Acura TLX TLX,9AT,26317,DE
+1569,699293802,Black (ext),25500,Used 2016 Acura TLX V6 Tech,9-Speed Automatic | FWD,31882,MD
+1570,699153566,Slate Silver Metallic (ext) | Ebony (int),25739,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24470,TX
+1571,700790676,Gray (ext),26255,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,26998,IL
+1572,700809538,Black (ext),26333,Used 2016 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,27991,TX
+1573,692524322,Black (ext),26460,Used 2015 Acura TLX V6 Advance,9-Speed Automatic w/OD | AWD,29995,NJ
+1574,690403501,Graphite Luster Metallic (ext) | Ebony (int),27111,Certified 2016 Acura TLX TLX2.4,8DC,24250,UT
+1575,700728782,Graphite Luster Metallic (ext),27559,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,26977,OH
+1576,700645218,Black (ext) | Black (int),28150,Used 2015 Acura TLX V6,Automatic | FWD,27000,NC
+1577,700816278,Bellanova White Pearl (ext) | Espresso (int),28615,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,25995,WI
+1578,700401826,Bellanova White Pearl (ext) | Graystone (int),29148,Certified 2016 Acura TLX TECH,9AT,32999,CA
+1579,698114875,Crystal Black Pearl (ext) | Ebony (int),29200,Certified 2015 Acura TLX AWDADV,9AT | AWD,27337,TX
+1580,700563135,Black Copper Pearl (ext) | Parchment (int),29336,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25985,CA
+1581,700167257,Crystal Black Pearl (ext) | Ebony (int),29356,Certified 2015 Acura TLX TLX2.4,8DC,24000,CA
+1582,700784763,Bellanova White Pearl (ext) | Espresso (int),29528,Used 2015 Acura TLX V6 Advance,9-Speed Automatic | AWD,27991,MD
+1583,700634225,9-Speed Automatic | FWD,30188,Used 2015 Acura TLX V6,Black (ext) | Black (int),26979,CO
+1584,700809248,Gray (ext),30728,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,24490,MO
+1585,700303199,Gray (ext),30922,Used 2015 Acura TLX V6 Tech,9-Speed Automatic w/OD | FWD,27686,PA
+1586,700807018,Slate Silver Metallic (ext) | Espresso (int),31387,Used 2015 Acura TLX V6,8-Speed Automatic with Auto-Shift | FWD,21991,SC
+1587,700789972,Dark Brown (ext) | Brown (int),31388,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,18999,UT
+1588,700794855,9-Speed Automatic | FWD,31663,Used 2015 Acura TLX V6,White (ext) | Brown (int),26856,NY
+1589,697761036,Black Copper Pearl (ext) | Parchment (int),31862,Certified 2015 Acura TLX TLX2.4,8DC,22991,CA
+1590,700709342,Graphite Luster Metallic (ext),33329,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,25000,CT
+1591,700439573,Crystal Black Pearl (ext) | Ebony (int),33573,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,23929,IL
+1592,700590015,Bellanova White Pearl (ext) | Greystone (int),33666,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,21199,CA
+1593,700472358,Black Copper Pearl (ext) | Espresso (int),34409,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,23995,IL
+1594,700317398,Fathom Blue Pearl (ext) | Ebony (int),34882,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,21999,FL
+1595,700730193,9-Speed Automatic | FWD,35402,Used 2015 Acura TLX Base,Slate Silver Metallic (ext) | Ebony (int),24991,NJ
+1596,700792936,Bellanova White Pearl (ext) | Ebony (int),36096,Used 2015 Acura TLX Base,9-Speed Automatic w/OD | FWD,24499,NJ
+1597,700582621,Black (ext) | Beige (int),36508,Used 2015 Acura TLX Tech,8-Speed Automatic with Auto-Shift | FWD,25980,NJ
+1598,698941390,Graphite Luster Metallic (ext) | Ebony (int),37145,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,26500,CT
+1599,700296344,Bellanova White Pearl (ext) | Greystone (int),39309,Used 2015 Acura TLX V6,9-Speed Automatic | FWD,24487,NC
+1600,700032751,Bellanova White Pearl (ext) | Ebony (int),39967,Used 2015 Acura TLX Base,8-Speed Auto-Shift Manual w/OD | FWD,24999,NJ
+1601,699488226,Pearl White (ext) | Black (int),41232,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | AWD,27633,PA
+1602,699760567,Black (ext) | Ebony (int),41626,Certified 2015 Acura TLX V6,9-Speed Automatic w/OD | FWD,25295,IN
+1603,700582712,Gray (ext),42464,Used 2015 Acura TLX V6 Tech,9-Speed Automatic | FWD,26880,NJ
+1604,700613065,Brown (ext),44351,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,20768,MA
+1605,700480747,Silver (ext) | Taupe (int),45057,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,20591,IL
+1606,700622362,Gray (ext),45211,Used 2015 Acura TLX V6 Tech,Automatic | AWD,32000,WA
+1607,700816280,Crystal Black Pearl (ext) | Ebony (int),46796,Used 2015 Acura TLX V6 Tech,8-Speed Auto-Shift Manual w/OD | FWD,22495,IN
+1608,700521772,Black (ext),48517,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,21999,TX
+1609,699104495,Black Copper Pearl (ext) | Espresso (int),65534,Used 2015 Acura TLX Base,8-Speed Automatic with Auto-Shift | FWD,18870,NJ

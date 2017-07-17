@@ -1,0 +1,400 @@
+,id,miles,name,powertrain,price,state,brand,model,year,capacity,Certified,strange_pt2,gearbox,dwheel,ext,int
+0,697912096,46798,Used 2015 INFINITI Q70L 3.7,7-Speed Automatic | RWD,33998,AL,infinity,Q70,2015,3.7,0,0,auto,RWD,Black Obsidian,
+1,700173284,16722,Certified 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,36991,OH,infinity,Q70,2015,3.7,1,0,auto,AWD,Graphite Shadow,Stone
+2,695888661,20229,Certified 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,31994,OH,infinity,Q70,2015,3.7,1,0,auto,AWD,Graphite Shadow,Wheat
+3,697692020,15035,Certified 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,34993,OH,infinity,Q70,2015,3.7,1,0,auto,AWD,Black Obsidian,Stone
+4,694988659,13446,Used 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,34990,WA,infinity,Q70,2016,3.7,0,0,auto,AWD,Gray,
+5,695660086,8713,Certified 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,43991,WA,infinity,Q70,2015,3.7,1,0,auto,AWD,Black Obsidian,Stone
+6,697865322,19084,Used 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,35000,VA,infinity,Q70,2016,3.7,0,0,auto,AWD,Graphite Shadow,Graphite
+7,698393114,20260,Certified 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,40495,MI,infinity,Q70,2015,3.7,1,0,auto,AWD,Storm Front Gray,Wheat
+8,698846419,21646,Used 2016 INFINITI Q70L 3.7,7-Speed Automatic | RWD,40992,FL,infinity,Q70,2016,3.7,0,0,auto,RWD,Black,Stone
+9,698825641,17938,Certified 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,40495,MI,infinity,Q70,2015,3.7,1,0,auto,AWD,Graphite Shadow,
+10,682766666,2,Certified 2015 INFINITI Q70L 3.7,7-Speed Automatic | RWD,41089,SC,infinity,Q70,2015,3.7,1,0,auto,RWD,Black Obsidian,Stone
+11,693512788,15,Used 2016 INFINITI Q70L,7-Speed Automatic w/OD | RWD,47750,IN,infinity,Q70,2016,,0,0,auto,RWD,Black,Stone W/Semi-Aniline Leather Appointed Seating
+12,700235245,3696,Certified 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,42110,FL,infinity,Q70,2016,3.7,1,0,auto,RWD,Hermosa Blue,Graphite
+13,672395572,4035,Used 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,27299,NV,infinity,Q70,2015,3.7,0,0,auto,RWD,Storm Front Gray,
+14,699636470,4089,Used 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,37985,CT,infinity,Q70,2016,3.7,0,0,auto,AWD,Black,
+15,692817146,5848,Certified 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,40800,NY,infinity,Q70,2016,3.7,1,0,auto,AWD,Black Obsidian,Wheat
+16,694638295,5927,Used 2016 INFINITI Q70h,7-Speed Automatic | RWD,36999,GA,infinity,Q70,2016,,0,0,auto,RWD,Majestic White,Java
+17,699890466,6129,Certified 2017 INFINITI Q70 3.7X,7-Speed Automatic | AWD,44775,CA,infinity,Q70,2017,3.7,1,0,auto,AWD,Majestic White,Wheat
+18,690454883,6196,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,33500,GA,infinity,Q70,2016,3.7,0,0,auto,RWD,Hermosa Blue,Graphite
+19,699736968,6448,Used 2016 INFINITI Q70L 5.6X DELUXE TECHNOLOGY 20&#x27; WHEELS,7-Speed Automatic w/OD | AWD,56999,IN,infinity,Q70,2016,5.6,0,0,auto,AWD,Hermosa Blue,Java W/Semi-Aniline Leather Appointed Seating
+20,700235247,6710,Certified 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,37988,FL,infinity,Q70,2016,3.7,1,0,auto,RWD,Majestic White,Graphite
+21,699928480,7902,Certified 2016 INFINITI Q70L 5.6X,7-Speed Automatic | AWD,53998,TX,infinity,Q70,2016,5.6,1,0,auto,AWD,Majestic White,Stone
+22,697252556,8824,Certified 2015 INFINITI Q70L 3.7,7-Speed Automatic | RWD,39900,CA,infinity,Q70,2015,3.7,1,0,auto,RWD,Moonlight White,
+23,696892047,10201,Certified 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,38900,CA,infinity,Q70,2015,3.7,1,0,auto,RWD,Black Obsidian,Stone
+24,700346865,10423,Used 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,43791,MO,infinity,Q70,2015,3.7,0,0,auto,AWD,Chestnut Bronze,Wheat
+25,698927686,10429,Certified 2016 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,45987,VA,infinity,Q70,2016,3.7,1,0,auto,AWD,Black,
+26,694616953,10557,Certified 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,36000,CA,infinity,Q70,2015,3.7,1,0,auto,RWD,Liquid Platinum,Wheat
+27,699543062,11143,Certified 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,40598,MA,infinity,Q70,2015,3.7,1,0,auto,AWD,Black Obsidian,Wheat
+28,698557417,11420,Used 2016 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,43991,TX,infinity,Q70,2016,3.7,0,0,auto,AWD,Black Obsidian,Stone
+29,694481100,11551,Certified 2016 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,43901,NJ,infinity,Q70,2016,3.7,1,0,auto,AWD,Blue,Stone
+30,695862138,12154,Used 2016 INFINITI Q70L 3.7,7-Speed Automatic | RWD,39499,GA,infinity,Q70,2016,3.7,0,0,auto,RWD,Majestic White,Graphite
+31,697284303,12182,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,39999,FL,infinity,Q70,2016,3.7,0,0,auto,RWD,Black,
+32,698267339,12229,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,36500,FL,infinity,Q70,2016,3.7,0,0,auto,RWD,Black Obsidian,Wheat
+33,691488458,12239,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,36500,FL,infinity,Q70,2016,3.7,0,0,auto,RWD,Black Obsidian,Stone
+34,693080718,12249,Certified 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,42400,NY,infinity,Q70,2016,3.7,1,0,auto,AWD,Majestic White,Graphite
+35,700364868,12301,Certified 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,38300,VA,infinity,Q70,2016,3.7,1,0,auto,AWD,Graphite Shadow,Graphite
+36,696624144,12483,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,36999,FL,infinity,Q70,2016,3.7,0,0,auto,RWD,Silver,
+37,698927127,12965,Certified 2016 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,46397,VA,infinity,Q70,2016,3.7,1,0,auto,AWD,Black,
+38,685844932,13056,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,35112,TX,infinity,Q70,2016,3.7,0,0,auto,RWD,Chestnut Bronze,
+39,696927305,13073,Used 2016 INFINITI Q70L 3.7,7-Speed Automatic | RWD,38984,FL,infinity,Q70,2016,3.7,0,0,auto,RWD,Blue,
+40,700056194,13381,Used 2016 INFINITI Q70L 3.7,7-Speed Automatic | RWD,42000,FL,infinity,Q70,2016,3.7,0,0,auto,RWD,Blue,
+41,696596872,14031,Used 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,37250,MI,infinity,Q70,2016,3.7,0,0,auto,AWD,Malbec Black,
+42,698520274,14600,Used 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,26995,UT,infinity,Q70,2015,3.7,0,0,auto,AWD,Graphite Shadow,Black
+43,697325478,15574,Certified 2015 INFINITI Q70L 3.7,7-Speed Automatic | RWD,43719,FL,infinity,Q70,2015,3.7,1,0,auto,RWD,Moonlight White,Stone
+44,699365033,15742,Used 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,35900,GA,infinity,Q70,2015,3.7,0,0,auto,AWD,Hermosa Blue,Wheat
+45,698201708,15756,Used 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,31500,GA,infinity,Q70,2015,3.7,0,0,auto,RWD,Black Obsidian,Wheat
+46,686189197,15805,Certified 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,39998,AL,infinity,Q70,2016,3.7,1,0,auto,RWD,Black Obsidian,Graphite
+47,686787927,16884,Certified 2015 INFINITI Q70L,7-Speed Automatic w/OD | RWD,44900,FL,infinity,Q70,2015,,1,0,auto,RWD,Black Obsidian,
+48,685116130,17297,Used 2015 INFINITI Q70L Deluxe Technology Package,7-Speed Automatic w/OD | RWD,39000,WA,infinity,Q70,2015,,0,0,auto,RWD,Black Obsidian,Graphite
+49,694873701,17663,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,33989,TX,infinity,Q70,2016,3.7,0,0,auto,RWD,Gray,Graphite
+50,695552267,17879,Used 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,34525,NJ,infinity,Q70,2015,3.7,0,0,auto,AWD,Black Obsidian,Stone
+51,696825789,18408,Used 2015 INFINITI Q70L 3.7,7-Speed Automatic | RWD,35700,FL,infinity,Q70,2015,3.7,0,0,auto,RWD,Black Obsidian,Stone
+52,698870351,18493,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,35888,TX,infinity,Q70,2016,3.7,0,0,auto,RWD,Black Obsidian,Graphite
+53,696542358,18618,Certified 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,35445,TX,infinity,Q70,2016,3.7,1,0,auto,RWD,Black Obsidian,Graphite
+54,689242307,18692,Certified 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,35985,CA,infinity,Q70,2016,3.7,1,0,auto,RWD,Liquid Platinum,Graphite
+55,692983205,18940,Used 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,33388,MA,infinity,Q70,2016,3.7,0,0,auto,AWD,Black Obsidian,Graphite
+56,698079630,19068,Used 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,38999,WI,infinity,Q70,2015,3.7,0,0,auto,AWD,Black Obsidian,Stone
+57,698665845,19323,Used 2016 INFINITI Q70L 5.6X,7-Speed Automatic | AWD,48427,UT,infinity,Q70,2016,5.6,0,0,auto,AWD,Chestnut Bronze,
+58,697850714,19646,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,34000,AZ,infinity,Q70,2016,3.7,0,0,auto,RWD,Black Obsidian,Graphite
+59,698376315,19662,Certified 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,33900,PA,infinity,Q70,2015,3.7,1,0,auto,AWD,Chestnut Bronze,Wheat
+60,696058032,19782,Used 2015 INFINITI Q70L 3.7,7-Speed Automatic | RWD,38300,FL,infinity,Q70,2015,3.7,0,0,auto,RWD,Liquid Platinum,Wheat
+61,697756017,19830,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,33998,FL,infinity,Q70,2016,3.7,0,0,auto,RWD,Gray,Graphite
+62,697887119,19949,Used 2015 INFINITI Q70 5.6,7-Speed Automatic | RWD,38498,FL,infinity,Q70,2015,5.6,0,0,auto,RWD,Black Obsidian,Stone
+63,686879828,20038,Used 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,31634,OH,infinity,Q70,2015,3.7,0,0,auto,AWD,Chestnut Bronze,
+64,699365487,20138,Certified 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,37588,CT,infinity,Q70,2015,3.7,1,0,auto,AWD,Black Obsidian,
+65,699944469,20931,Used 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,33500,FL,infinity,Q70,2015,3.7,0,0,auto,AWD,Black Obsidian,Black
+66,697238477,21471,Used 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,33950,MA,infinity,Q70,2016,3.7,0,0,auto,AWD,Black,Graphite
+67,698265532,21515,Used 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,37000,CO,infinity,Q70,2015,3.7,0,0,auto,AWD,Chestnut Bronze,Stone
+68,698092346,21746,Used 2016 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,37995,CA,infinity,Q70,2016,3.7,0,0,auto,AWD,Malbec Black,Stone
+69,676348527,22335,Used 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,35000,TX,infinity,Q70,2015,3.7,0,0,auto,AWD,Hermosa Blue,Wheat Stone
+70,679577506,22589,Certified 2015 INFINITI Q70h,7-Speed Automatic | RWD,34985,CA,infinity,Q70,2015,,1,0,auto,RWD,Chestnut Bronze,Graphite
+71,696514023,23005,Used 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,32893,CA,infinity,Q70,2016,3.7,0,0,auto,AWD,Graphite Shadow,Graphite
+72,699322079,23179,Used 2014 INFINITI Q70 3.7X,7-Speed Automatic | AWD,28128,NH,infinity,Q70,2014,3.7,0,0,auto,AWD,Moonlight White,Wheat
+73,696525483,23261,Used 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,39880,NJ,infinity,Q70,2015,3.7,0,0,auto,AWD,Hermosa Blue,Stone
+74,694742791,23796,Used 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,31925,TX,infinity,Q70,2015,3.7,0,0,auto,RWD,Black Obsidian,Stone
+75,698743909,23849,Certified 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,37994,TX,infinity,Q70,2016,3.7,1,0,auto,RWD,Black Obsidian,Graphite
+76,696939630,23903,Used 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,35000,TX,infinity,Q70,2015,3.7,0,0,auto,RWD,Graphite Shadow,Stone
+77,698479137,24017,Used 2015 INFINITI Q70 5.6,7-Speed Automatic | RWD,45296,TX,infinity,Q70,2015,5.6,0,0,auto,RWD,Hermosa Blue,Stone
+78,693416053,24802,Used 2014 INFINITI Q70 5.6X,7-Speed Automatic | AWD,33900,FL,infinity,Q70,2014,5.6,0,0,auto,AWD,Liquid Platinum,
+79,698281983,25061,Certified 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,41657,IL,infinity,Q70,2015,3.7,1,0,auto,AWD,Moonlight White,Stone
+80,698743627,25415,Certified 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,36994,TX,infinity,Q70,2016,3.7,1,0,auto,RWD,Black Obsidian,Graphite
+81,698298899,25717,Certified 2014 INFINITI Q70 3.7,7-Speed Automatic | RWD,29488,TX,infinity,Q70,2014,3.7,1,0,auto,RWD,Black Obsidian,Graphite
+82,696653811,26762,Used 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,35988,OK,infinity,Q70,2015,3.7,0,0,auto,RWD,Graphite Shadow,Stone
+83,678878997,27716,Used 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,32500,GA,infinity,Q70,2015,3.7,0,0,auto,AWD,Black Obsidian,Stone
+84,691756134,27720,Certified 2015 INFINITI Q70L,Automatic | AWD,33994,NJ,infinity,Q70,2015,,1,0,auto,AWD,Malbec Black,Graphite
+85,695540332,28175,Used 2015 INFINITI Q70 3.7X SPORT TOURING TECHNOLOGY,Automatic | AWD,41500,IN,infinity,Q70,2015,3.7,0,0,auto,AWD,Black,Graphite W/Leatherette Seat Trim Or Leather Appoin
+86,698124693,29309,Used 2015 INFINITI Q70L 3.7,7-Speed Automatic | RWD,38991,NV,infinity,Q70,2015,3.7,0,0,auto,RWD,Hermosa Blue,Black
+87,696082678,29478,Used 2016 INFINITI Q70L 3.7,7-Speed Automatic | RWD,35499,FL,infinity,Q70,2016,3.7,0,0,auto,RWD,Liquid Platinum,Stone
+88,693556673,29966,Certified 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,35793,TX,infinity,Q70,2016,3.7,1,0,auto,RWD,Black Obsidian,Graphite
+89,690643066,30041,Used 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,31205,TN,infinity,Q70,2015,3.7,0,0,auto,RWD,Malbec Black,Stone
+90,686128231,30106,Used 2015 INFINITI Q70L 3.7X,Automatic | AWD,34600,IN,infinity,Q70,2015,3.7,0,0,auto,AWD,Liquid Plat,Graphite W/Leatherette Seat Trim Or Leather Appoin
+91,697745284,32215,Used 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,34600,CA,infinity,Q70,2015,3.7,0,0,auto,RWD,Moonlight White,Stone
+92,695636974,34005,Used 2015 INFINITI Q70L 3.7,7-Speed Automatic | RWD,33000,GA,infinity,Q70,2015,3.7,0,0,auto,RWD,Liquid Platinum,
+93,696190670,35482,Certified 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,33161,TX,infinity,Q70,2015,3.7,1,0,auto,RWD,Hermosa Blue,Wheat
+94,687737313,35510,Used 2014 INFINITI Q70 3.7X,7-Speed Automatic | AWD,27999,CO,infinity,Q70,2014,3.7,0,0,auto,AWD,Platinum Graphite,Black
+95,697136133,39529,Certified 2015 INFINITI Q70L 3.7,7-Speed Automatic | RWD,35000,AL,infinity,Q70,2015,3.7,1,0,auto,RWD,Black Obsidian,Stone
+96,699717225,39958,Used 2014 INFINITI Q70 3.7,7-Speed Automatic | RWD,26980,TX,infinity,Q70,2014,3.7,0,0,auto,RWD,Platinum Graphite,Black
+97,699452773,50551,Used 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,30991,IN,infinity,Q70,2015,3.7,0,0,auto,AWD,Black Obsidian,Stone
+98,696450594,54717,Used 2015 INFINITI Q70 3.7X,7 speed automatic | AWD,27995,FL,infinity,Q70,2015,3.7,0,0,auto,AWD,Gray Metallic,TAN
+99,699986447,55306,Used 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,32997,NC,infinity,Q70,2015,3.7,0,0,auto,AWD,Moonlight White,Wheat
+100,700464488,55602,Certified 2014 INFINITI Q70 3.7,7-Speed Automatic | RWD,27991,GA,infinity,Q70,2014,3.7,1,0,auto,RWD,Moonlight White,Graphite
+101,698432090,3470,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,35990,IN,infinity,Q70,2016,3.7,0,0,auto,RWD,Majestic White,Wheat
+102,693209279,5779,Certified 2016 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,46941,PA,infinity,Q70,2016,3.7,1,0,auto,AWD,Majestic White,Wheat
+103,687233903,8184,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,36900,TN,infinity,Q70,2016,3.7,0,0,auto,RWD,Black Obsidian,Wheat
+104,696550368,10271,Used 2016 INFINITI Q70h Base,7-Speed Automatic | RWD,42250,AR,infinity,Q70,2016,,0,0,auto,RWD,Black Obsidian,Stone
+105,696995965,10664,Certified 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,38612,IL,infinity,Q70,2016,3.7,1,0,auto,AWD,Majestic White,Graphite
+106,699841652,12345,Used 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,38980,MO,infinity,Q70,2016,3.7,0,0,auto,AWD,Black,
+107,699423220,13226,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,38313,AZ,infinity,Q70,2016,3.7,0,0,auto,RWD,Blue,Graphite
+108,678597472,14240,Used 2015 INFINITI Q70L 3.7,7-Speed Automatic | RWD,37995,MS,infinity,Q70,2015,3.7,0,0,auto,RWD,Black Obsidian,Wheat
+109,696930324,14745,Used 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,36046,AZ,infinity,Q70,2015,3.7,0,0,auto,AWD,Graphite Shadow,Stone
+110,699300837,14844,Used 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,38000,IL,infinity,Q70,2016,3.7,0,0,auto,AWD,Hermosa Blue,Wheat
+111,696930325,15118,Used 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,36896,AZ,infinity,Q70,2015,3.7,0,0,auto,RWD,Black Obsidian,Stone
+112,698598292,23519,Used 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,32995,NJ,infinity,Q70,2015,3.7,0,0,auto,AWD,Malbec Black,Stone
+113,696043912,23640,Certified 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,39570,IL,infinity,Q70,2015,3.7,1,0,auto,AWD,Malbec Black,Wheat
+114,696463222,25740,Certified 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,36031,IL,infinity,Q70,2016,3.7,1,0,auto,AWD,Majestic White,Wheat
+115,696463087,26282,Certified 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,34706,IL,infinity,Q70,2015,3.7,1,0,auto,AWD,Moonlight White,Wheat
+116,695165706,35160,Used 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,34730,MN,infinity,Q70,2016,3.7,0,0,auto,AWD,Graphite Shadow,Graphite
+117,697446635,6864,Used 2016 INFINITI Q70L 3.7,7-Speed Automatic | RWD,42888,CA,infinity,Q70,2016,3.7,0,0,auto,RWD,Black,Wheat
+118,697445793,6864,Used 2016 INFINITI Q70L 3.7,7-Speed Automatic | RWD,42888,CA,infinity,Q70,2016,3.7,0,0,auto,RWD,Black,Wheat
+119,682525868,12465,Certified 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,38297,WA,infinity,Q70,2015,3.7,1,0,auto,AWD,Moonlight White,Stone
+120,699543144,12548,Certified 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,41298,MA,infinity,Q70,2015,3.7,1,0,auto,AWD,Moonlight White,Stone
+121,681784981,13632,Certified 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,35989,PA,infinity,Q70,2015,3.7,1,0,auto,AWD,Moonlight White,Wheat
+122,700639405,14527,Used 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,39500,MD,infinity,Q70,2015,3.7,0,0,auto,AWD,Black Obsidian,Stone
+123,699616658,15257,Certified 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,37900,FL,infinity,Q70,2015,3.7,1,0,auto,RWD,Black Obsidian,Stone
+124,690481408,16685,Used 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,32360,TX,infinity,Q70,2015,3.7,0,0,auto,RWD,Hermosa Blue,Stone
+125,699906517,18779,Certified 2016 INFINITI Q70L 3.7,7-Speed Automatic | RWD,41536,TN,infinity,Q70,2016,3.7,1,0,auto,RWD,Silver,
+126,696299641,19632,Used 2015 INFINITI Q70L 3.7,7-Speed Automatic | RWD,36474,TX,infinity,Q70,2015,3.7,0,0,auto,RWD,Hermosa Blue,Stone
+127,700524378,25210,Certified 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,39995,NY,infinity,Q70,2016,3.7,1,0,auto,AWD,Majestic White,Stone
+128,699771826,26498,Certified 2016 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,44899,TX,infinity,Q70,2016,3.7,1,0,auto,AWD,Majestic White,Wheat
+129,694415767,26589,Used 2015 INFINITI Q70L 3.7,7-Speed Automatic | RWD,39955,LA,infinity,Q70,2015,3.7,0,0,auto,RWD,Graphite Shadow,Wheat
+130,698748942,29262,Certified 2015 INFINITI Q70L 5.6,7-Speed Automatic | RWD,41850,FL,infinity,Q70,2015,5.6,1,0,auto,RWD,Moonlight White,Stone
+131,700524380,36303,Certified 2016 INFINITI Q70 5.6,7-Speed Automatic | RWD,42779,NY,infinity,Q70,2016,5.6,1,0,auto,RWD,Hermosa Blue,Stone
+132,692069859,10250,Used 2015 INFINITI Q70L 3.7,7-Speed Automatic | RWD,37101,CA,infinity,Q70,2015,3.7,0,0,auto,RWD,Hermosa Blue,Stone
+133,695604990,12828,Used 2016 INFINITI Q70L 5.6,7-Speed Automatic | RWD,47477,IL,infinity,Q70,2016,5.6,0,0,auto,RWD,Liquid Platinum,Stone
+134,699870350,13566,Certified 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,34480,OK,infinity,Q70,2015,3.7,1,0,auto,RWD,Graphite Shadow,Stone
+135,686396168,16037,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,30977,TX,infinity,Q70,2016,3.7,0,0,auto,RWD,Black Obsidian,Graphite
+136,691233111,16379,Used 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,36988,FL,infinity,Q70,2015,3.7,0,0,auto,AWD,Black Obsidian,Stone
+137,695783818,16623,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,39999,FL,infinity,Q70,2016,3.7,0,0,auto,RWD,Black Obsidian,Wheat
+138,699009182,17605,Used 2015 INFINITI Q70L 5.6,7-Speed Automatic | RWD,45852,FL,infinity,Q70,2015,5.6,0,0,auto,RWD,Moonlight White,
+139,696138433,20783,Used 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,35475,UT,infinity,Q70,2016,3.7,0,0,auto,AWD,Black,
+140,698748944,23336,Certified 2016 INFINITI Q70L 3.7,7-Speed Automatic | RWD,43500,FL,infinity,Q70,2016,3.7,1,0,auto,RWD,Majestic White,Wheat
+141,697026111,31560,Used 2016 INFINITI Q70,Automatic | AWD,34560,TX,infinity,Q70,2016,,0,0,auto,AWD,Liquid Platinum,Gray
+142,697357245,35851,Used 2014 INFINITI Q70 3.7X,7-Speed Automatic | AWD,27792,CA,infinity,Q70,2014,3.7,0,0,auto,AWD,Platinum Graphite,Graphite
+143,700109119,4844,Used 2015 INFINITI Q70L 3.7,7-Speed Automatic | RWD,39000,PA,infinity,Q70,2015,3.7,0,0,auto,RWD,Malbec Black,Stone
+144,699877587,4844,Used 2015 INFINITI Q70L 3.7,7-Speed Automatic | RWD,39000,TX,infinity,Q70,2015,3.7,0,0,auto,RWD,Malbec Black,Stone
+145,700413819,4844,Used 2015 INFINITI Q70L 3.7,7-Speed Automatic | RWD,39000,TX,infinity,Q70,2015,3.7,0,0,auto,RWD,Malbec Black,Stone
+146,699847060,4844,Used 2015 INFINITI Q70L 3.7,7-Speed Automatic | RWD,39000,VA,infinity,Q70,2015,3.7,0,0,auto,RWD,Malbec Black,Stone
+147,697991648,7294,Used 2016 INFINITI Q70 5.6,7-Speed Automatic | RWD,55495,CA,infinity,Q70,2016,5.6,0,0,auto,RWD,Graphite Shadow,
+148,698435767,12229,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,36500,FL,infinity,Q70,2016,3.7,0,0,auto,RWD,Black Obsidian,Wheat
+149,697552043,16335,Used 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,47740,CA,infinity,Q70,2015,3.7,0,0,auto,RWD,Malbec Black,Graphite
+150,683713497,17800,Certified 2015 INFINITI Q70 5.6X,7-Speed Automatic | AWD,46993,MD,infinity,Q70,2015,5.6,1,0,auto,AWD,Moonlight White,Stone
+151,695550371,19360,Used 2015 INFINITI Q70h Base,7-Speed Automatic | RWD,32250,TX,infinity,Q70,2015,,0,0,auto,RWD,Liquid Platinum,Black
+152,696159790,19360,Used 2015 INFINITI Q70h Base,7-Speed Automatic | RWD,32250,NC,infinity,Q70,2015,,0,0,auto,RWD,Liquid Platinum,Black
+153,696638186,19360,Used 2015 INFINITI Q70h Base,7-Speed Automatic | RWD,32250,TN,infinity,Q70,2015,,0,0,auto,RWD,Liquid Platinum,Black
+154,696665512,19360,Used 2015 INFINITI Q70h Base,7-Speed Automatic | RWD,32250,IN,infinity,Q70,2015,,0,0,auto,RWD,Liquid Platinum,Black
+155,696651061,19360,Used 2015 INFINITI Q70h Base,7-Speed Automatic | RWD,32250,FL,infinity,Q70,2015,,0,0,auto,RWD,Liquid Platinum,Black
+156,696650292,19360,Used 2015 INFINITI Q70h Base,7-Speed Automatic | RWD,32250,TX,infinity,Q70,2015,,0,0,auto,RWD,Liquid Platinum,Black
+157,700271377,19360,Used 2015 INFINITI Q70h Base,7-Speed Automatic | RWD,32250,PA,infinity,Q70,2015,,0,0,auto,RWD,Liquid Platinum,Black
+158,696644439,19360,Used 2015 INFINITI Q70h Base,7-Speed Automatic | RWD,32250,GA,infinity,Q70,2015,,0,0,auto,RWD,Liquid Platinum,Black
+159,696649038,19360,Used 2015 INFINITI Q70h Base,7-Speed Automatic | RWD,32250,OH,infinity,Q70,2015,,0,0,auto,RWD,Liquid Platinum,Black
+160,700267296,19360,Used 2015 INFINITI Q70h Base,7-Speed Automatic | RWD,32250,MO,infinity,Q70,2015,,0,0,auto,RWD,Liquid Platinum,Black
+161,696650952,19360,Used 2015 INFINITI Q70h Base,7-Speed Automatic | RWD,32250,OH,infinity,Q70,2015,,0,0,auto,RWD,Liquid Platinum,Black
+162,698969326,19360,Used 2015 INFINITI Q70h Base,7-Speed Automatic | RWD,32250,TN,infinity,Q70,2015,,0,0,auto,RWD,Liquid Platinum,Black
+163,696650703,19360,Used 2015 INFINITI Q70h Base,7-Speed Automatic | RWD,32250,VA,infinity,Q70,2015,,0,0,auto,RWD,Liquid Platinum,Black
+164,696663334,19360,Used 2015 INFINITI Q70h Base,7-Speed Automatic | RWD,32250,NC,infinity,Q70,2015,,0,0,auto,RWD,Liquid Platinum,Black
+165,696652002,19360,Used 2015 INFINITI Q70h Base,7-Speed Automatic | RWD,32250,OH,infinity,Q70,2015,,0,0,auto,RWD,Liquid Platinum,Black
+166,696652823,19360,Used 2015 INFINITI Q70h Base,7-Speed Automatic | RWD,32250,TX,infinity,Q70,2015,,0,0,auto,RWD,Liquid Platinum,Black
+167,696283236,19360,Used 2015 INFINITI Q70h Base,7-Speed Automatic | RWD,32250,VA,infinity,Q70,2015,,0,0,auto,RWD,Liquid Platinum,Black
+168,696650476,19360,Used 2015 INFINITI Q70h Base,7-Speed Automatic | RWD,32250,AL,infinity,Q70,2015,,0,0,auto,RWD,Liquid Platinum,Black
+169,696665004,19360,Used 2015 INFINITI Q70h Base,7-Speed Automatic | RWD,32250,PA,infinity,Q70,2015,,0,0,auto,RWD,Liquid Platinum,Black
+170,698771041,19574,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,35750,VA,infinity,Q70,2016,3.7,0,0,auto,RWD,Black,Wheat
+171,700651467,19574,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,35750,PA,infinity,Q70,2016,3.7,0,0,auto,RWD,Black,Wheat
+172,698713853,19574,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,35750,TX,infinity,Q70,2016,3.7,0,0,auto,RWD,Black,Wheat
+173,700616128,19574,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,35750,FL,infinity,Q70,2016,3.7,0,0,auto,RWD,Black,Wheat
+174,700649624,19574,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,35750,OH,infinity,Q70,2016,3.7,0,0,auto,RWD,Black,Wheat
+175,698723185,19574,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,35750,TX,infinity,Q70,2016,3.7,0,0,auto,RWD,Black,Wheat
+176,700109583,19574,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,35750,PA,infinity,Q70,2016,3.7,0,0,auto,RWD,Black,Wheat
+177,700615440,19574,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,35750,OH,infinity,Q70,2016,3.7,0,0,auto,RWD,Black,Wheat
+178,700620712,19574,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,35750,IN,infinity,Q70,2016,3.7,0,0,auto,RWD,Black,Wheat
+179,698406840,19574,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,35750,GA,infinity,Q70,2016,3.7,0,0,auto,RWD,Black,Wheat
+180,698138974,20476,Used 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,37500,MD,infinity,Q70,2015,3.7,0,0,auto,AWD,Moonlight White,Wheat
+181,699957915,22514,Certified 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,35995,CA,infinity,Q70,2015,3.7,1,0,auto,RWD,Moonlight White,Stone
+182,695993114,23356,Used 2014 INFINITI Q70 3.7X,7-Speed Automatic | AWD,29998,MA,infinity,Q70,2014,3.7,0,0,auto,AWD,Moonlight White,Wheat
+183,699208645,27697,Certified 2016 INFINITI Q70L,7-Speed Automatic w/OD | AWD,43000,NJ,infinity,Q70,2016,,1,0,auto,AWD,Hermosa Blue,Wheat
+184,695913529,30205,Used 2014 INFINITI Q70 3.7,7-Speed Automatic | RWD,17995,UT,infinity,Q70,2014,3.7,0,0,auto,RWD,Black Obsidian,Black
+185,694727319,33312,Certified 2016 INFINITI Q70,Automatic | RWD,31999,MS,infinity,Q70,2016,,1,0,auto,RWD,Liquid Platinum,Graphite
+186,697104755,53843,Used 2015 INFINITI Q70L 3.7,7-Speed Automatic | RWD,29995,CA,infinity,Q70,2015,3.7,0,0,auto,RWD,Graphite Shadow,Stone
+187,674538477,13395,Certified 2015 INFINITI Q70 5.6,7-Speed Automatic | RWD,41894,CA,infinity,Q70,2015,5.6,1,0,auto,RWD,Hermosa Blue,Stone
+188,684689180,15358,Certified 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,39500,WI,infinity,Q70,2015,3.7,1,0,auto,AWD,Moonlight White,Wheat
+189,695456600,17040,Used 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,34888,DE,infinity,Q70,2015,3.7,0,0,auto,AWD,Storm Front Gray,Stone
+190,688324571,18359,Used 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,36550,IN,infinity,Q70,2016,3.7,0,0,auto,AWD,Chestnut Bronze,Stone
+191,694404572,20406,Used 2015 INFINITI Q70L 3.7,7-Speed Automatic | RWD,35989,LA,infinity,Q70,2015,3.7,0,0,auto,RWD,Liquid Platinum,Black
+192,696889833,23046,Certified 2014 INFINITI Q70 3.7,7-Speed Automatic | RWD,30528,TN,infinity,Q70,2014,3.7,1,0,auto,RWD,Moonlight White,Wheat
+193,694727442,24402,Certified 2016 INFINITI Q70,7-Speed Automatic w/OD | RWD,32999,MS,infinity,Q70,2016,,1,0,auto,RWD,Liquid Platinum,Graphite
+194,697076019,25563,Used 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,35994,CT,infinity,Q70,2015,3.7,0,0,auto,AWD,Chestnut Bronze,
+195,698650091,29953,Used 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,36199,IA,infinity,Q70,2015,3.7,0,0,auto,AWD,Moonlight White,
+196,698237298,38240,Used 2014 INFINITI Q70 3.7,7-Speed Automatic | RWD,25655,MO,infinity,Q70,2014,3.7,0,0,auto,RWD,Liquid Platinum,Graphite
+197,686300347,135,Certified 2016 INFINITI Q70 5.6,7-Speed Automatic | RWD,43995,AR,infinity,Q70,2016,5.6,1,0,auto,RWD,Gray,Black
+198,698957017,4334,Certified 2016 INFINITI Q70 5.6X,7-Speed Automatic | AWD,47986,IL,infinity,Q70,2016,5.6,1,0,auto,AWD,Blue,Stone
+199,696628854,9522,Certified 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,39877,TX,infinity,Q70,2016,3.7,1,0,auto,RWD,Majestic White,Wheat
+200,699543131,11350,Certified 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,41598,MA,infinity,Q70,2015,3.7,1,0,auto,AWD,Moonlight White,Stone
+201,693513007,13073,Certified 2016 INFINITI Q70h Base,7-Speed Automatic | RWD,31988,GA,infinity,Q70,2016,,1,0,auto,RWD,Hermosa Blue,Stone
+202,699701179,13360,Used 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,34999,CA,infinity,Q70,2015,3.7,0,0,auto,RWD,Moonlight White,
+203,699701184,13381,Used 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,34999,CA,infinity,Q70,2015,3.7,0,0,auto,RWD,Graphite Shadow,
+204,693290188,14030,Used 2015 INFINITI Q70L 3.7,7-Speed Automatic | RWD,30699,NV,infinity,Q70,2015,3.7,0,0,auto,RWD,Hermosa Blue,
+205,700122292,14298,Used 2015 INFINITI Q70L,7-Speed Automatic w/OD | RWD,36975,CA,infinity,Q70,2015,,0,0,auto,RWD,Liquid Platinum,Graphite
+206,696997283,14541,Used 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,33000,MI,infinity,Q70,2015,3.7,0,0,auto,AWD,Black Obsidian,Stone
+207,683246071,18542,Certified 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,36975,NJ,infinity,Q70,2015,3.7,1,0,auto,AWD,Graphite Shadow,Stone
+208,699005162,20943,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,35994,FL,infinity,Q70,2016,3.7,0,0,auto,RWD,Liquid Platinum,Graphite
+209,700710132,21329,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,33980,TX,infinity,Q70,2016,3.7,0,0,auto,RWD,Black,Black
+210,696687780,21981,Certified 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,37988,FL,infinity,Q70,2016,3.7,1,0,auto,RWD,Black Obsidian,Graphite
+211,700693330,24957,Used 2015 INFINITI Q70L 4DR SDN V6 AWD,Automatic | AWD,37994,TX,infinity,Q70,2015,,0,0,auto,AWD,Brown,
+212,700457150,31964,Used 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,35999,CT,infinity,Q70,2015,3.7,0,0,auto,AWD,Moonlight White,Stone
+213,694649943,32388,Used 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,34900,FL,infinity,Q70,2015,3.7,0,0,auto,AWD,Black Obsidian,Stone
+214,696780533,4190,Certified 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,36988,GA,infinity,Q70,2016,3.7,1,0,auto,RWD,Black Obsidian,Wheat
+215,696780418,9527,Used 2016 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,45992,TX,infinity,Q70,2016,3.7,0,0,auto,AWD,Majestic White,Stone
+216,698543641,9762,Certified 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,38998,GA,infinity,Q70,2016,3.7,1,0,auto,RWD,Chestnut Bronze,Graphite
+217,696857623,10003,Certified 2016 INFINITI Q70L 3.7,7-Speed Automatic | RWD,39998,GA,infinity,Q70,2016,3.7,1,0,auto,RWD,Graphite Shadow,Stone
+218,696588330,10471,Certified 2016 INFINITI Q70L 3.7,7-Speed Automatic | RWD,39998,GA,infinity,Q70,2016,3.7,1,0,auto,RWD,Liquid Platinum,Stone
+219,696857522,10671,Certified 2016 INFINITI Q70L 3.7,7-Speed Automatic | RWD,39991,GA,infinity,Q70,2016,3.7,1,0,auto,RWD,Black Obsidian,Wheat
+220,696676213,10673,Certified 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,37991,GA,infinity,Q70,2016,3.7,1,0,auto,RWD,Black Obsidian,Graphite
+221,695355134,11647,Certified 2016 INFINITI Q70h Base,7-Speed Automatic | RWD,35988,GA,infinity,Q70,2016,,1,0,auto,RWD,Majestic White,Stone
+222,696857523,11700,Certified 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,36998,GA,infinity,Q70,2016,3.7,1,0,auto,RWD,Graphite Shadow,Graphite
+223,698543643,12767,Certified 2016 INFINITI Q70L 3.7,7-Speed Automatic | RWD,43998,GA,infinity,Q70,2016,3.7,1,0,auto,RWD,Majestic White,Wheat
+224,699838010,13349,Certified 2016 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,41991,GA,infinity,Q70,2016,3.7,1,0,auto,AWD,Hermosa Blue,Wheat
+225,696576526,14022,Used 2016 INFINITI Q70L 5.6X,7-Speed Automatic | AWD,52984,CO,infinity,Q70,2016,5.6,0,0,auto,AWD,Black,Stone
+226,698686209,14224,Certified 2015 INFINITI Q70L 5.6X,7-Speed Automatic | AWD,57998,IL,infinity,Q70,2015,5.6,1,0,auto,AWD,Black Obsidian,
+227,697834260,14224,Used 2015 INFINITI Q70L 5.6X,7-Speed Automatic | AWD,57998,IL,infinity,Q70,2015,5.6,0,0,auto,AWD,Black Obsidian,
+228,688314957,14935,Used 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,35997,NH,infinity,Q70,2015,3.7,0,0,auto,AWD,Moonlight White,Stone
+229,695463285,15514,Used 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,28899,NV,infinity,Q70,2015,3.7,0,0,auto,RWD,Hermosa Blue,
+230,693026591,15937,Certified 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,30988,GA,infinity,Q70,2015,3.7,1,0,auto,AWD,Chestnut Bronze,Stone
+231,696576167,16066,Used 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,40984,CO,infinity,Q70,2016,3.7,0,0,auto,AWD,Gray,Graphite
+232,695355127,18974,Certified 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,36988,GA,infinity,Q70,2016,3.7,1,0,auto,RWD,Hermosa Blue,Wheat
+233,694920655,24000,Used 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,26999,NV,infinity,Q70,2015,3.7,0,0,auto,RWD,Storm Front Gray,
+234,695248367,25514,Certified 2016 INFINITI Q70L 5.6X,7-Speed Automatic | AWD,48995,NY,infinity,Q70,2016,5.6,1,0,auto,AWD,Black Obsidian,Stone
+235,694647742,25795,Certified 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,29988,GA,infinity,Q70,2015,3.7,1,0,auto,RWD,Chestnut Bronze,Wheat
+236,696688087,27663,Certified 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,35988,FL,infinity,Q70,2016,3.7,1,0,auto,RWD,Malbec Black,Graphite
+237,697655663,27948,Certified 2016 INFINITI Q70L 3.7,7-Speed Automatic | RWD,43491,GA,infinity,Q70,2016,3.7,1,0,auto,RWD,Black Obsidian,Stone
+238,699692235,29043,Used 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,32000,FL,infinity,Q70,2015,3.7,0,0,auto,RWD,Moonlight White,Wheat
+239,696687906,33567,Certified 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,35988,FL,infinity,Q70,2015,3.7,1,0,auto,RWD,Moonlight White,Stone
+240,695419324,33889,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,32806,TN,infinity,Q70,2016,3.7,0,0,auto,RWD,Black,Wheat
+241,695704495,45139,Used 2015 INFINITI Q70L 3.7,7-Speed Automatic w/OD | RWD,35900,TN,infinity,Q70,2015,3.7,0,0,auto,RWD,Black Obsidian,Java
+242,694171823,49125,Used 2014 INFINITI Q70 3.7X,7-Speed Automatic | AWD,24575,MN,infinity,Q70,2014,3.7,0,0,auto,AWD,Black Obsidian,Graphite
+243,696758136,53241,Used 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,25905,FL,infinity,Q70,2015,3.7,0,0,auto,RWD,Black Obsidian,Black
+244,700292568,4728,Used 2015 INFINITI Q70 3.7X,7-Speed Automatic | RWD,37992,TX,infinity,Q70,2015,3.7,0,0,auto,RWD,Black Obsidian,Graphite
+245,700105217,8411,Certified 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,41988,GA,infinity,Q70,2016,3.7,1,0,auto,RWD,Majestic White,Stone
+246,696780417,8812,Used 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,39992,TX,infinity,Q70,2015,3.7,0,0,auto,RWD,Black Obsidian,Stone
+247,698115779,13695,Certified 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,37593,OH,infinity,Q70,2015,3.7,1,0,auto,AWD,Black Obsidian,Stone
+248,697166411,13768,Certified 2016 INFINITI Q70L 3.7,7-Speed Automatic | RWD,38988,GA,infinity,Q70,2016,3.7,1,0,auto,RWD,Black Obsidian,Stone
+249,697001652,14151,Certified 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,41988,GA,infinity,Q70,2016,3.7,1,0,auto,AWD,Hermosa Blue,Graphite
+250,696576484,16672,Used 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,37984,CO,infinity,Q70,2016,3.7,0,0,auto,AWD,Gray,Graphite
+251,699474223,17878,Certified 2015 INFINITI Q70L,7-Speed Automatic w/OD | AWD,44986,CA,infinity,Q70,2015,,1,0,auto,AWD,Malbec Black,Black
+252,698078411,18579,Certified 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,39900,IL,infinity,Q70,2015,3.7,1,0,auto,AWD,Black Obsidian,
+253,697514193,21224,Used 2015 INFINITI Q70L,7-Speed Automatic w/OD | RWD,36958,FL,infinity,Q70,2015,,0,0,auto,RWD,Hermosa Blue,Graphite
+254,697995982,21930,Used 2015 INFINITI Q70L 3.7,7-Speed Automatic | RWD,35850,AZ,infinity,Q70,2015,3.7,0,0,auto,RWD,Black Obsidian,Stone
+255,696687800,22243,Certified 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,42988,FL,infinity,Q70,2015,3.7,1,0,auto,AWD,Moonlight White,Stone
+256,698640018,22300,Used 2015 INFINITI Q70L,7-Speed Automatic w/OD | AWD,36444,CO,infinity,Q70,2015,,0,0,auto,AWD,Moonlight White,Tan
+257,699926763,23588,Used 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,33997,AL,infinity,Q70,2015,3.7,0,0,auto,AWD,Graphite Shadow,Stone
+258,695586680,23695,Used 2015 INFINITI Q70L 5.6X,7-Speed Automatic | AWD,43987,CO,infinity,Q70,2015,5.6,0,0,auto,AWD,Storm Front Gray,Stone
+259,689081705,24210,Used 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,32955,CA,infinity,Q70,2015,3.7,0,0,auto,RWD,Moonlight White,
+260,692056373,27308,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,31992,SC,infinity,Q70,2016,3.7,0,0,auto,RWD,Black,
+261,676025732,29134,Used 2015 INFINITI Q70,7-Speed Automatic w/OD | RWD,37500,AL,infinity,Q70,2015,,0,0,auto,RWD,Graphite Shadow,Graphite
+262,680379546,36874,Used 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,31310,VA,infinity,Q70,2015,3.7,0,0,auto,RWD,Black Obsidian,Wheat
+263,697954633,58266,Used 2014 INFINITI Q70 3.7,7-Speed Automatic | RWD,24998,TX,infinity,Q70,2014,3.7,0,0,auto,RWD,Platinum Graphite,Graphite
+264,700209459,200,Used 2016 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,53780,NC,infinity,Q70,2016,3.7,0,0,auto,AWD,Majestic White,Graphite
+265,700209460,200,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,54465,NC,infinity,Q70,2016,3.7,0,0,auto,RWD,Gun Metallic,Graphite
+266,697396386,12176,Certified 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,42950,NE,infinity,Q70,2015,3.7,1,0,auto,AWD,Graphite Shadow,Stone
+267,696975163,14505,Used 2016 INFINITI Q70,7-Speed Automatic w/OD | RWD,35874,AR,infinity,Q70,2016,,0,0,auto,RWD,Liquid Platinum,Graphite
+268,698761106,15715,Used 2016 INFINITI Q70 Premium Select,7-Speed Automatic w/OD | RWD,39900,TN,infinity,Q70,2016,,0,0,auto,RWD,Black Obsidian,Graphite
+269,696576457,23266,Used 2015 INFINITI Q70L 5.6X,7-Speed Automatic | AWD,44987,CO,infinity,Q70,2015,5.6,0,0,auto,AWD,Black Obsidian,Stone
+270,692056799,25303,Used 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,31992,SC,infinity,Q70,2016,3.7,0,0,auto,AWD,Brown,
+271,643028456,29576,Used 2014 INFINITI Q70 S,7-Speed Automatic w/OD | RWD,34995,NY,infinity,Q70,2014,,0,0,auto,RWD,Liquid Platinum,Graphite
+272,700209463,158,Used 2016 INFINITI Q70L 3.7,7-Speed Automatic | RWD,53130,NC,infinity,Q70,2016,3.7,0,0,auto,RWD,Black Obsidian,Stone
+273,700209462,200,Used 2016 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,52780,NC,infinity,Q70,2016,3.7,0,0,auto,AWD,Majestic White,Graphite
+274,700209461,200,Used 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,43988,NC,infinity,Q70,2016,3.7,0,0,auto,AWD,Majestic White,Graphite
+275,698686212,14516,Certified 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,43298,IL,infinity,Q70,2015,3.7,1,0,auto,AWD,Graphite Shadow,
+276,695131225,14516,Used 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,43298,IL,infinity,Q70,2015,3.7,0,0,auto,AWD,Graphite Shadow,
+277,694886056,21024,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,36995,TX,infinity,Q70,2016,3.7,0,0,auto,RWD,Liquid Platinum,Graphite
+278,699325470,21346,Used 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,37200,OK,infinity,Q70,2016,3.7,0,0,auto,AWD,Gray,Black
+279,696780243,33389,Used 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,33492,TX,infinity,Q70,2015,3.7,0,0,auto,AWD,Hermosa Blue,Stone
+280,695669265,34080,Certified 2016 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,37500,PA,infinity,Q70,2016,3.7,1,0,auto,AWD,Majestic White,Wheat
+281,690786603,3488,Certified 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,38950,AR,infinity,Q70,2016,3.7,1,0,auto,RWD,Gray,Black
+282,695260975,4894,Used 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,35995,NY,infinity,Q70,2015,3.7,0,0,auto,AWD,Black Obsidian,Stone
+283,697345158,7736,Used 2016 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,42998,IL,infinity,Q70,2016,3.7,0,0,auto,AWD,Liquid Platinum,Stone
+284,689397064,8500,Certified 2016 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,41490,CT,infinity,Q70,2016,3.7,1,0,auto,AWD,Gun Metallic,Graphite
+285,694395136,9005,Certified 2015 INFINITI Q70L,7-Speed Automatic w/OD | RWD,47898,CA,infinity,Q70,2015,,1,0,auto,RWD,Malbec Black,
+286,700630402,16410,Used 2015 INFINITI Q70 3.7X,7-Speed Automatic | RWD,38273,GA,infinity,Q70,2015,3.7,0,0,auto,RWD,White,Gray
+287,689742274,16541,Certified 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,34988,NJ,infinity,Q70,2015,3.7,1,0,auto,AWD,Liquid Platinum,Stone
+288,699369748,16680,Certified 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,34999,GA,infinity,Q70,2015,3.7,1,0,auto,RWD,Hermosa Blue,
+289,677686932,17568,Certified 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,35985,NJ,infinity,Q70,2015,3.7,1,0,auto,AWD,Graphite Shadow,Stone
+290,696453620,19995,Certified 2015 INFINITI Q70L,7-Speed Automatic w/OD | AWD,37400,NJ,infinity,Q70,2015,,1,0,auto,AWD,Liquid Platinum,Wheat
+291,699500631,23753,Used 2016 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,38700,VA,infinity,Q70,2016,3.7,0,0,auto,AWD,Graphite Shadow,
+292,695323507,25792,Used 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,29956,WA,infinity,Q70,2016,3.7,0,0,auto,AWD,Graphite Shadow,Graphite
+293,677686916,29543,Certified 2014 INFINITI Q70 5.6X,7-Speed Automatic | AWD,42985,NJ,infinity,Q70,2014,5.6,1,0,auto,AWD,Black Obsidian,Wheat
+294,690185232,30612,Certified 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,31988,NJ,infinity,Q70,2015,3.7,1,0,auto,AWD,Liquid Platinum,Stone
+295,688240945,12927,Certified 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,35888,NJ,infinity,Q70,2015,3.7,1,0,auto,AWD,Black Obsidian,Wheat
+296,692492961,15484,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,32595,TX,infinity,Q70,2016,3.7,0,0,auto,RWD,Malbec Black,
+297,688241114,15989,Certified 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,34888,NJ,infinity,Q70,2015,3.7,1,0,auto,AWD,Black Obsidian,Stone
+298,699444014,19491,Certified 2016 INFINITI Q70L 3.7,7-Speed Automatic | RWD,42673,GA,infinity,Q70,2016,3.7,1,0,auto,RWD,Liquid Platinum,Stone
+299,691881823,19655,Used 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,33976,OR,infinity,Q70,2016,3.7,0,0,auto,AWD,Black,
+300,696780617,23639,Used 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,30933,NJ,infinity,Q70,2015,3.7,0,0,auto,RWD,Malbec Black/Clearance Sales Event!,Stone/ROUTE 33 NISSAN
+301,697691151,29468,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,34192,OK,infinity,Q70,2016,3.7,0,0,auto,RWD,Malbec Black,Graphite
+302,694578021,45632,Used 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,27995,NJ,infinity,Q70,2015,3.7,0,0,auto,AWD,Storm Front Grey,Wheat
+303,695019682,48762,Used 2014 INFINITI Q70 3.7X,7-Speed Automatic | AWD,24990,MN,infinity,Q70,2014,3.7,0,0,auto,AWD,Platinum Graphite,Graphite
+304,690826906,12861,Certified 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,43990,WI,infinity,Q70,2015,3.7,1,0,auto,AWD,Liquid Platinum,Stone
+305,693010611,14321,Used 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,37490,ME,infinity,Q70,2015,3.7,0,0,auto,AWD,Black Obsidian,
+306,695202376,13573,Certified 2016 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,47990,WI,infinity,Q70,2016,3.7,1,0,auto,AWD,Hermosa Blue,Wheat
+307,695626938,16494,Used 2016 INFINITI Q70 3.7,7-Speed Automatic w/OD | RWD,32953,GA,infinity,Q70,2016,3.7,0,0,auto,RWD,Malbec Black,Graphite
+308,698659153,25300,Certified 2015 INFINITI Q70L 5.6,7-Speed Automatic | RWD,45900,TN,infinity,Q70,2015,5.6,1,0,auto,RWD,Black Obsidian,Stone
+309,698680733,26318,Certified 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,38994,FL,infinity,Q70,2016,3.7,1,0,auto,RWD,,
+310,695626893,20527,Used 2016 INFINITI Q70 3.7,7-Speed Automatic w/OD | RWD,32953,GA,infinity,Q70,2016,3.7,0,0,auto,RWD,Liquid Platinum,Java
+311,700235246,3358,Certified 2016 INFINITI Q70L 3.7,7-Speed Automatic | RWD,43405,FL,infinity,Q70,2016,3.7,1,0,auto,RWD,Gun Metallic,Graphite
+312,698686214,12136,Certified 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,43290,IL,infinity,Q70,2015,3.7,1,0,auto,AWD,Liquid Platinum,
+313,694550377,12136,Used 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,43290,IL,infinity,Q70,2015,3.7,0,0,auto,AWD,Liquid Platinum,
+314,698115708,13880,Certified 2015 INFINITI Q70L 5.6X,7-Speed Automatic | AWD,55593,OH,infinity,Q70,2015,5.6,1,0,auto,AWD,Black Obsidian,Stone
+315,694660392,23865,Used 2016 INFINITI Q70L 5.6X,7-Speed Automatic | AWD,44500,MN,infinity,Q70,2016,5.6,0,0,auto,AWD,Black Obsidian,Stone
+316,698556936,33082,Used 2016 INFINITI Q70L 3.7,7-Speed Automatic | RWD,36000,TX,infinity,Q70,2016,3.7,0,0,auto,RWD,Silver,Stone
+317,693891654,16016,Used 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,34994,WI,infinity,Q70,2016,3.7,0,0,auto,AWD,Malbec Black,Graphite
+318,699324284,5,Used 2016 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,43495,OH,infinity,Q70,2016,3.7,0,0,auto,AWD,Hermosa Blue,Wheat
+319,699324254,86,Used 2016 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,43495,OH,infinity,Q70,2016,3.7,0,0,auto,AWD,Hagane Blue,Wheat
+320,700682480,17009,Used 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,38998,MN,infinity,Q70,2015,3.7,0,0,auto,AWD,Black Obsidian,Stone
+321,679669326,14202,Used 2015 INFINITI Q70L 3.7,7-Speed Automatic | RWD,36988,CA,infinity,Q70,2015,3.7,0,0,auto,RWD,Graphite Shadow,
+322,698662352,11401,Used 2015 INFINITI Q70L 5.6X,7-Speed Automatic | AWD,43699,MN,infinity,Q70,2015,5.6,0,0,auto,AWD,Black Obsidian,Stone
+323,699324195,24,Used 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,44495,OH,infinity,Q70,2016,3.7,0,0,auto,AWD,Black,Graphite
+324,699324245,131,Used 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,47495,OH,infinity,Q70,2016,3.7,0,0,auto,AWD,Black,Graphite
+325,700334213,25778,Used 2015 INFINITI Q70L 3.7,7-Speed Automatic | RWD,35984,TX,infinity,Q70,2015,3.7,0,0,auto,RWD,Graphite Shadow,Stone
+326,699153749,1563,Certified 2016 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,49384,MN,infinity,Q70,2016,3.7,1,0,auto,AWD,Hagane Blue,Stone
+327,698748967,13700,Used 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,41650,FL,infinity,Q70,2015,3.7,0,0,auto,AWD,Moonlight White,Stone
+328,700410542,19240,Used 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,36884,SC,infinity,Q70,2015,3.7,0,0,auto,RWD,Moonlight White,Java
+329,685527905,14,Used 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,46265,IL,infinity,Q70,2016,3.7,0,0,auto,AWD,Graphite Shadow,Graphite
+330,699979167,17164,Used 2015 INFINITI Q70L 3.7,7-Speed Automatic | RWD,33988,FL,infinity,Q70,2015,3.7,0,0,auto,RWD,Graphite Shadow,
+331,698873006,5,Certified 2016 INFINITI Q70 3.7,AUTO,37422,CA,infinity,Q70,2016,3.7,1,0,auto,,Majestic,
+332,698127306,6825,Certified 2015 INFINITI Q70L 5.6,AUTO,49995,CA,infinity,Q70,2015,5.6,1,0,auto,,Black Obsidian,Stone
+333,699254680,7204,Certified 2015 INFINITI Q70 3.7X,AUTO,40669,PA,infinity,Q70,2015,3.7,1,0,auto,,Moonlight White,
+334,665994090,8618,Certified 2015 INFINITI Q70L 3.7X,AUTO,46999,KS,infinity,Q70,2015,3.7,1,0,auto,,Graphite Shadow,Stone
+335,699782084,9421,Certified 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,40850,TX,infinity,Q70,2016,3.7,1,0,auto,AWD,Hermosa Blue,Wheat
+336,699380970,10059,Certified 2016 INFINITI Q70 3.7,AUTO,40000,LA,infinity,Q70,2016,3.7,1,0,auto,,Liquid Platinum,Graphite
+337,700314927,10357,Certified 2016 INFINITI Q70L 3.7,AUTO,41500,LA,infinity,Q70,2016,3.7,1,0,auto,,Majestic White,Wheat
+338,700670541,12093,Used 2015 INFINITI Q70,Automatic | AWD,38197,IL,infinity,Q70,2015,,0,0,auto,AWD,Blue,Wheat
+339,697776539,12365,Certified 2016 INFINITI Q70 3.7,AUTO,38714,NC,infinity,Q70,2016,3.7,1,0,auto,,Black Obsidian,
+340,698757101,12614,Certified 2016 INFINITI Q70 3.7,AUTO,37941,LA,infinity,Q70,2016,3.7,1,0,auto,,White,
+341,699552496,14148,Used 2015 INFINITI Q70,AUTO,58315,NC,infinity,Q70,2015,,0,0,auto,,Graphite Shadow,
+342,697776533,15046,Certified 2015 INFINITI Q70 3.7,AUTO,33900,FL,infinity,Q70,2015,3.7,1,0,auto,,Hermosa Blue,Wheat
+343,699274272,16853,Used 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,33991,FL,infinity,Q70,2015,3.7,0,0,auto,RWD,Gray,Stone
+344,700322128,16974,Used 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,34995,TX,infinity,Q70,2015,3.7,0,0,auto,RWD,Moonlight White,Stone
+345,697329706,17524,Certified 2016 INFINITI Q70 5.6X,AUTO,49000,LA,infinity,Q70,2016,5.6,1,0,auto,,Hermosa Blue,Stone
+346,697394916,18488,Certified 2015 INFINITI Q70L 3.7,AUTO,38500,LA,infinity,Q70,2015,3.7,1,0,auto,,Liquid Platinum,Stone
+347,697776538,18986,Certified 2015 INFINITI Q70L 3.7,AUTO,37378,NC,infinity,Q70,2015,3.7,1,0,auto,,Liquid Platinum,
+348,697776534,19854,Certified 2015 INFINITI Q70 3.7X,AUTO,34600,MA,infinity,Q70,2015,3.7,1,0,auto,,Black Obsidian,Wheat
+349,698985362,21330,Certified 2016 INFINITI Q70h Base,AUTO,37500,FL,infinity,Q70,2016,,1,0,auto,,Majestic White,
+350,696089262,23022,Certified 2016 INFINITI Q70 3.7,AUTO,36990,NC,infinity,Q70,2016,3.7,1,0,auto,,Graphite Shadow,
+351,699999867,28321,Certified 2015 INFINITI Q70L 3.7,AUTO,39895,NC,infinity,Q70,2015,3.7,1,0,auto,,Hermosa Blue,Wheat
+352,699163847,35532,Used 2015 INFINITI Q70L TECHNOLOGY 20&#x27; WHEELS,7-Speed Automatic w/OD | AWD,42999,IN,infinity,Q70,2015,,0,0,auto,AWD,Hermosa Blue,Graphite W/Leatherette Seat Trim Or Leather Appoin
+353,700298219,45066,Used 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,32998,FL,infinity,Q70,2015,3.7,0,0,auto,RWD,Storm Front Gray,
+354,699995336,0,Used 2016 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,51880,MA,infinity,Q70,2016,3.7,0,0,auto,AWD,Black Obsidian,Stone
+355,700741742,0,Used 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,35000,RI,infinity,Q70,2015,3.7,0,0,auto,AWD,Graphite Shadow,Stone
+356,699995481,0,Used 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,44155,MA,infinity,Q70,2016,3.7,0,0,auto,AWD,Majestic White,Graphite
+357,699995338,0,Used 2016 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,45180,MA,infinity,Q70,2016,3.7,0,0,auto,AWD,Hermosa Blue,Stone
+358,699995480,0,Used 2016 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,48105,MA,infinity,Q70,2016,3.7,0,0,auto,AWD,Graphite Shadow,Wheat
+359,699995337,0,Used 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,43655,MA,infinity,Q70,2016,3.7,0,0,auto,AWD,Hermosa Blue,Graphite
+360,700744368,6,Used 2016 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,56930,NC,infinity,Q70,2016,3.7,0,0,auto,AWD,Majestic White,Wheat
+361,699807578,9,Certified 2016 INFINITI Q70L 5.6X,7-Speed Automatic | AWD,55785,NJ,infinity,Q70,2016,5.6,1,0,auto,AWD,Gray,Stone
+362,700731022,699,Used 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,47905,CT,infinity,Q70,2016,3.7,0,0,auto,AWD,Black,
+363,700678919,5517,Used 2015 INFINITI Q70L 3.7,7-Speed Automatic | RWD,33900,CT,infinity,Q70,2015,3.7,0,0,auto,RWD,Black Obsidian,Black
+364,641707559,6264,Used 2015 INFINITI Q70 5.6,7-Speed Automatic | RWD,57000,CA,infinity,Q70,2015,5.6,0,0,auto,RWD,Black,Stone
+365,700235685,7652,Certified 2016 INFINITI Q70L 3.7,7-Speed Automatic | RWD,43130,FL,infinity,Q70,2016,3.7,1,0,auto,RWD,Hermosa Blue,Graphite
+366,699906931,7822,Used 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,37799,IL,infinity,Q70,2015,3.7,0,0,auto,AWD,Moonlight White,Graphite
+367,700107570,8921,Used 2016 INFINITI Q70 5.6X,7-Speed Automatic | AWD,45999,FL,infinity,Q70,2016,5.6,0,0,auto,AWD,Malbec Black,Graphite
+368,699929107,8921,Used 2016 INFINITI Q70 5.6X,7-Speed Automatic | AWD,45999,FL,infinity,Q70,2016,5.6,0,0,auto,AWD,Malbec Black,Graphite
+369,700571200,8996,Certified 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,38991,FL,infinity,Q70,2016,3.7,1,0,auto,RWD,Hermosa Blue,Graphite
+370,698772387,9991,Certified 2016 INFINITI Q70L 3.7,7-Speed Automatic | RWD,45600,CA,infinity,Q70,2016,3.7,1,0,auto,RWD,Majestic White,Graphite
+371,700724055,10526,Used 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,36986,IL,infinity,Q70,2016,3.7,0,0,auto,AWD,Hermosa Blue,Wheat
+372,700098952,12724,Certified 2015 INFINITI Q70L,Automatic | AWD,49900,FL,infinity,Q70,2015,,1,0,auto,AWD,Black Obsidian,
+373,699940999,13000,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,41421,SC,infinity,Q70,2016,3.7,0,0,auto,RWD,Graphite Shadow,
+374,700153679,13890,Certified 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,39243,IL,infinity,Q70,2015,3.7,1,0,auto,AWD,Black Obsidian,
+375,700187193,13890,Used 2015 INFINITI Q70 3.7X,7-Speed Automatic | AWD,39243,IL,infinity,Q70,2015,3.7,0,0,auto,AWD,Black Obsidian,
+376,699304657,13900,Certified 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,39875,NJ,infinity,Q70,2015,3.7,1,0,auto,AWD,Graphite Shadow,Wheat
+377,697461022,14449,Certified 2015 INFINITI Q70L TECHNOLOGY PACKAGE AWD,Automatic | AWD,38888,NY,infinity,Q70,2015,,1,0,auto,AWD,Black,
+378,695312288,15049,Used 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,33777,TX,infinity,Q70,2015,3.7,0,0,auto,RWD,Malbec Black,
+379,699976960,15792,Certified 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,44494,AZ,infinity,Q70,2016,3.7,1,0,auto,RWD,Graphite Shadow,Graphite
+380,700673163,16694,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,38999,TX,infinity,Q70,2016,3.7,0,0,auto,RWD,Blue,Wheat
+381,699807426,18251,Certified 2016 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,44755,NJ,infinity,Q70,2016,3.7,1,0,auto,AWD,Silver,Stone
+382,700280592,19360,Used 2015 INFINITI Q70h Base,7-Speed Automatic | RWD,32250,FL,infinity,Q70,2015,,0,0,auto,RWD,Liquid Platinum,Black
+383,700603985,19381,Used 2015 INFINITI Q70 3.7,7-Speed Automatic | RWD,34499,TX,infinity,Q70,2015,3.7,0,0,auto,RWD,Graphite Shadow,Stone
+384,700605663,19574,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,35750,NC,infinity,Q70,2016,3.7,0,0,auto,RWD,Black,Wheat
+385,700714300,19574,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,35750,FL,infinity,Q70,2016,3.7,0,0,auto,RWD,Black,Wheat
+386,699611391,20326,Used 2016 INFINITI Q70 3.7,7-Speed Automatic | RWD,37900,LA,infinity,Q70,2016,3.7,0,0,auto,RWD,Black,
+387,700204190,23033,Certified 2015 INFINITI Q70L 3.7X,AUTO,37455,PA,infinity,Q70,2015,3.7,1,0,auto,,Black Obsidian,Stone
+388,700314919,24175,Certified 2014 INFINITI Q70 3.7,AUTO,28155,SC,infinity,Q70,2014,3.7,1,0,auto,,Moonlight White,Graphite
+389,699485840,26478,Certified 2016 INFINITI Q70L 3.7,7-Speed Automatic | RWD,41988,GA,infinity,Q70,2016,3.7,1,0,auto,RWD,Malbec Black,Wheat
+390,699807570,29890,Certified 2016 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,44985,NJ,infinity,Q70,2016,3.7,1,0,auto,AWD,Blue,Stone
+391,700188375,30507,Certified 2016 INFINITI Q70 3.7X,7-Speed Automatic | AWD,36999,FL,infinity,Q70,2016,3.7,1,0,auto,AWD,Black Obsidian,Wheat
+392,700137152,32933,Certified 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,37000,MD,infinity,Q70,2015,3.7,1,0,auto,AWD,Storm Front Gray,Stone
+393,700754122,35027,Used 2015 INFINITI Q70L 3.7,7-Speed Automatic | RWD,34988,GA,infinity,Q70,2015,3.7,0,0,auto,RWD,Black Obsidian,Stone
+394,700782968,35071,Used 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,37439,FL,infinity,Q70,2015,3.7,0,0,auto,AWD,Black Obsidian,
+395,699237224,44032,Used 2015 INFINITI Q70L 3.7X,7-Speed Automatic | AWD,33995,NY,infinity,Q70,2015,3.7,0,0,auto,AWD,Hermosa Blue,
+396,700214766,46916,Used 2014 INFINITI Q70 PREMIUM PKG,Automatic | AWD,28999,NY,infinity,Q70,2014,,0,0,auto,AWD,Obs Black,
+397,700654833,53675,Certified 2015 INFINITI Q70 3.7,AUTO,31576,MS,infinity,Q70,2015,3.7,1,0,auto,,Liquid Platinum,
+398,700311572,66926,Used 2014 INFINITI Q70 3.7,7-Speed Automatic | RWD,22990,FL,infinity,Q70,2014,3.7,0,0,auto,RWD,Platinum Graphite,Tan

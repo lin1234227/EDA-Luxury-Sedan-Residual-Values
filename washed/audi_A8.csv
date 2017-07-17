@@ -1,0 +1,870 @@
+,id,miles,price,state,year,capacity,Certified,gearbox,dwheel,ext,int,name,powertrain,brand,model
+0,696153870,4931,76250,GA,2017,4.0,1,auto,AWD,Mythos Black Metallic,Nougat Brown,Certified 2017 Audi A8 L 4.0T Sport,Automatic with Tiptronic | AWD,Audi,A8
+1,697685039,144950,11000,NJ,2009,4.2,0,auto,AWD,Night Blue Pearl,Cardamon Beige,Used 2009 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+2,695267890,4889,67111,CT,2017,3.0,1,auto,AWD,Moonlight Blue Metallic,Titanium Gray,Certified 2017 Audi A8 L 3.0T,Automatic with Tiptronic | AWD,Audi,A8
+3,694196717,15464,67500,CT,2016,4.0,1,auto,AWD,Monsoon Gray Metallic,Black,Certified 2016 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+4,697540368,82153,28500,GA,2011,4.2,0,auto,AWD,Oolong Gray Metallic,Black,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+5,697426090,73667,25492,CO,2011,4.2,0,auto,AWD,Black,Black,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+6,697156753,23781,43400,IL,2014,3.0,0,auto,AWD,Phantom Black Pearl,Nougat Brown,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+7,692245557,65028,31897,WA,2012,4.2,0,auto,AWD,Night Blue Pearl,Black,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+8,695965456,35558,41999,NC,2014,3.0,0,auto,AWD,Phantom Black,Black,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+9,699885893,40282,40850,CO,2014,3.0,1,auto,AWD,Gray,,Certified 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+10,699913003,28167,45980,IL,2014,3.0,0,auto,AWD,Phantom Black Pearl,Black,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+11,687073735,62605,31994,CO,2013,3.0,0,auto,AWD,Ice Silver Metallic,Black,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+12,697619581,10777,60000,NJ,2015,4.0,0,auto,AWD,Moonlight Blue,Nougat Brown,Used 2015 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+13,692715669,32252,45599,CO,2013,4.0,0,auto,AWD,Gray,,Used 2013 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+14,699324966,88915,26500,MI,2011,4.2,0,auto,AWD,Ice Silver Metallic,Black,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+15,699906781,59427,36223,IN,2013,3.0,0,auto,AWD,Silver,Black,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+16,681755107,0,14950,WA,2008,4.2,0,auto,AWD,Black,Light Gray,Used 2008 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+17,699308040,987,99997,CA,2015,6.3,0,auto,AWD,Black,,Used 2015 Audi A8 L W12 6.3,8-Speed Automatic | AWD,Audi,A8
+18,700150042,1695,79000,CA,2016,4.0,1,auto,AWD,Florett Silver Metallic,Balao Brown,Certified 2016 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+19,697886030,2144,70333,NJ,2017,3.0,1,auto,AWD,Brilliant Black,Black,Certified 2017 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+20,700042254,2975,75989,TX,2017,4.0,0,auto,AWD,Mythos Black Metallic,Black,Used 2017 Audi A8 L 4.0T Sport,8-Speed Automatic | AWD,Audi,A8
+21,700074219,3080,107990,TN,2016,4.0,0,auto,AWD,Florett Silver Metallic,Black,Used 2016 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+22,697864443,3147,81500,CO,2017,4.0,1,auto,AWD,Monsoon Gray Metallic,Black,Certified 2017 Audi A8 L 4.0T Sport,Automatic with Tiptronic | AWD,Audi,A8
+23,698177684,3156,74988,FL,2017,3.0,1,auto,AWD,Monsoon Gray Metallic,Black,Certified 2017 Audi A8 L 3.0T,Automatic with Tiptronic | AWD,Audi,A8
+24,699549100,4175,69991,CA,2017,3.0,0,auto,AWD,Glacier White Metallic,Black,Used 2017 Audi A8 L 3.0T,Automatic with Tiptronic | AWD,Audi,A8
+25,698150980,4308,71000,NJ,2017,3.0,1,auto,AWD,Monsoon Gray Metallic,Black,Certified 2017 Audi A8 L 3.0T,Automatic with Tiptronic | AWD,Audi,A8
+26,697617994,4474,72499,NE,2017,3.0,1,auto,AWD,Oolong Gray Metallic,Black,Certified 2017 Audi A8 L 3.0T,Automatic with Tiptronic | AWD,Audi,A8
+27,696189232,4513,77464,TX,2017,4.0,0,auto,AWD,Glacier White Metallic,Black,Used 2017 Audi A8 L 4.0T Sport,8-Speed Automatic | AWD,Audi,A8
+28,698528437,4595,78990,IN,2017,,0,auto,AWD,Monsoongray,,Used 2017 Audi A8 Sport,8-Speed Automatic w/OD | AWD,Audi,A8
+29,696955660,4821,99999,MA,2015,6.3,1,auto,AWD,Phantom Black Pearl,Black,Certified 2015 Audi A8 L W12 6.3,8-Speed Automatic | AWD,Audi,A8
+30,698108594,4969,73000,CA,2016,4.0,1,auto,AWD,Havanna Black Metallic,Black,Certified 2016 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+31,699486940,5975,71500,AL,2017,3.0,0,auto,AWD,Florett Silver Metallic,Black,Used 2017 Audi A8 L 3.0T,Automatic with Tiptronic | AWD,Audi,A8
+32,696821704,6624,68995,FL,2017,3.0,1,auto,AWD,Cuvee Silver Metallic,Velvet Beige,Certified 2017 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+33,694505956,6635,60995,CA,2016,3.0,0,auto,AWD,Florett Silver Metallic,Black,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+34,697940235,6783,79357,NJ,2017,,0,auto,AWD,Mythos Black Metallic,Black,Used 2017 Audi A8 Sport,8-Speed Automatic w/OD | AWD,Audi,A8
+35,697472018,6802,71500,CA,2017,3.0,0,auto,AWD,Mythos Black Metallic,Black,Used 2017 Audi A8 L 3.0T,Automatic with Tiptronic | AWD,Audi,A8
+36,689938436,6999,75999,OH,2016,4.0,0,auto,AWD,Florett Silver Metallic,Black,Used 2016 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+37,697123298,7357,69490,NJ,2017,3.0,0,auto,AWD,Mythos Black Metallic,Black,Used 2017 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+38,685959730,7597,72957,CT,2016,4.0,1,auto,AWD,Ibis White,Nougat Brown,Certified 2016 Audi A8 L 4.0T,8-Speed Automatic w/OD | AWD,Audi,A8
+39,693277826,7833,70991,IL,2016,4.0,1,auto,AWD,Glacier White Metallic,Black,Certified 2016 Audi A8 L 4.0T,Automatic with Tiptronic | AWD,Audi,A8
+40,698150979,8032,70000,NJ,2017,3.0,1,auto,AWD,Mythos Black Metallic,Nougat Brown,Certified 2017 Audi A8 L 3.0T,Automatic with Tiptronic | AWD,Audi,A8
+41,700551838,8117,67981,TX,2017,3.0,1,auto,AWD,Mythos Black Metallic,Black,Certified 2017 Audi A8 L 3.0T,Automatic with Tiptronic | AWD,Audi,A8
+42,697305713,8133,53500,CO,2016,3.0,0,auto,AWD,Glacier White Metallic,Black,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+43,693364713,8157,67981,IN,2016,3.0,0,auto,AWD,Glacierwhite,,Used 2016 Audi A8 L 3.0T,8-Speed Automatic w/OD | AWD,Audi,A8
+44,699960331,8374,62980,OH,2016,3.0,1,auto,AWD,Brilliant Black,Black,Certified 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+45,692696173,8700,56999,VA,2016,3.0,0,auto,AWD,Brilliant Black,Black,Used 2016 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+46,696462859,8906,74000,IL,2016,4.0,1,auto,AWD,Mythos Black Metallic,Black,Certified 2016 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+47,692186737,9413,68465,TX,2016,4.0,0,auto,AWD,Mythos Black Metallic,Black,Used 2016 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+48,696971515,9543,65998,VA,2016,3.0,1,auto,AWD,Moonlight Blue Metallic,Black,Certified 2016 Audi A8 L 3.0T,Automatic with Tiptronic | AWD,Audi,A8
+49,698019110,9563,79950,WA,2012,,0,auto,AWD,Phantom Black Pearl,Black,Used 2012 Audi A8 W12,8-Speed Automatic | AWD,Audi,A8
+50,697525090,9572,58950,TX,2016,3.0,0,auto,AWD,Mythos Black Metallic,Black,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+51,689641130,9663,73997,IN,2016,4.0,1,auto,AWD,Mythos Black Metallic,Nougat Brown,Certified 2016 Audi A8 L 4.0T,Automatic with Tiptronic | AWD,Audi,A8
+52,700406061,9687,79000,CA,2017,4.0,1,auto,AWD,Mythos Black Metallic,Black,Certified 2017 Audi A8 L 4.0T Sport,Automatic with Tiptronic | AWD,Audi,A8
+53,696888486,10008,62988,TX,2016,4.0,0,auto,AWD,Brilliant Black,Black,Used 2016 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+54,697731227,10421,50900,HI,2015,3.0,0,auto,AWD,Gray,Black,Used 2015 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+55,697389383,10758,57590,IL,2015,4.0,0,auto,AWD,Phantom Black Pearl,,Used 2015 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+56,687225653,10961,68888,TX,2016,4.0,0,auto,AWD,Brilliant Black,Black,Used 2016 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+57,691488127,11145,49735,TX,2015,3.0,0,auto,AWD,Brilliant Black,Black,Used 2015 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+58,693554097,11504,67998,MA,2016,4.0,1,auto,AWD,Moonlight Blue Metallic,Nougat Brown,Certified 2016 Audi A8 L 4.0T,Automatic with Tiptronic | AWD,Audi,A8
+59,698220165,11798,55991,GA,2016,3.0,0,auto,AWD,Brilliant Black,Black,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+60,694526876,13381,53500,PA,2016,3.0,0,auto,AWD,Brilliant Black,Black,Used 2016 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+61,695333671,13407,57455,TX,2015,4.0,0,auto,AWD,Monsoon Gray Metallic,Black,Used 2015 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+62,699309388,13777,55999,CO,2016,4.0,0,auto,AWD,Oolong Gray Metallic,,Used 2016 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+63,699264856,14155,56995,IL,2015,4.0,0,auto,AWD,Ibis White,Black,Used 2015 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+64,699434741,14589,51994,FL,2016,3.0,0,auto,AWD,Brilliant Black,Velvet Beige,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+65,691940701,14705,50999,GA,2015,3.0,0,auto,AWD,Monsoon Gray Metallic,Black,Used 2015 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+66,683328430,15017,46988,HI,2014,3.0,0,auto,AWD,Phantom Black Pearl,Black,Used 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+67,687992004,15078,60000,MD,2016,3.0,0,auto,AWD,Black,Black,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+68,695867032,15121,54495,MA,2014,4.0,1,auto,AWD,Brilliant Black,Black,Certified 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+69,699328792,15264,66095,GA,2016,3.0,1,auto,AWD,Glacier White Metallic,Nougat Brown,Certified 2016 Audi A8 L 3.0T,Automatic with Tiptronic | AWD,Audi,A8
+70,693753413,15651,51900,MN,2015,3.0,0,auto,AWD,Phantom Black Pearl,Black,Used 2015 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+71,698549654,16229,74998,MA,2016,4.0,1,auto,AWD,Florett Silver Metallic,Black,Certified 2016 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+72,693959930,16848,49999,IL,2015,3.0,1,auto,AWD,Glacier White Metallic,Velvet Beige,Certified 2015 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+73,697250267,16893,56990,MO,2016,3.0,0,auto,AWD,Brilliant Black,Black,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+74,698924047,17126,48695,MA,2014,4.0,0,auto,AWD,Phantom Black Pearl,Nougat Brown,Used 2014 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+75,687401693,17196,53995,AL,2016,3.0,0,auto,AWD,Ibis White,Velvet Beige,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+76,697346682,18380,55999,TX,2016,3.0,0,auto,AWD,Brilliant Black,Black,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+77,688023989,18909,53995,AL,2016,3.0,0,auto,AWD,Ibis White,Velvet Beige,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+78,698557863,19748,55596,TX,2016,3.0,0,auto,AWD,Black,Black,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+79,697884211,19938,47990,CA,2015,3.0,0,auto,AWD,Floret Silver Metallic,Black,Used 2015 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+80,693215496,20068,35500,OR,2011,4.2,0,auto,AWD,Ice Silver Metallic,Titanium,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+81,699017484,20315,44995,TX,2014,3.0,0,auto,AWD,Brilliant Black,Black,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+82,690323321,20494,38966,VA,2012,4.2,0,auto,AWD,Black,Black,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+83,694207555,20566,58994,FL,2012,6.3,0,auto,AWD,Phantom Black Pearl,Black,Used 2012 Audi A8 L 6.3 quattro,8-Speed Automatic | AWD,Audi,A8
+84,693088497,20739,54950,UT,2016,3.0,0,auto,AWD,White,Velvet Beige,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+85,695573043,20979,64988,CA,2016,4.0,0,auto,AWD,Mythos Black Metallic,Black,Used 2016 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+86,700592450,21043,56660,MA,2015,4.0,0,auto,AWD,Phantom Black Pearl,Black,Used 2015 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+87,691132220,21068,49900,OH,2014,4.0,0,auto,AWD,Ice Silver Metallic,Black,Used 2014 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+88,695518514,21211,41000,CA,2014,3.0,0,auto,AWD,Brilliant Black,Black,Used 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+89,689856488,21334,61576,PA,2016,3.0,1,auto,AWD,Mythos Black Metallic,Black,Certified 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+90,683709812,22130,53998,CA,2016,3.0,0,auto,AWD,Black,BLACK,Used 2016 Audi A8 L 3.0T,8 speed automatic | AWD,Audi,A8
+91,692975603,22581,48635,TN,2014,4.0,0,auto,AWD,Phantom Black Pearl,Nougat Brown,Used 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+92,683491065,23038,46495,MN,2013,4.0,0,auto,AWD,Quartz Gray Metallic,Black,Used 2013 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+93,697044109,23169,52983,MD,2014,4.0,1,auto,AWD,Phantom Black Pearl,Beige,Certified 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+94,696888621,24071,44913,NV,2015,3.0,0,auto,AWD,Phantom Black Pearl,Black,Used 2015 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+95,697978699,24179,47572,TN,2014,3.0,1,auto,AWD,Black,Black,Certified 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+96,688587934,24834,39990,IN,2014,3.0,0,auto,AWD,Ice Silver Metallic,Black,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+97,698567706,25287,53990,NJ,2014,4.0,0,auto,AWD,Ice Silver Metallic,Black,Used 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+98,692279592,25817,43990,IN,2014,3.0,0,auto,AWD,White,,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+99,699437795,26014,54995,IL,2014,4.0,0,auto,AWD,Glacier White Metallic,Nougat Brown,Used 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+100,698054474,26514,47987,VA,2015,3.0,1,auto,AWD,Moonlight Blue Metallic,Black,Certified 2015 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+101,700241247,26523,46995,NJ,2015,3.0,0,auto,AWD,Brilliant Black,Black,Used 2015 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+102,699443291,27422,44891,TX,2014,3.0,0,auto,AWD,Ibis White,Black,Used 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+103,647326546,27613,56500,VT,2012,6.3,0,auto,AWD,Night Blue Pearl,Velvet Beige,Used 2012 Audi A8 L 6.3 quattro,8-Speed Automatic | AWD,Audi,A8
+104,700328756,27718,44950,AZ,2015,3.0,0,auto,AWD,Brilliant Black,Black,Used 2015 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+105,686423342,28028,47900,OH,2014,3.0,0,auto,AWD,Havana Black,Nougat Brown,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+106,696033884,28089,44573,AZ,2015,3.0,0,auto,AWD,Black,Black,Used 2015 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+107,699271744,28133,45994,NJ,2014,3.0,1,auto,AWD,Ice Silver Metallic,Black,Certified 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+108,697792534,28515,34700,NY,2013,3.0,0,auto,AWD,Ice Silver Metallic,Black,Used 2013 Audi A8 3.0T quattro,8-Speed Automatic | AWD,Audi,A8
+109,698291457,28607,34137,UT,2014,3.0,0,auto,AWD,Phantom Black Pearl,Black,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+110,690120171,28768,49995,TX,2015,3.0,0,auto,AWD,Havanna Black Metallic,Black,Used 2015 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+111,699319945,28920,61999,VA,2015,4.0,0,auto,AWD,Monsoon Gray Metallic,TITANIUM GRAY,Used 2015 Audi A8 L 4.0T,8 - SPEED AUTOMATIC | AWD,Audi,A8
+112,698557907,29185,45990,GA,2014,4.0,0,auto,AWD,Black,Black,Used 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+113,692272022,29307,43980,MA,2014,3.0,0,auto,AWD,Silver,,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+114,696430005,29312,47595,NY,2015,3.0,0,auto,AWD,Black,Black,Used 2015 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+115,696782376,29421,45994,GA,2013,4.0,1,auto,AWD,Black,Black,Certified 2013 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+116,687163307,29578,43995,VA,2013,4.0,0,auto,AWD,Havanna Black Metallic,Silk Beige,Used 2013 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+117,698346424,30000,41990,IN,2014,3.0,0,auto,AWD,Black,,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+118,691479030,30048,37782,MO,2012,4.2,0,auto,AWD,Quartz Gray Metallic,Titanium Gray,Used 2012 Audi A8 L 4.2 quattro,Quartz Gray Metallic (ext) | Titanium Gray (int),Audi,A8
+119,696004581,30730,57900,IN,2015,4.0,0,auto,AWD,Monsoon Gray Metallic,Black,Used 2015 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+120,697640391,30855,72900,MI,2015,4.0,0,auto,AWD,Florett Silver Metallic,Black,Used 2015 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+121,699844845,30912,45000,MD,2014,4.0,0,auto,AWD,Quartz Gray Metallic,Black,Used 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+122,687228724,31068,45997,DE,2015,3.0,0,auto,AWD,Brilliant Black,Black,Used 2015 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+123,696798038,31574,54873,CT,2014,4.0,1,auto,AWD,Phantom Black Pearl Effect,Black,Certified 2014 Audi A8 L 4.0T,8-Speed Automatic w/OD | AWD,Audi,A8
+124,698599851,31676,46900,OR,2015,3.0,0,auto,AWD,Phantom Black Pearl,Black,Used 2015 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+125,693120385,31972,43205,TN,2013,4.0,0,auto,AWD,Ice Silver Metallic,Velvet Beige,Used 2013 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+126,695470638,32030,41976,OH,2014,3.0,1,auto,AWD,Oolong Gray Metallic,Nougat Brown,Certified 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+127,695368204,32425,45368,NY,2014,3.0,0,auto,AWD,Glacier White Metallic,Velvet Beige,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+128,689158415,32451,37995,VA,2013,3.0,0,auto,AWD,Silver,Tan,Used 2013 Audi A8 3.0T quattro,8-Speed Automatic | AWD,Audi,A8
+129,699014034,32508,47990,NJ,2014,3.0,0,auto,AWD,Havanna Black Metallic,Nougat Brown,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+130,694841467,32861,40990,MD,2013,3.0,0,auto,AWD,Black,,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+131,697475253,33126,43881,IL,2013,3.0,1,auto,AWD,Quartz Gray Metallic,Nougat Brown,Certified 2013 Audi A8 3.0T quattro,8-Speed Automatic | AWD,Audi,A8
+132,699822430,33268,49500,NV,2014,4.0,1,auto,AWD,Phantom Black Pearl,Black,Certified 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+133,688706800,33310,37499,CT,2012,4.2,0,auto,AWD,Glacier White Metallic,Velvet Beige,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+134,697730762,33377,36995,FL,2014,3.0,0,auto,AWD,Savana Beige Pearl Effect,Silk Beige,Used 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+135,688004285,33435,40000,NY,2013,3.0,1,auto,AWD,White,,Certified 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+136,699282004,33497,59991,FL,2012,6.3,0,auto,AWD,Oolong Grey Metallic,Velvet Beige,Used 2012 Audi A8 L 6.3 quattro,8-Speed Automatic | AWD,Audi,A8
+137,696303029,33761,34888,CA,2012,4.2,0,auto,AWD,Gray,Black,Used 2012 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+138,698989076,33783,41982,MD,2014,3.0,1,auto,AWD,Night Blue Pearl,Nougat Brown,Certified 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+139,687575067,34028,23994,FL,2009,4.2,0,auto,AWD,Phantom Black Pearl,Amaretto,Used 2009 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+140,699375486,34117,34000,GA,2012,4.2,0,auto,AWD,Gray,Brown,Used 2012 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+141,699822265,34424,49000,NV,2014,4.0,1,auto,AWD,Savanna Beige,Velvet Beige,Certified 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+142,697365662,34497,36488,WA,2013,3.0,0,auto,AWD,Havanna Black Metallic,Black,Used 2013 Audi A8 3.0T quattro,8-Speed Automatic | AWD,Audi,A8
+143,696955713,34609,41859,MA,2014,3.0,1,auto,AWD,Phantom Black Pearl,Black,Certified 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+144,689293141,34610,42855,IL,2014,4.0,0,auto,AWD,Night Blue Pearl Effect,Black,Used 2014 Audi A8 L 4.0T,8-Speed Automatic w/OD | AWD,Audi,A8
+145,700700597,35000,44966,VA,2014,3.0,0,auto,AWD,White,BEIGE,Used 2014 Audi A8 L 3.0T,8 speed automatic | AWD,Audi,A8
+146,695944552,35206,39984,MD,2014,3.0,1,auto,AWD,Monsoon Gray Metallic,Black,Certified 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+147,697629459,35399,38744,VA,2014,3.0,0,auto,AWD,Navigation Loaded,Velvet Beige,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+148,699715485,35454,45000,NJ,2015,3.0,0,auto,AWD,Ibis White,Black,Used 2015 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+149,697137409,35503,43000,CA,2014,3.0,1,auto,AWD,Havanna Black Metallic,Nougat Brown,Certified 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+150,698516174,36124,34995,IL,2013,3.0,0,auto,AWD,Night Blue Pearl,Nougat Brown,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+151,699124448,36161,43572,TN,2014,3.0,1,auto,AWD,White,Beige,Certified 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+152,693302094,36287,37900,CA,2013,3.0,0,auto,AWD,Black,,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+153,697116219,36538,42983,VA,2014,4.0,0,auto,AWD,Black,Nougat Brown,Used 2014 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+154,699749337,36609,45987,NJ,2014,3.0,1,auto,AWD,Phantom Black Pearl,Black,Certified 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+155,692391109,36683,45976,FL,2014,4.0,0,auto,AWD,Brilliant Black,Black,Used 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+156,698484818,36753,51990,NJ,2014,4.0,0,auto,AWD,Phantom Black Pearl,Nougat Brown,Used 2014 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+157,688907772,36760,39170,KY,2014,4.0,0,auto,AWD,Night Blue Pearl,Nougat Brown,Used 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+158,695492510,36915,36984,AL,2013,3.0,0,auto,AWD,Phantom Black Pearl,Black,Used 2013 Audi A8 3.0T quattro,8-Speed Automatic | AWD,Audi,A8
+159,698136842,37046,43982,TX,2014,4.0,0,auto,AWD,Black,Nougat Brown,Used 2014 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+160,666780330,37130,59995,NC,2015,4.0,1,auto,AWD,Gray,Black,Certified 2015 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+161,697971988,37178,49500,CA,2015,3.0,0,auto,AWD,Monsoon Gray Metallic,Black,Used 2015 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+162,692354791,37248,39999,OH,2013,3.0,1,auto,AWD,Night Blue Pearl,Velvet Beige,Certified 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+163,699049378,37371,45400,OH,2014,3.0,1,auto,AWD,Blue,,Certified 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+164,699277956,37493,40684,AZ,2014,3.0,0,auto,AWD,Phantom Black Pearl,Velvet Beige,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+165,697469431,38125,40986,IL,2014,3.0,0,auto,AWD,Havanna Black Metallic,Nougat Brown,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+166,700411753,38249,42354,TX,2014,4.0,0,auto,AWD,Phantom Black Pearl,Nougat Brown,Used 2014 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+167,696185241,38278,34895,FL,2014,3.0,0,auto,AWD,Night Blue Pearl,Nougat Brown,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+168,699767435,38473,46995,AL,2013,4.0,0,auto,AWD,Phantom Black Pearl,Black,Used 2013 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+169,695880346,38808,38900,OR,2014,3.0,0,auto,AWD,Phantom Black Pearl,Black,Used 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+170,673347295,38979,40000,MA,2014,4.0,0,auto,AWD,Brilliant Black,Black,Used 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+171,693170843,39257,33988,MO,2013,3.0,0,auto,AWD,Black,Brown,Used 2013 Audi A8 3.0T quattro,8-Speed Automatic | AWD,Audi,A8
+172,693171027,39257,33988,MO,2013,3.0,0,auto,AWD,Black,Brown,Used 2013 Audi A8 3.0T quattro,8-Speed Automatic | AWD,Audi,A8
+173,698197713,39285,52985,CT,2014,4.0,1,auto,AWD,Phantom Black Pearl Effect,Black,Certified 2014 Audi A8 L 4.0T,8-Speed Automatic w/OD | AWD,Audi,A8
+174,698901755,39289,41999,TX,2015,3.0,0,auto,AWD,Monsoon Gray Metallic,Titanium,Used 2015 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+175,684701240,39352,23995,IL,2006,4.2,0,auto,AWD,Brilliant Black,Black,Used 2006 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+176,700262543,39521,41941,CA,2013,4.0,0,auto,AWD,Gray,Silk Beige,Used 2013 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+177,698906286,39541,36985,IL,2013,3.0,0,auto,AWD,Oolong Grey Metallic,Velvet Beige,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+178,695960346,39690,39500,CA,2013,3.0,1,auto,AWD,Phantom Black Pearl,Black,Certified 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+179,696888629,39713,43980,IL,2013,4.0,0,auto,AWD,Ice Silver Metallic,Black,Used 2013 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+180,697632228,40225,37250,MD,2014,3.0,0,auto,AWD,Savana Beige Pearl Effect,Velvet Beige,Used 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+181,698446166,40615,53877,WI,2015,3.0,0,auto,AWD,Monsoon Gray Metallic,Balao Brown,Used 2015 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+182,687128772,40868,41000,CT,2014,3.0,1,auto,AWD,Phantom Black Pearl Effect,Black,Certified 2014 Audi A8 L 3.0T,8-Speed Automatic w/OD | AWD,Audi,A8
+183,691236157,40929,33865,TN,2012,4.2,0,auto,AWD,Havanna Black Metallic,Titanium,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+184,697253090,41077,36250,MI,2012,4.2,0,auto,AWD,Havanna Black Metallic,Nougat Brown,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+185,698614901,41471,41966,VA,2012,4.2,0,auto,AWD,Blue,Velvet Beige,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+186,692853482,41499,45996,IL,2015,3.0,0,auto,AWD,Monsoon Gray Metallic,Nougat Brown,Used 2015 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+187,696416150,42008,38800,IL,2013,3.0,0,auto,AWD,Glacier White Metallic,Velvet Beige,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+188,697838303,42276,38995,GA,2014,3.0,0,auto,AWD,Moonlight Blue Metallic,Black,Used 2014 Audi A8 L 3.0T,8-Speed Automatic w/OD | AWD,Audi,A8
+189,700115585,42528,54995,IL,2012,6.3,0,auto,AWD,Phantom Black Pearl,Black,Used 2012 Audi A8 L 6.3 quattro,8-Speed Automatic | AWD,Audi,A8
+190,698415784,42837,40937,TX,2013,4.0,1,auto,AWD,White.Beig,,Certified 2013 Audi A8 4.0T,Automatic | AWD,Audi,A8
+191,697035700,42893,38542,NJ,2014,4.0,0,auto,AWD,Phantom Black Pearl,Nougat Brown,Used 2014 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+192,693813412,43056,37683,OH,2014,4.0,0,auto,AWD,Emerald Black Metallic,Nougat Brown,Used 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+193,688587794,43058,37990,IN,2014,3.0,0,auto,AWD,Oolong Gray Metallic,Nougat Brown,Used 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+194,669419094,43201,53988,NJ,2015,3.0,0,auto,AWD,Monsoon Gray Metallic,Black,Used 2015 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+195,688587758,43428,37990,IN,2014,3.0,0,auto,AWD,Brilliant Black,Black,Used 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+196,689978248,43510,45888,NJ,2015,3.0,0,auto,AWD,Monsoon Gray Metallic,Black,Used 2015 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+197,691075391,43534,45450,TX,2014,4.0,0,auto,AWD,Suzuka Gray,Titanium Gray,Used 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+198,695691527,43795,31250,FL,2012,4.2,0,auto,AWD,Phantom Black Pearl,Nougat Brown,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+199,698905007,43879,45998,MA,2014,4.0,0,auto,AWD,Phantom Black Pearl,Nougat Brown,Used 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+200,695882060,44013,40995,UT,2013,4.0,0,auto,AWD,Black,Black,Used 2013 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+201,693459458,44137,33815,TN,2013,3.0,0,auto,AWD,Glacier White Metallic,Black,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+202,699722095,44566,39997,VA,2014,3.0,0,auto,AWD,Black,,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+203,690528358,44668,31800,IL,2013,3.0,0,auto,AWD,Night Blue Pearl,Velvet Beige,Used 2013 Audi A8 3.0T quattro,8-Speed Automatic | AWD,Audi,A8
+204,700368284,44701,35813,OH,2012,,0,auto,AWD,Night Blue Pearl,Nougat Brown,Used 2012 Audi A8,Automatic | AWD,Audi,A8
+205,697855873,44898,43500,OH,2014,4.0,1,auto,AWD,Monsoon Gray Metallic,Black,Certified 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+206,659930734,45102,51950,MO,2012,,0,auto,AWD,Phantom Black Pearl,Velvet Beige,Used 2012 Audi A8 W12,8-Speed Automatic | AWD,Audi,A8
+207,683804702,45477,43000,NY,2014,3.0,0,auto,AWD,Not Specified,Titanium Gray,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+208,695010366,45554,35739,NJ,2014,3.0,0,auto,AWD,Brilliant Black,Black,Used 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+209,695713297,45765,35992,TX,2013,3.0,0,auto,AWD,Ice Silver Metallic,Black,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+210,697989728,45769,41885,IL,2014,3.0,0,auto,AWD,Phantom Black Pearl Effect,Black,Used 2014 Audi A8 L 3.0T,8-Speed Automatic w/OD | AWD,Audi,A8
+211,692247439,45892,31990,IL,2011,4.2,0,auto,AWD,Oolong Grey Metallic,Velvet Beige,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+212,700582128,46095,28800,NY,2011,4.2,0,auto,AWD,Phantom Black Pearl,Black,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+213,700676286,46228,42977,PA,2012,4.2,0,auto,AWD,Ibis White,Nougat Brown,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+214,694127135,46509,36000,NJ,2014,3.0,1,auto,AWD,Phantom Black Pearl,Black,Certified 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+215,691456706,47640,39999,OH,2014,3.0,1,auto,AWD,Ice Silver Metallic,Black,Certified 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+216,699932693,47700,32895,NJ,2013,3.0,0,auto,AWD,White,Black,Used 2013 Audi A8 3.0T quattro,8-Speed Automatic | AWD,Audi,A8
+217,700717987,47817,33900,AL,2012,4.2,0,auto,AWD,White,Black,Used 2012 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+218,691374559,48359,14995,FL,2007,4.2,0,auto,AWD,Phantom Black Pearl,Sand Beige,Used 2007 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+219,695180446,48372,39530,CA,2014,3.0,0,auto,AWD,Ibis White,Black,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+220,697067949,48426,37599,FL,2014,4.0,0,auto,AWD,Monsoon Gray Metallic,Silk Beige,Used 2014 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+221,698109167,48540,55490,NJ,2015,4.0,1,auto,AWD,Brilliant Black,Black,Certified 2015 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+222,696954900,48678,41007,MA,2013,4.0,1,auto,AWD,Phantom Black Pearl,Black,Certified 2013 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+223,695887491,48823,31295,NY,2013,3.0,0,auto,AWD,Silver,Titanium Gray,Used 2013 Audi A8 3.0T quattro,8-Speed Automatic | AWD,Audi,A8
+224,694310807,48851,31895,FL,2012,4.2,0,auto,AWD,Havanna Black Metallic,Nougat Brown,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+225,670920924,48856,36990,WA,2013,3.0,0,auto,AWD,Phantom Black Pearl,Black,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+226,696579642,49518,36991,TX,2014,3.0,0,auto,AWD,Brilliant Black,Nougat Brown,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+227,699026095,49685,33899,GA,2014,3.0,0,auto,AWD,Moonlight Blue Metallic,Nougat Brown,Used 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+228,696951272,49780,37655,IN,2014,3.0,0,auto,AWD,Black,Titanium Gray,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+229,692324358,49788,35495,NJ,2013,3.0,0,auto,AWD,Night Blue Pearl,Nougat Brown,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+230,699364818,49956,34995,CO,2013,3.0,0,auto,AWD,Phantom Black Pearl,Balao Brown,Used 2013 Audi A8 3.0T quattro,8-Speed Automatic | AWD,Audi,A8
+231,700361076,49972,34888,CA,2011,4.2,0,auto,AWD,Oolong Grey Metallic,Black,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+232,692651187,50002,34000,NY,2012,4.2,0,auto,AWD,Blue,,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+233,698236519,50464,34990,CO,2013,3.0,0,auto,AWD,Black,,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+234,699918164,50973,32995,TX,2012,4.2,0,auto,AWD,Emerald Black Metallic,Balao Brown,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+235,697628045,51000,37499,GA,2013,4.0,0,auto,AWD,Black,Black,Used 2013 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+236,690964550,51263,37990,CA,2014,4.0,0,auto,AWD,Phantom Black Pearl,Black,Used 2014 Audi A8 L 4.0T,Phantom Black Pearl (ext) | Black (int),Audi,A8
+237,699170907,51709,28900,NJ,2011,4.2,0,auto,AWD,Night Blue Pearl,Velvet Beige,Used 2011 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+238,698599177,52098,31998,IN,2013,3.0,0,auto,AWD,Night Blue Pearl,Black,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+239,695531944,52219,34991,GA,2013,3.0,0,auto,AWD,Emerald Black Metallic,Black,Used 2013 Audi A8 3.0T quattro,8-Speed Automatic | AWD,Audi,A8
+240,698599859,52248,34900,OR,2013,3.0,0,auto,AWD,Black,Black,Used 2013 Audi A8 3.0T quattro,8-Speed Automatic | AWD,Audi,A8
+241,697067945,52955,26995,FL,2011,4.2,0,auto,AWD,Phantom Black Pearl,Black,Used 2011 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+242,698283893,53219,35000,NJ,2013,3.0,0,auto,AWD,Glacier White Metallic,Silk Beige,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+243,698301576,53219,35000,NJ,2013,3.0,0,auto,AWD,Glacier White Metallic,Silk Beige,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+244,700397626,53420,56000,GA,2013,6.3,0,auto,AWD,Gray,Black,Used 2013 Audi A8 L W12 6.3,8-Speed Automatic | AWD,Audi,A8
+245,700543011,54043,38900,NC,2013,4.0,0,auto,AWD,Havanna Black Metallic,Nougat Brown,Used 2013 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+246,691344391,54650,33000,NC,2011,4.2,0,auto,AWD,Phantom Black Pearl,Nougat Brown,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+247,692867717,54696,34988,IL,2013,3.0,0,auto,AWD,Black,Brown,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+248,698114760,54972,13495,NJ,2004,4.2,0,auto,AWD,Oyster Gray Metallic,Platinum,Used 2004 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+249,699163997,55150,40750,SD,2014,3.0,0,auto,AWD,Phantom Black Pearl,Black,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+250,680373997,56221,33966,VA,2013,4.0,0,auto,AWD,Black,Tan,Used 2013 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+251,692663256,56235,29490,NJ,2011,4.2,0,auto,AWD,Silver,Black,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+252,699753183,56412,32990,NJ,2012,4.2,0,auto,AWD,Phantom Black Pearl,Black,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+253,698849411,56500,36990,IL,2012,4.2,0,auto,AWD,Glacier White Metallic,Black,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+254,697870150,56540,33485,GA,2012,4.2,0,auto,AWD,Phantom Black Pearl,Nougat Brown,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+255,699023130,57070,22495,TX,2008,4.2,0,auto,AWD,Phantom Black Pearl,Brown,Used 2008 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+256,691974510,57205,32590,VA,2012,4.2,0,auto,AWD,Black,Velvet Beige,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+257,698204824,57229,34298,CA,2013,3.0,0,auto,AWD,Black,Black,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+258,699353845,57460,42500,CO,2013,4.0,0,auto,AWD,Black,Saddle,Used 2013 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+259,699604514,57512,29900,OR,2011,4.2,0,auto,AWD,Ibis White,Black,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+260,693112746,57585,31995,IL,2013,3.0,0,auto,AWD,Havanna Black Metallic,Black,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+261,692619687,57650,34991,OH,2013,3.0,0,auto,AWD,Silver,,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+262,693777265,58192,32900,MN,2011,4.2,0,auto,AWD,Quartz Gray Metallic,Black,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+263,691481488,58552,24995,NY,2011,4.2,0,auto,AWD,White,Beige,Used 2011 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+264,684864973,58600,32995,CT,2014,4.0,0,auto,AWD,Blue,Tan,Used 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+265,696074069,58622,33958,NY,2013,3.0,0,auto,AWD,Black,Black,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+266,695138902,59109,27991,TX,2011,4.2,0,auto,AWD,Phantom Black Pearl,Velvet Beige,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+267,691047993,59122,24977,IL,2010,4.2,0,auto,AWD,Night Blue Pearl,Black,Used 2010 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+268,698106896,59313,34990,IL,2013,4.0,0,auto,AWD,Detail,Silk Beige,Used 2013 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+269,696465707,59346,41984,MD,2014,4.0,1,auto,AWD,Phantom Black Pearl,Nougat Brown,Certified 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+270,697005780,59474,29762,CA,2011,4.2,0,auto,AWD,Phantom Black Pearl,Black,Used 2011 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+271,696998065,59474,29762,CA,2011,4.2,0,auto,AWD,Phantom Black Pearl,Black,Used 2011 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+272,697347456,59909,32990,NY,2012,4.2,0,auto,AWD,White,Velvet Beige,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+273,682314099,59972,31995,CA,2013,3.0,0,auto,AWD,Gray,Black,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+274,700435828,59979,31900,MA,2013,3.0,0,auto,AWD,Phantom Black Pearl,Black,Used 2013 Audi A8 3.0T quattro,8-Speed Automatic | AWD,Audi,A8
+275,692814274,60560,35791,GA,2013,3.0,0,auto,AWD,Ibis White,Nougat Brown,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+276,700152453,60761,30991,VA,2013,3.0,0,auto,AWD,Havanna Black Metallic,Black,Used 2013 Audi A8 3.0T quattro,8-Speed Automatic | AWD,Audi,A8
+277,692880569,60922,35999,CT,2014,4.0,0,auto,AWD,Black,,Used 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+278,700252558,60999,30900,NJ,2012,4.2,0,auto,AWD,Black,Brown,Used 2012 Audi A8 L 4.2 quattro,Black (ext) | Brown (int),Audi,A8
+279,699407959,61432,36995,TX,2014,4.0,0,auto,AWD,White,Black,Used 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+280,700335934,61456,29765,VA,2009,,0,auto,AWD,Black,Brown,Used 2009 Audi A8 W12 quattro,6-Speed Automatic | AWD,Audi,A8
+281,698108512,61815,38977,GA,2015,3.0,0,auto,AWD,Havanna Black Metallic,Nougat Brown,Used 2015 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+282,695946272,61910,14950,FL,2006,4.2,0,auto,AWD,Northern Blue Pearl,Black,Used 2006 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+283,692932198,62045,38895,NJ,2015,3.0,0,auto,AWD,Moonlight Blue Metallic,Nougat Brown,Used 2015 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+284,697694900,62480,30500,CA,2012,4.2,0,auto,AWD,Phantom Black Pearl,Black,Used 2012 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+285,688981435,63087,29997,IN,2013,3.0,0,auto,AWD,Quartz Gray Metallic,Black,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+286,699649926,63383,29897,IL,2012,4.2,0,auto,AWD,Ibis White,Velvet Beige,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+287,699937020,63535,39999,CT,2014,4.0,0,auto,AWD,Black,Black,Used 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+288,699144878,64110,32995,MD,2012,4.2,0,auto,AWD,White,Velvet Beige,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+289,698718526,64395,23950,SC,2009,4.2,0,auto,AWD,Dark Blue,Dark Beige,Used 2009 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+290,677709159,65075,14999,CT,2007,4.2,0,auto,AWD,Black,Sand Beige,Used 2007 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+291,700372036,65216,29888,IN,2012,4.2,0,auto,AWD,Blue,Velvet Beige,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+292,693375253,66175,28995,NJ,2013,3.0,0,auto,AWD,Blue,Beige,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+293,694955989,66288,30990,MO,2009,,0,auto,AWD,Quartz Gray Metallic,Espresso Brown,Used 2009 Audi A8 W12 quattro,6-Speed Automatic | AWD,Audi,A8
+294,697823712,66995,33998,TX,2013,3.0,0,auto,AWD,Night Blue Pearl,Nougat Brown,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+295,694154382,67070,28450,TX,2011,4.2,0,auto,AWD,Phantom Black Pearl,Nougat Brown,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+296,690643508,67078,18991,NC,2010,4.2,0,auto,AWD,Black,Black,Used 2010 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+297,695388359,67078,18995,NC,2010,4.2,0,auto,AWD,Black,Black,Used 2010 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+298,698896066,67100,36995,IL,2014,3.0,0,auto,AWD,Black,Nougat Brown,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+299,694620861,67273,16777,MN,2007,4.2,0,auto,AWD,Black,Black,Used 2007 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+300,698903058,67291,30888,CA,2011,4.2,0,auto,AWD,Ibis White,Silk Beige,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+301,694857218,67405,25995,TX,2011,4.2,0,auto,AWD,Emerald Black Metallic,Velvet Beige,Used 2011 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+302,697501568,67796,13990,IL,2006,4.2,0,auto,AWD,Arctic White,Sand Beige,Used 2006 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+303,677966704,67839,35321,NJ,2014,4.0,0,auto,AWD,Monsoon Gray Metallic,Black,Used 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+304,698399436,67911,31995,TX,2011,4.2,0,auto,AWD,Oolong Grey Metallic,Titanium,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+305,699683155,68126,30980,MO,2011,4.2,0,auto,AWD,Ibis White,Velvet Beige,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+306,699767855,68195,20843,IL,2009,4.2,0,auto,AWD,Black,Black,Used 2009 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+307,699375500,68247,36500,GA,2014,4.0,0,auto,AWD,Black,Black,Used 2014 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+308,700694028,68311,22990,GA,2010,4.2,0,auto,AWD,Cherry / Black / Pearl,Black,Used 2010 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+309,688675586,68710,20995,CT,2010,4.2,0,auto,AWD,Black,,Used 2010 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+310,688873160,68799,21449,GA,2010,4.2,0,auto,AWD,Phantom Black Pearl,Black,Used 2010 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+311,689903756,68799,21449,GA,2010,4.2,0,auto,AWD,Phantom Black Pearl,Black,Used 2010 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+312,676287038,69550,15999,IL,2007,4.2,0,auto,AWD,Dark Blue,Brown,Used 2007 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+313,694278668,69770,32998,TX,2012,4.2,0,auto,AWD,Phantom Black Pearl,Black,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+314,691924825,70151,29290,MN,2012,4.2,0,auto,AWD,Gray,Black,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+315,691328431,70216,32992,VA,2014,3.0,0,auto,AWD,Blue,Tan,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+316,670186429,70306,29000,GA,2011,4.2,0,auto,AWD,Havanna Black Metallic,Black,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+317,676444565,70548,27499,GA,2013,3.0,0,auto,AWD,Black,Black,Used 2013 Audi A8 3.0T quattro,8-Speed Automatic | AWD,Audi,A8
+318,698018652,71214,31836,DE,2013,3.0,0,auto,AWD,Phantom Black Pearl,Nougat Brown,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+319,688423578,71506,30999,CO,2012,4.2,0,auto,AWD,Phantom Black Pearl,Black,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+320,694079768,71892,15991,OH,2009,4.2,0,auto,AWD,Black,Gray,Used 2009 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+321,700102497,71928,16966,VA,2009,4.2,0,auto,AWD,Gray,Brown,Used 2009 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+322,695501237,71938,16957,MA,2009,4.2,0,auto,AWD,Blue,Tan,Used 2009 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+323,699606916,72018,26500,NJ,2011,4.2,0,auto,AWD,Black,Brown,Used 2011 Audi A8 L 4.2 quattro,Black (ext) | Brown (int),Audi,A8
+324,689028396,72700,24495,NJ,2011,4.2,0,auto,AWD,Black,Black,Used 2011 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+325,699407957,72932,29995,TX,2012,4.2,0,auto,AWD,Silver,Black,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+326,698617155,73176,33595,TX,2013,4.0,0,auto,AWD,Silver,Black,Used 2013 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+327,685839152,73410,12995,TX,2006,4.2,0,auto,AWD,Quartz Gray Metallic,Mojave,Used 2006 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+328,696983054,73423,32672,NJ,2014,3.0,0,auto,AWD,Phantom Black Pearl,Black,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+329,696479441,73425,18900,MO,2009,4.2,0,auto,AWD,Gray,,Used 2009 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+330,699813318,73901,33989,NY,2014,3.0,0,auto,AWD,Blue,Beige,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+331,692818726,74295,25995,NJ,2011,4.2,0,auto,AWD,Black,Black,Used 2011 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+332,692807911,74295,25995,NJ,2011,4.2,0,auto,AWD,Black,Black,Used 2011 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+333,694111857,74355,31556,NY,2013,3.0,0,auto,AWD,Night Blue Pearl,,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+334,697999506,74379,31999,GA,2013,4.0,0,auto,AWD,Black,,Used 2013 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+335,694843003,75115,20995,CO,2009,4.2,0,auto,AWD,Black,Black,Used 2009 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+336,699831468,75293,29950,MO,2011,4.2,0,auto,AWD,Phantom Black Pearl,Black,Used 2011 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+337,699172674,75801,9749,PA,2005,4.2,0,auto,AWD,Tan,Black,Used 2005 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+338,697823046,75850,11995,VA,2005,4.2,0,auto,AWD,Black,Black,Used 2005 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+339,682446986,76422,18239,GA,2009,4.2,0,auto,AWD,Night Blue Pearl,Espresso Brown,Used 2009 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+340,682152284,76422,18239,GA,2009,4.2,0,auto,AWD,Night Blue Pearl,Espresso Brown,Used 2009 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+341,686184315,76469,19990,MD,2010,4.2,0,auto,AWD,Quartz Gray Metallic,Black,Used 2010 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+342,682235530,76514,32995,PA,2013,4.0,0,auto,AWD,Black,Black,Used 2013 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+343,695943450,76808,15997,CA,2008,4.2,0,auto,AWD,Black,,Used 2008 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+344,699951758,77300,13900,NY,2006,4.2,0,auto,AWD,White,BEIGE,Used 2006 Audi A8 4.2 quattro,6 speed automatic | AWD,Audi,A8
+345,700470765,77475,30990,FL,2011,,0,auto,AWD,Black,,Used 2011 Audi A8,8-Speed Automatic | AWD,Audi,A8
+346,699637300,77940,22990,IN,2011,4.2,0,auto,AWD,Black,Nougat Brown,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+347,700371250,78450,20995,NJ,2010,4.2,0,auto,AWD,Black,Tan,Used 2010 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+348,688410814,78517,18990,MD,2009,4.2,0,auto,AWD,Night Blue Pearl,Brown,Used 2009 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+349,128453737,78745,9998,NY,2004,4.2,0,auto,AWD,Gray,Black,Used 2004 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+350,664200686,79025,69500,VT,2014,6.3,0,auto,AWD,Ibis White,Black,Used 2014 Audi A8 L W12 6.3,8-Speed Automatic | AWD,Audi,A8
+351,671080351,79100,15999,CA,2009,4.2,0,auto,AWD,Night Blue Pearl,Espresso Brown,Used 2009 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+352,697772302,79156,28990,FL,2011,4.2,0,auto,AWD,Black,,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+353,697056187,79187,23970,GA,2011,4.2,0,auto,AWD,Blue,Tan,Used 2011 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+354,697399252,79233,27333,VA,2011,,0,auto,AWD,Quartz Gray Metallic,Titanium Grey,Used 2011 Audi A8 Quattro,Automatic | AWD,Audi,A8
+355,698200664,79311,18597,IL,2009,4.2,0,auto,AWD,Gray,Cardamon Beige,Used 2009 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+356,698848745,79342,27985,IL,2012,4.2,0,auto,AWD,Oolong Grey Metallic,Titanium,Used 2012 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+357,698117102,79654,29850,IN,2011,4.2,0,auto,AWD,Gray,Nougat Brown,Used 2011 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+358,697879478,80170,27999,IL,2011,4.2,0,auto,AWD,White,Black,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+359,697805513,80328,16995,IL,2006,,0,auto,AWD,Night Blue Pearl,Black,Used 2006 Audi A8 W12 quattro,6-Speed Automatic | AWD,Audi,A8
+360,695824163,80437,24995,TX,2013,3.0,0,auto,AWD,Black,Black,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+361,700405921,80450,14950,VA,2007,4.2,0,auto,AWD,Brilliant Black,Black,Used 2007 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+362,684381277,81293,25990,FL,2013,3.0,0,auto,AWD,Gray,,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+363,690629103,82197,30900,NJ,2014,4.0,0,auto,AWD,Gray,Black,Used 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+364,696924901,83506,29999,OH,2014,3.0,0,auto,AWD,Night Blue Pearl,Black,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+365,695206675,83629,26951,IL,2011,4.2,0,auto,AWD,Phantom Black Pearl,Black,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+366,696670357,83811,25990,IN,2011,4.2,0,auto,AWD,Blue,,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+367,700652606,84240,25995,PA,2011,4.2,0,auto,AWD,Brown,Beige,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+368,697277699,84286,32865,TN,2014,4.0,0,auto,AWD,Brilliant Black,Black,Used 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+369,697787106,84500,25995,CO,2011,4.2,0,auto,AWD,Black,Brown,Used 2011 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+370,698332315,84929,5999,NJ,2002,4.2,0,auto,AWD,Black,Saber Black,Used 2002 Audi A8 4.2 quattro L,5-Speed Automatic | AWD,Audi,A8
+371,694567113,84990,10420,TX,2005,4.2,0,auto,AWD,White,Platinum,Used 2005 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+372,689303485,85482,16995,OH,2009,4.2,0,auto,AWD,Black,Tan,Used 2009 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+373,700499144,85820,24980,CA,2011,4.2,0,auto,AWD,Quartz Gray Metallic,Black,Used 2011 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+374,695058704,85830,24999,NY,2012,4.2,0,auto,AWD,Black,Velvet Beige,Used 2012 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+375,688033884,86552,18999,NV,2010,4.2,0,auto,AWD,Gray,Black,Used 2010 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+376,697422352,87307,11985,OH,2007,4.2,0,auto,AWD,Sebring Silver Metallic,Black,Used 2007 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+377,692834865,87470,12990,TX,2006,4.2,0,auto,AWD,Black,Tan,Used 2006 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+378,698201714,87524,24400,TX,2011,4.2,0,auto,AWD,Black,Brown,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+379,699124831,87957,24695,MI,2011,4.2,0,auto,AWD,Phantom Black Pearl,Black,Used 2011 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+380,700414943,88338,9777,CA,2004,4.2,0,auto,AWD,Sebring Silver Metallic,Black,Used 2004 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+381,684980508,88764,18941,IL,2010,4.2,0,auto,AWD,Quartz Gray Metallic,Amaretto,Used 2010 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+382,686060232,89395,12995,TX,2007,4.2,0,auto,AWD,Black,Black,Used 2007 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+383,700493714,89431,26989,IL,2011,4.2,0,auto,AWD,Phantom Black Pearl,Black,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+384,699289788,89703,11999,NJ,2006,4.2,0,auto,AWD,Silver,Gray,Used 2006 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+385,700183362,89891,24500,CA,2011,4.2,0,auto,AWD,Quartz Gray Metallic,Black,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+386,685079228,90127,7988,TX,2004,4.2,0,auto,AWD,Silver,Black,Used 2004 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+387,698909370,90590,15588,TX,2008,4.2,0,auto,AWD,Oyster Gray Metallic,Black,Used 2008 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+388,695959697,90653,27995,NJ,2013,4.0,0,auto,AWD,Emerald Black Metallic,Silk Beige,Used 2013 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+389,685426032,90798,22877,VA,2011,4.2,0,auto,AWD,Black,Beige,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+390,694256482,91304,16995,NJ,2010,4.2,0,auto,AWD,Black,Black,Used 2010 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+391,700234599,92036,23995,TX,2011,4.2,0,auto,AWD,Emerald Black Metallic,Black,Used 2011 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+392,699868475,92401,18995,VA,2009,4.2,0,auto,AWD,Oyster Gray Metallic,Cardamon Beige,Used 2009 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+393,699481384,92672,23995,CT,2011,4.2,0,auto,AWD,Black,Nougat Brown,Used 2011 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+394,673605253,92934,7500,IL,2000,4.2,0,auto,AWD,Diamond White,Black,Used 2000 Audi A8 4.2 quattro L,5 speed automatic | AWD,Audi,A8
+395,695255943,94905,11995,TX,2007,4.2,0,auto,AWD,Silver,Black,Used 2007 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+396,677996267,95642,15000,MI,2008,4.2,0,auto,AWD,Black,Black,Used 2008 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+397,690602206,95958,21955,MA,2011,,0,auto,AWD,Quartz Gray Metallic,Black,Used 2011 Audi A8 Quattro,8-Speed Automatic | AWD,Audi,A8
+398,692229129,96528,13642,NJ,2008,4.2,0,auto,AWD,Brilliant Black,Espresso Brown,Used 2008 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+399,689251343,97391,9995,TX,2004,4.2,0,auto,AWD,Green,Brown,Used 2004 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+400,698805137,97467,23970,OH,2012,4.2,0,auto,AWD,Ice Silver Metallic,,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+401,696057992,97551,10895,NJ,2007,4.2,0,auto,AWD,Northern Blue Pearl,Cognac,Used 2007 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+402,699893336,97794,25850,IL,2011,4.2,0,auto,AWD,Ibis White,Black,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+403,676063084,98067,11250,TX,2006,4.2,0,auto,AWD,Brilliant Black,Sand Beige,Used 2006 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+404,697157037,98201,26480,NJ,2012,4.2,0,auto,AWD,Oolong Grey Metallic,Nougat Brown,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+405,700694812,100698,15000,NJ,2008,4.2,0,auto,AWD,Ice Silver Metallic,Black,Used 2008 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+406,699263727,101408,12980,CA,2008,4.2,0,auto,AWD,Night Blue Pearl,Espresso Brown,Used 2008 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+407,700126057,102413,6900,NJ,2005,4.2,0,auto,AWD,Gray,Platinum,Used 2005 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+408,699161810,102752,6900,CT,2004,4.2,0,auto,AWD,Blue,,Used 2004 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+409,699793486,102787,29900,IN,2013,4.0,0,auto,AWD,Black,Balao Brown,Used 2013 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+410,692718066,103400,21849,VA,2011,4.2,0,auto,AWD,Havanna Black Metallic,Black,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+411,693956934,104235,10390,CO,2006,4.2,0,auto,AWD,Akoya Silver Metallic,Black,Used 2006 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+412,696821913,104610,11495,VA,2006,4.2,0,auto,AWD,Blue,Black,Used 2006 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+413,690413067,104700,10995,CA,2006,4.2,0,auto,AWD,Brilliant Black,Brown,Used 2006 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+414,699943985,104914,25595,MA,2011,4.2,0,auto,AWD,Ice Silver Metallic,Black,Used 2011 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+415,696074804,105907,13499,WA,2007,4.2,0,auto,AWD,Ibis White,,Used 2007 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+416,700421855,106406,9990,PA,2006,4.2,0,auto,AWD,Black,Black,Used 2006 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+417,696480907,107014,23441,VA,2012,4.2,0,auto,AWD,Black,,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+418,700408391,107642,14950,IL,2008,4.2,0,auto,AWD,Black,Amaretto,Used 2008 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+419,697772778,108183,21995,KY,2008,,0,auto,AWD,Black,Tan,Used 2008 Audi A8 W12 quattro,6-Speed Automatic | AWD,Audi,A8
+420,697386748,108350,26995,NJ,2014,4.0,0,auto,AWD,Ice Silver Metallic,Black,Used 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+421,700327617,108670,9400,IL,2005,4.2,0,auto,AWD,Gray,Gray,Used 2005 Audi A8 L 4.2 quattro,6 speed automatic | AWD,Audi,A8
+422,678720806,109523,19995,OH,2010,4.2,0,auto,AWD,Black,Black,Used 2010 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+423,700612184,110310,23998,AZ,2011,4.2,0,auto,AWD,Emerald Black Metallic,Black,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+424,698741144,110990,8995,NJ,2006,4.2,0,auto,AWD,Sebring Silver Metallic,Platinum,Used 2006 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+425,698626065,111642,18999,IN,2008,4.2,0,auto,AWD,Black,Tan,Used 2008 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+426,698543448,111952,25995,NJ,2012,4.2,0,auto,AWD,Black,Brown,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+427,696524382,113538,24500,TX,2011,4.2,0,auto,AWD,Phantom Black Pearl,Nougat Brown,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+428,696538620,114629,12985,IL,2007,4.2,0,auto,AWD,Brilliant Black,Brown,Used 2007 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+429,700379434,118419,25980,IL,2013,3.0,0,auto,AWD,Phantom Black Pearl,Black,Used 2013 Audi A8 3.0T quattro,8-Speed Automatic | AWD,Audi,A8
+430,700471471,119068,10795,MA,2005,4.2,0,auto,AWD,Blue Pearl,Platinum,Used 2005 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+431,700311682,119199,13900,NJ,2008,4.2,0,auto,AWD,Brilliant Black,Tan,Used 2008 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+432,696305905,119360,6990,FL,2005,4.2,0,auto,AWD,White,Platinum,Used 2005 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+433,700245602,121333,11994,OH,2007,4.2,0,auto,AWD,Brilliant Black,,Used 2007 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+434,691504646,121624,14485,MI,2008,4.2,0,auto,AWD,Silver,Black,Used 2008 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+435,698650827,125656,11950,MO,2008,4.2,0,auto,AWD,Brilliant Black,Cognac,Used 2008 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+436,696022529,125797,9495,NV,2005,4.2,0,auto,AWD,Gray,Black,Used 2005 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+437,700040043,125867,9888,CA,2006,4.2,0,auto,AWD,Night Blue Pearl,Cognac,Used 2006 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+438,691419523,127936,7995,IN,2005,4.2,0,auto,AWD,Akoya Silver Metallic,Black,Used 2005 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+439,672190011,128656,9900,OH,2006,4.2,0,auto,AWD,Oyster Gray Metallic,Sand Beige,Used 2006 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+440,700600126,128865,10990,TN,2007,4.2,0,auto,AWD,Black,Saddle,Used 2007 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+441,699270499,132816,8995,TX,2005,4.2,0,auto,AWD,Night Blue Pearl,Sand Beige,Used 2005 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+442,699888430,132983,8999,GA,2005,4.2,0,auto,AWD,Atlas Gray Metallic,,Used 2005 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+443,699675310,137146,11918,OH,2007,4.2,0,auto,AWD,Silver,,Used 2007 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+444,700470265,137233,12999,WA,2004,4.2,0,auto,AWD,Blue,Black,Used 2004 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+445,690767802,138512,8626,OH,2006,4.2,0,auto,AWD,Blue,Tan,Used 2006 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+446,699708722,140808,7989,IL,2004,4.2,0,auto,AWD,Brilliant Black,Saddle,Used 2004 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+447,623183501,143592,6495,NJ,2004,4.2,0,auto,AWD,Irish Green Pearl,Beige / Light Beige,Used 2004 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+448,700308393,143865,19995,PA,2011,4.2,0,auto,AWD,Black,Black,Used 2011 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+449,689312766,144036,11990,IN,2009,4.2,0,auto,AWD,Quartz Gray Metallic,Black,Used 2009 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+450,697392645,149966,9500,GA,2006,4.2,0,auto,AWD,Black,Black,Used 2006 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+451,666654128,151785,5995,IL,2005,4.2,0,auto,AWD,Platinum Beige Pearl,Platinum,Used 2005 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+452,697169706,157566,6950,IL,2004,4.2,0,auto,AWD,Black,Black,Used 2004 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+453,699420250,158691,10799,OH,2008,4.2,0,auto,AWD,Silver,Gray,Used 2008 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+454,695914726,160188,7989,AZ,2006,4.2,0,auto,AWD,Silver,,Used 2006 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+455,696720423,162592,8495,NE,2007,4.2,0,auto,AWD,Sebring Silver Metallic,Black,Used 2007 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+456,695792515,177632,5799,NJ,2004,4.2,0,auto,AWD,Black,,Used 2004 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+457,681676334,198272,7995,UT,2007,4.2,0,auto,AWD,Silver,Gray,Used 2007 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+458,698433688,4604,63995,SC,2016,3.0,1,auto,AWD,Monsoon Gray Metallic,Black,Certified 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+459,686384428,5911,65488,NY,2016,3.0,0,auto,AWD,Mythos Black Metallic,Black,Used 2016 Audi A8 L 3.0T,Automatic with Tiptronic | AWD,Audi,A8
+460,697675635,7304,72000,CA,2017,3.0,0,auto,AWD,Mythos Black Metallic,Nougat Brown,Used 2017 Audi A8 L 3.0T,Automatic with Tiptronic | AWD,Audi,A8
+461,699227036,23020,45995,PA,2014,3.0,0,auto,AWD,Ibis White,Nougat Brown,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+462,696358906,25027,56800,CA,2016,3.0,0,auto,AWD,Brilliant Black,Black,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+463,697846475,31141,50943,CT,2014,4.0,1,auto,AWD,Phantom Black Pearl Effect,Black,Certified 2014 Audi A8 L 4.0T,8-Speed Automatic w/OD | AWD,Audi,A8
+464,700337263,33497,44996,NJ,2014,3.0,0,auto,AWD,Ice Silver Metallic,Black,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+465,697311468,37677,41991,CA,2014,3.0,1,auto,AWD,Moonlight Blue Metallic,Velvet Beige,Certified 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+466,699722178,39784,38897,VA,2013,3.0,0,auto,AWD,Black,,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+467,698748159,40463,42991,LA,2013,4.0,0,auto,AWD,Phantom Black Pearl,Titanium Gray,Used 2013 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+468,698158041,41435,33750,GA,2014,3.0,0,auto,AWD,Gold,Nougat Brown,Used 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+469,699205774,43859,43991,LA,2014,4.0,0,auto,AWD,Phantom Black Pearl,Nougat Brown,Used 2014 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+470,690972910,44395,42988,CA,2014,4.0,0,auto,AWD,Black,Beige,Used 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+471,699317096,54237,33995,NY,2012,4.2,0,auto,AWD,Oolong Gray Metallic,Nougat Brown,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+472,697809481,59799,38900,KS,2014,3.0,0,auto,AWD,Havanna Black Metallic,Nougat Brown,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+473,691471999,61231,36988,CA,2014,4.0,0,auto,AWD,White,,Used 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+474,695848539,64563,38800,CA,2014,4.0,0,auto,AWD,Black,Titanium Gray,Used 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+475,678166002,70009,28788,CA,2012,4.2,0,auto,AWD,Emerald Black Metallic,Balao Brown,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+476,699897974,73280,38000,OR,2012,4.2,0,auto,AWD,Phantom Black Pearl,Black,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+477,699490988,74137,4999,NJ,2001,4.2,0,auto,AWD,Black,Black,Used 2001 Audi A8 4.2 quattro,5-Speed Automatic | AWD,Audi,A8
+478,695492298,75839,25994,CO,2012,4.2,0,auto,AWD,Silver,Black,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+479,700248255,78703,30900,TX,2012,4.2,0,auto|manual,AWD,Phantom Black Pearl Effect,Nougat Brown,Used 2012 Audi A8 L 4.2,8-Speed Automatic w/Manual Shift | AWD,Audi,A8
+480,698178381,80921,26745,MD,2011,4.2,0,auto,AWD,Oolong Gray Metallic,Black,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+481,692065464,103586,12999,TN,2006,4.2,0,auto,AWD,Night Blue Pearl,Sand Beige,Used 2006 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+482,698066976,111184,15487,IL,2009,4.2,0,auto,AWD,Ice Silver Metallic,Black,Used 2009 Audi A8 4.2,6-Speed Automatic | AWD,Audi,A8
+483,698520940,116744,10995,CA,2007,4.2,0,auto,AWD,Gray,Brown,Used 2007 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+484,696625110,124446,15950,KS,2010,4.2,0,auto,AWD,Black,Black,Used 2010 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+485,700424743,140624,6499,CA,2004,4.2,0,auto,AWD,Platinum Beige Pearl,Beige,Used 2004 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+486,698835492,190067,4895,FL,2008,4.2,0,auto,AWD,Monsoon Gray Metallic,Black,Used 2008 Audi A8 L 4.2 quattro,Monsoon Gray Metallic (ext) | Black (int),Audi,A8
+487,698429282,8500,71982,OH,2017,3.0,1,auto,AWD,Oolong Gray Metallic,Black,Certified 2017 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+488,649725029,10400,53368,NY,2015,3.0,0,auto,AWD,Phantom Black Pearl,Nougat Brown,Used 2015 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+489,697413893,12773,59769,VA,2016,3.0,0,auto,AWD,Monsoon Gray Metallic,Black,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+490,698561899,12931,64992,TX,2016,3.0,1,auto,AWD,Glacier White Metallic,Velvet Beige,Certified 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+491,695805385,15565,53997,NV,2016,3.0,0,auto,AWD,Brilliant Black,Black,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+492,691494573,16863,70498,NY,2016,4.0,1,auto,AWD,Mythos Black Metallic,Black,Certified 2016 Audi A8 L 4.0T,Automatic with Tiptronic | AWD,Audi,A8
+493,695805255,19787,53997,NV,2016,3.0,0,auto,AWD,Mythos Black Metallic,Black,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+494,698980832,26668,44988,NY,2014,3.0,1,auto,AWD,Havanna Black Metallic,,Certified 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+495,693292847,27800,45995,MN,2014,3.0,0,auto,AWD,Gray Metallic,Nougat Brown,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+496,693413273,29408,40995,NY,2014,4.0,0,auto,AWD,Black,Black,Used 2014 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+497,697908898,30291,46777,NY,2014,4.0,0,auto,AWD,Glacier White Metallic,,Used 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+498,688950091,35313,49953,CT,2015,3.0,1,auto,AWD,Brilliant Black,Black,Certified 2015 Audi A8 3.0T,8-Speed Automatic w/OD | AWD,Audi,A8
+499,695436750,37938,42787,IL,2014,3.0,1,auto,AWD,Phantom Black Pearl,Black,Certified 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+500,693456847,38689,45468,CT,2014,3.0,1,auto,AWD,Moonlight Blue Metallic,Nougat Brown,Certified 2014 Audi A8 L 3.0T,8-Speed Automatic w/OD | AWD,Audi,A8
+501,700453496,47338,42000,CA,2014,3.0,1,auto,AWD,Quartz Gray Metallic,Black,Certified 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+502,693380588,47509,33888,IN,2012,4.2,0,auto,AWD,Black,Black,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+503,696942002,51332,43999,FL,2014,3.0,0,auto,AWD,Black,Black,Used 2014 Audi A8 L 3.0 TDI,8-Speed Automatic | AWD,Audi,A8
+504,693885225,52752,31975,VA,2013,3.0,0,auto,AWD,Gray,Silk Beige,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+505,692025263,52952,33488,CA,2014,3.0,0,auto,AWD,Monsoon Gray Metallic,Black,Used 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+506,692828245,56886,33999,FL,2013,3.0,0,auto,AWD,Phantom Black Pearl,Black,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+507,690687235,61234,36788,NY,2014,4.0,0,auto,AWD,Moonlight Blue Metallic,,Used 2014 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+508,694439820,64000,31995,CA,2012,4.2,0,auto,AWD,Emerald Black Metallic,Black,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+509,694376159,65309,29994,AZ,2012,4.2,0,auto,AWD,Havanna Black Metallic,Black,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+510,699250801,67229,35977,CA,2013,4.0,0,auto,AWD,Havanna Black Metallic,Nougat Brown,Used 2013 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+511,682479972,87327,8495,NY,2004,4.2,0,auto,AWD,Charcoal,Platinum,Used 2004 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+512,698059950,91733,23990,MI,2011,4.2,0,auto,AWD,Black,Beige,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+513,699815139,94806,25988,MD,2013,3.0,0,auto,AWD,Phantom Black Pearl,Black,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+514,691869017,94806,25988,MD,2013,3.0,0,auto,AWD,Phantom Black Pearl,Black,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+515,693356296,104695,5995,OK,2004,4.2,0,auto,AWD,Atlas Gray Metallic,Tan,Used 2004 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+516,698366046,112335,7900,NJ,2004,4.2,0,auto,AWD,Black,,Used 2004 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+517,684893093,112575,16995,VA,2007,4.2,0,auto,AWD,Blue,Tan,Used 2007 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+518,699084069,114933,11499,MA,2009,4.2,0,auto,AWD,Black,Tan,Used 2009 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+519,699397478,128791,11000,MA,2006,4.2,0,auto,AWD,Blue,Gray,Used 2006 Audi A8 4.2 quattro,Automatic | AWD,Audi,A8
+520,681512881,33,83990,VA,2017,3.0,0,auto,AWD,Oolong Gray Metallic,Black,Used 2017 Audi A8 L 3.0T,Automatic with Tiptronic | AWD,Audi,A8
+521,691048249,5933,67000,UT,2017,3.0,1,auto,AWD,Monsoon Gray Metallic,Black,Certified 2017 Audi A8 L 3.0T,Automatic with Tiptronic | AWD,Audi,A8
+522,685358217,7240,64888,NY,2015,3.0,0,auto,AWD,Brilliant Black,Black,Used 2015 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+523,696825713,9339,60000,NJ,2016,3.0,0,auto,AWD,Florett Silver Metallic,Black,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+524,621385251,10100,49888,NY,2014,3.0,0,auto,AWD,Phantom Black Pearl,Black,Used 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+525,686534464,11701,54900,CA,2015,3.0,0,auto,AWD,Black,Black,Used 2015 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+526,700488938,16969,52400,KY,2016,3.0,0,auto,AWD,Gray,,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+527,683002523,28139,39888,NY,2012,4.2,0,auto,AWD,Glacier White Metallic,Velvet Beige,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+528,694913950,29815,36977,WI,2011,4.2,0,auto,AWD,Havanna Black Metallic,Black,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+529,699132635,33214,49995,MA,2015,3.0,0,auto,AWD,Glacier White Metallic,Nougat Brown,Used 2015 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+530,697281640,37083,17994,FL,2005,4.2,0,auto,AWD,Platinum Beige Pearl,Beige / Cream Beige,Used 2005 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+531,695860320,48135,47939,CT,2014,4.0,1,auto,AWD,Oolong Gray Metallic,Black,Certified 2014 Audi A8 L 4.0T,8-Speed Automatic w/OD | AWD,Audi,A8
+532,697826406,48596,35391,CO,2013,3.0,0,auto,AWD,Quartz Gray Metallic,Black,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+533,698866779,56734,21999,IL,2010,4.2,0,auto,AWD,Ibis White,Black,Used 2010 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+534,698900178,59469,30998,MA,2012,4.2,0,auto,AWD,Phantom Black Pearl,Black,Used 2012 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+535,683199627,60465,28995,MA,2011,4.2,0,auto,AWD,Black,Black,Used 2011 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+536,684144188,61264,26950,TX,2011,4.2,0,auto,AWD,Oolong Grey Metallic,Black,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+537,700520171,69280,28998,CA,2012,4.2,0,auto,AWD,Quartz Gray Metallic,Black,Used 2012 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+538,700493711,70524,27988,OH,2011,4.2,0,auto,AWD,Oolong Grey Metallic,Black,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+539,699982507,78001,25900,IL,2011,4.2,0,auto,AWD,Oolong Gray Metallic,Black,Used 2011 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+540,699526422,80000,27990,CA,2012,4.2,0,auto,AWD,Black,Saddle,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+541,698342836,80792,14990,UT,2006,4.2,0,auto,AWD,Silver,,Used 2006 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+542,695451948,86758,25477,RI,2011,4.2,0,auto,AWD,Gray,Black,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+543,687865854,92376,14750,OH,2009,4.2,0,auto,AWD,Blue,Linen,Used 2009 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+544,700293397,99885,10985,CA,2007,4.2,0,auto,AWD,Black,Black,Used 2007 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+545,695873319,103268,9599,CO,2006,4.2,0,auto,AWD,Brilliant Black,Black,Used 2006 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+546,685743943,105000,24995,MD,2013,4.0,0,auto,AWD,Emerald Black Metallic,Black,Used 2013 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+547,675862330,180123,4995,MA,2000,4.2,0,auto,AWD,Gray,Brown,Used 2000 Audi A8 4.2 quattro,5-Speed Automatic | AWD,Audi,A8
+548,699373515,673,76995,PA,2016,4.0,0,auto,AWD,Oolong Gray Metallic,Black,Used 2016 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+549,698086805,8768,55994,NJ,2016,3.0,0,auto,AWD,Brilliant Black,Black,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+550,698552671,11210,61900,CA,2016,3.0,1,auto,AWD,Mythos Black Metallic,Black,Certified 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+551,695843083,11627,48934,IA,2015,3.0,0,auto,AWD,Phantom Black Pearl,Black,Used 2015 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+552,687128561,13679,70943,CT,2016,4.0,1,auto,AWD,Mythos Black Metallic,Black,Certified 2016 Audi A8 L 4.0T,8-Speed Automatic w/OD | AWD,Audi,A8
+553,695842985,17600,57844,IA,2015,4.0,0,auto,AWD,Glacier White,Black,Used 2015 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+554,697661128,18643,35995,NJ,2013,3.0,0,auto,AWD,,,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+555,699638621,19105,55900,MN,2014,4.0,0,auto,AWD,Brilliant Black,Black,Used 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+556,690751154,26005,74995,TX,2013,6.3,1,auto,AWD,Phantom Black Pearl,Black,Certified 2013 Audi A8 L W12 6.3,8-Speed Automatic | AWD,Audi,A8
+557,696300041,27253,56900,OH,2015,4.0,0,auto,AWD,Monsoon Gray Metallic,,Used 2015 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+558,699442931,28690,45791,TX,2014,3.0,1,auto,AWD,Monsoon Gray Metallic,Black,Certified 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+559,695384306,33081,49994,MD,2014,4.0,0,auto,AWD,Phantom Black Pearl,Black,Used 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+560,690846842,38354,48939,CT,2013,4.0,1,auto|manual,AWD,Savana Beige Pearl,Nougat Brown,Certified 2013 Audi A8 4.0L,8-Speed Automatic w/Manual Shift | AWD,Audi,A8
+561,663867728,43000,49888,TX,2014,4.0,0,auto,AWD,Ibis White,Tan,Used 2014 Audi A8 L 4.0T,Ibis White (ext) | Tan (int),Audi,A8
+562,689203743,90411,7995,IN,2004,4.2,0,auto,AWD,Black,Black,Used 2004 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+563,699244235,90950,12499,UT,2006,4.2,0,auto,AWD,Arctic White,Black / Amaretto,Used 2006 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+564,694491570,100101,14999,NV,2009,4.2,0,auto,AWD,Silver,,Used 2009 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+565,692670830,123156,11999,UT,2008,4.2,0,auto,AWD,Silver,Black,Used 2008 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+566,699641270,4220,72900,CA,2017,3.0,0,auto,AWD,Glacier White Metallic,Velvet Beige,Used 2017 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+567,695498773,6034,78615,NJ,2017,,0,auto,AWD,Havanna Black Metallic,Velvet Beige,Used 2017 Audi A8 Sport,8-Speed Automatic w/OD | AWD,Audi,A8
+568,698193643,6206,75740,OH,2016,4.0,1,auto,AWD,Brilliant Black,Velvet Beige,Certified 2016 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+569,700193660,6441,61999,CO,2016,3.0,0,auto,AWD,Glacier White Metallic,Black,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+570,652385544,8766,64950,GA,2016,3.0,0,auto,AWD,Monsoon Gray Metallic,Black,Used 2016 Audi A8 L 3.0T,8-Speed Automatic w/OD | AWD,Audi,A8
+571,692898802,10190,58753,CA,2015,3.0,1,auto,AWD,Phantom Black,Black,Certified 2015 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+572,696502778,16245,64347,MD,2016,4.0,0,auto,AWD,Mythos Black Metallic,Black,Used 2016 Audi A8 L 4.0T,8-Speed Automatic w/OD | AWD,Audi,A8
+573,696342798,16947,47000,PA,2014,3.0,1,auto,AWD,Phantom Black Pearl,Black,Certified 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+574,698540598,23021,43495,OH,2014,3.0,0,auto,AWD,Havanna Black Metallic,Nougat Brown,Used 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+575,698531399,29630,45888,LA,2013,4.0,0,auto,AWD,Glacier White Metallic,Nougat Brown,Used 2013 Audi A8 4.0L,Automatic | AWD,Audi,A8
+576,688815169,31000,29499,UT,2013,3.0,0,auto,AWD,Black,Silk Beige,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+577,695047322,31529,50000,FL,2014,4.0,1,auto,AWD,Phantom Black Pearl,Black,Certified 2014 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+578,693706305,41298,45669,OH,2014,4.0,1,auto,AWD,Brilliant Black,Black,Certified 2014 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+579,684494773,42175,32995,NY,2013,3.0,0,auto,AWD,Black,Black,Used 2013 Audi A8 3.0T quattro,8-Speed Automatic | AWD,Audi,A8
+580,697866100,43828,39588,CA,2014,3.0,0,auto,AWD,Black,Black,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+581,694148492,44225,31969,OH,2011,4.2,0,auto,AWD,Phantom Black Pearl,Nougat Brown,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+582,692735458,44235,41990,IN,2015,3.0,0,auto,AWD,Black,Nougat Brown,Used 2015 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+583,696200632,47546,36995,MA,2014,3.0,0,auto,AWD,Black,Titanium Gray,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+584,687307630,50208,11991,FL,2005,4.2,0,auto,AWD,Black,Brown,Used 2005 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+585,698051156,56307,29992,TX,2013,3.0,0,auto,AWD,Ice Silver Metallic,,Used 2013 Audi A8 3.0T quattro,8-Speed Automatic | AWD,Audi,A8
+586,697963882,60937,35000,VA,2012,4.2,0,auto,AWD,Oolong Gray Metallic,Nougat Brown,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+587,685315038,62446,26888,NJ,2012,4.2,0,auto,AWD,Phantom Black Pearl,Nougat Brown,Used 2012 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+588,700271901,64316,29850,NY,2012,4.2,0,auto,AWD,Black,Black,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+589,700660626,73259,31999,SC,2012,4.2,0,auto,AWD,Emerald Black Metallic,Velvet Beige,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+590,690433965,73435,19998,SC,2009,4.2,0,auto,AWD,Phantom Black Pearl,Beige,Used 2009 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+591,700291318,76499,14988,IN,2006,4.2,0,auto,AWD,Silver,,Used 2006 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+592,645178471,80219,11900,NY,2006,4.2,0,auto,FWD,White,Tan,Used 2006 Audi A8 4.2 quattro,Automatic | FWD,Audi,A8
+593,694258101,80643,13800,CA,2007,4.2,0,auto,AWD,Black,Camel,Used 2007 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+594,693678089,96634,17500,FL,2010,4.2,0,auto,AWD,Black,Black,Used 2010 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+595,700100930,103592,25995,NC,2012,4.2,0,auto,AWD,Phantom Black Pearl,Velvet Beige,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+596,692727315,131711,11500,WI,2007,4.2,0,auto,AWD,Silver,Black,Used 2007 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+597,688225740,15,69777,TX,2017,3.0,0,auto,AWD,Mythos Black Metallic,Black,Used 2017 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+598,694926112,8641,82500,CA,2017,4.0,1,auto,AWD,Glacier White Metallic,Velvet Beige,Certified 2017 Audi A8 L 4.0T Sport,Automatic with Tiptronic | AWD,Audi,A8
+599,698180395,14036,53980,IA,2013,4.0,0,auto,AWD,Oolong Gray Metallic,,Used 2013 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+600,700139611,16275,69995,PA,2016,4.0,0,auto,AWD,Florett Silver Metallic,Black,Used 2016 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+601,696610981,18066,61947,CT,2015,4.0,1,auto,AWD,Cuvee Silver Metallic,Black,Certified 2015 Audi A8 4.0T,8-Speed Automatic w/OD | AWD,Audi,A8
+602,700333336,19885,54587,IL,2014,4.0,1,auto,AWD,Brilliant Black,Black,Certified 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+603,698837192,20299,42999,CA,2014,3.0,0,auto,AWD,Gray,Black,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+604,698180675,30241,51890,IA,2014,4.0,1,auto,AWD,Phantom Black Pearl,,Certified 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+605,688495932,32180,49927,TX,2015,4.0,0,auto,AWD,Black,,Used 2015 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+606,692661078,33904,36995,WA,2011,4.2,0,auto,AWD,Black,,Used 2011 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+607,692008798,38502,36990,CA,2014,3.0,1,auto,AWD,Ice Silver,Black,Certified 2014 Audi A8 3.0T,8-Speed Automatic w/OD | AWD,Audi,A8
+608,698829762,39355,43995,FL,2014,3.0,1,auto,AWD,Beige,,Certified 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+609,693866238,48955,33584,MD,2013,3.0,0,auto,AWD,Black,,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+610,683410869,59191,34888,CA,2014,3.0,0,auto,AWD,Gray,Black,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+611,695714828,71657,30995,AL,2011,4.2,0,auto,AWD,Black,Tan,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+612,672268009,77765,30987,MD,2013,3.0,0,auto,AWD,White,Brown,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+613,697775648,96659,14935,GA,2007,4.2,0,auto,AWD,Brilliant Black,Brown,Used 2007 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+614,700569768,99602,13995,ME,2007,4.2,0,auto,AWD,Gray,Bronze,Used 2007 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+615,699001340,2432,68977,FL,2017,,1,auto,AWD,Black,,Certified 2017 Audi A8,8-Speed Automatic w/OD | AWD,Audi,A8
+616,699319528,4449,59848,TX,2016,3.0,0,auto,AWD,Glacier White Metallic,Velvet Beige,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+617,696117239,6930,75800,IL,2016,4.0,1,auto,AWD,Mythos Black Metallic,Black,Certified 2016 Audi A8 L 4.0T,8-Speed Automatic w/OD | AWD,Audi,A8
+618,675171067,8942,66995,TX,2016,3.0,0,auto,AWD,Mythos Black Metallic,Black,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+619,699357326,33823,49990,NE,2015,3.0,0,auto,AWD,Gray,,Used 2015 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+620,696622463,47017,38993,NH,2013,4.0,1,auto,AWD,Ice Silver Metallic,Titanium Gray,Certified 2013 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+621,689988746,59941,28995,NJ,2012,4.2,0,auto,AWD,Night Blue Pearl,Balao Brown,Used 2012 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+622,699865251,63857,38996,CT,2014,3.0,0,auto,AWD,Blue,,Used 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+623,697941600,64920,31251,CA,2013,3.0,0,auto|manual,AWD,Ibis White,Black,Used 2013 Audi A8 3.0L,8-Speed Automatic w/Manual Shift | AWD,Audi,A8
+624,689878897,65283,29999,WA,2011,4.2,0,auto,AWD,Ice Silver Metallic,Black,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+625,699084465,65860,28995,NY,2012,4.2,0,auto,AWD,Black,Black,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+626,699478317,67272,26798,MI,2011,4.2,0,auto,AWD,Havanna Black Metallic,Nougat Brown,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+627,690544840,71474,28499,TX,2009,,0,auto,AWD,Black,White,Used 2009 Audi A8 W12 quattro,6-Speed Automatic | AWD,Audi,A8
+628,699452327,76650,29995,PA,2011,4.2,0,auto,AWD,Gray,Black,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+629,697515698,93905,24999,FL,2012,,0,auto|manual,AWD,Phantom Black Pearl,Black,Used 2012 Audi A8,8-Speed Automatic w/Manual Shift | AWD,Audi,A8
+630,692759034,105725,1999,FL,2004,4.2,0,auto,AWD,Gold,Beige,Used 2004 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+631,688095193,3767,75777,TX,2017,4.0,0,auto,AWD,Monsoon Gray Metallic,Black,Used 2017 Audi A8 L 4.0T Sport,8-Speed Automatic | AWD,Audi,A8
+632,697586386,6391,71000,CA,2017,,1,auto,AWD,Brilliant Black,Nougat Brown,Certified 2017 Audi A8,Automatic | AWD,Audi,A8
+633,697257362,7882,74800,IL,2017,,0,auto,AWD,Mythos Black Metallic,Black,Used 2017 Audi A8 Sport,8-Speed Automatic w/OD | AWD,Audi,A8
+634,695047055,18464,47995,FL,2014,3.0,1,auto,AWD,Quartz Gray Metallic,Black,Certified 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+635,697199006,35937,54981,MD,2016,3.0,1,auto,AWD,Mythos Black Metallic,Black,Certified 2016 Audi A8 3.0T,Automatic | quattro,Audi,A8
+636,699320278,36446,45995,FL,2014,3.0,1,auto,AWD,Phantom Black Pearl,Black,Certified 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+637,698303677,42781,37988,OH,2013,4.0,0,auto,AWD,Black,,Used 2013 Audi A8 4.0L,Automatic | AWD,Audi,A8
+638,689993813,43802,37995,NJ,2014,3.0,0,auto,AWD,Blue,Nougat Brown,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+639,696512337,47905,44500,KS,2014,4.0,1,auto,AWD,Gray,Black,Certified 2014 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+640,689990502,63111,36495,IL,2013,4.0,0,auto,AWD,Gray,,Used 2013 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+641,693200808,68760,13995,CA,2007,4.2,0,auto,AWD,Gold,Beige,Used 2007 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+642,699147020,82825,18495,IL,2009,4.2,0,auto,AWD,Blue,Tan,Used 2009 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+643,690276431,88651,19900,SD,2009,,0,auto,,Ibis White,Black Leather,Used 2009 Audi A8,6 speed automatic,Audi,A8
+644,698051570,91511,19900,CT,2007,,0,auto,,Cmbridge Green,Cream Beige,Used 2007 Audi A8 W12,6 speed automatic,Audi,A8
+645,698610457,105113,10995,UT,2006,4.2,0,auto,AWD,Silver,Brown,Used 2006 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+646,684652498,121425,10495,OH,2007,4.2,0,auto,AWD,Brilliant Black,,Used 2007 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+647,697786833,163639,6995,PA,2004,4.2,0,auto,AWD,Silver,Black,Used 2004 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+648,698604665,19,75000,CA,2017,3.0,0,auto,AWD,Havanna Black Metallic,Black,Used 2017 Audi A8 L 3.0T,Automatic with Tiptronic | AWD,Audi,A8
+649,699682171,3120,73990,WA,2016,4.0,1,auto,AWD,Ibis White,Nougat Brown,Certified 2016 Audi A8 L 4.0T,8-Speed Automatic w/OD | AWD,Audi,A8
+650,700142755,6302,69995,PA,2017,3.0,0,auto,AWD,Glacier White Metallic,Black,Used 2017 Audi A8 L 3.0T,Automatic with Tiptronic | AWD,Audi,A8
+651,698762237,37341,38990,MO,2014,3.0,1,auto,AWD,Glacier White Metallic,Silk Beige,Certified 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+652,697401824,38725,42995,PA,2013,4.0,0,auto,AWD,Emerald Black Metallic,Velvet Beige,Used 2013 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+653,696570903,41969,46400,IL,2014,4.0,1,auto,AWD,Phantom Black Pearl Effect,Black,Certified 2014 Audi A8 4.0T,8-Speed Automatic w/OD | AWD,Audi,A8
+654,697278927,48125,36481,MD,2013,3.0,0,auto,AWD,Glacier White Metallic,Black,Used 2013 Audi A8 3.0T,Automatic | quattro,Audi,A8
+655,698448995,61000,28966,VA,2013,3.0,0,auto,AWD,Black,BLACK,Used 2013 Audi A8 3.0T,8 speed automatic | AWD,Audi,A8
+656,695755624,63648,28995,IL,2011,4.2,0,auto,AWD,Black,Gray,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+657,700350532,63874,32991,PA,2013,4.0,0,auto,AWD,Phantom Black Pearl,Nougat Brown,Used 2013 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+658,696157528,84248,7995,OH,2004,4.2,0,auto,AWD,Sebring Silver Metallic,Beige,Used 2004 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+659,699118045,84851,24995,NJ,2011,4.2,0,auto,AWD,Black,,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+660,696058918,86607,11900,IL,2005,4.2,0,auto,AWD,Gray,Platinum,Used 2005 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+661,700272950,88663,42995,CA,2013,6.3,0,auto,AWD,Emerald Black Metallic,Black,Used 2013 Audi A8 L W12 6.3,8-Speed Automatic | AWD,Audi,A8
+662,692809013,89415,17995,VA,2009,4.2,0,auto,AWD,Executive Black W/Premium Leather,**Brand New Condition**,Used 2009 Audi A8 L 4.2 quattro,6 speed automatic | AWD,Audi,A8
+663,696863429,91404,12999,CA,2007,4.2,0,auto,AWD,Brilliant Black,Sand,Used 2007 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+664,697012866,93967,25998,TX,2012,4.2,0,auto,AWD,Night Blue Pearl,Nougat Brown,Used 2012 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+665,696087252,98008,12495,NJ,2009,4.2,0,auto,AWD,Blue,Tan,Used 2009 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+666,695093785,102975,24931,MD,2011,4.2,0,auto,AWD,Phantom Black Pearl,Black,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+667,698056133,124483,9990,WA,2006,4.2,0,auto,AWD,Silver,Brown,Used 2006 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+668,696573489,137238,8488,OR,2005,4.2,0,auto,AWD,Oyster Gray Metallic,Black / Amaretto,Used 2005 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+669,693702664,17277,47900,MA,2014,3.0,1,auto,AWD,Brilliant Black,Titanium Gray,Certified 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+670,695146097,42478,34999,FL,2014,3.0,0,auto,AWD,Ice Silver Metallic,Black,Used 2014 Audi A8 3.0T,8-Speed Automatic w/OD | AWD,Audi,A8
+671,700395139,49134,35300,CA,2014,3.0,0,auto,AWD,White,Black,Used 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+672,696094983,61977,31490,MO,2011,4.2,0,auto,AWD,Phantom Black Pearl,Silk Beige,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+673,696185103,72185,28950,CA,2012,4.2,0,auto,AWD,Blue,Velvet Beige,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+674,700394019,72796,34977,PA,2013,3.0,0,auto,AWD,Black,Black,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+675,700644096,79895,29994,PA,2012,4.2,0,auto,AWD,Dark Blue,Black,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+676,700315017,147771,8999,GA,2006,4.2,0,auto,AWD,Black,Beige,Used 2006 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+677,695696568,166960,7495,OH,2005,,0,auto,AWD,Silver,GRAY,Used 2005 Audi A8,6 speed automatic | AWD,Audi,A8
+678,700389197,1852,69995,NY,2015,4.0,0,auto,AWD,Glacier White Metallic,Nougat Brown,Used 2015 Audi A8 L 4.0T,Automatic with Tiptronic | AWD,Audi,A8
+679,695604735,2637,79000,CA,2017,4.0,1,auto,AWD,Cuvee Silver Metallic,Velvet Beige,Certified 2017 Audi A8 L 4.0T Sport,Automatic with Tiptronic | AWD,Audi,A8
+680,694596893,3010,71995,NY,2017,3.0,1,auto,AWD,Mythos Black Metallic,Black,Certified 2017 Audi A8 L 3.0T,Automatic with Tiptronic | AWD,Audi,A8
+681,699033342,4499,48900,IL,2013,3.0,0,auto|manual,AWD,Glacier White,,Used 2013 Audi A8 3.0L,8-Speed Automatic w/Manual Shift | AWD,Audi,A8
+682,700609015,10606,69885,CT,2016,4.0,0,auto,AWD,Brilliant Black,Black,Used 2016 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+683,695180230,13843,59998,CO,2016,3.0,0,auto,AWD,Mythos Black Metallic,Black,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+684,697046792,17149,72550,KY,2016,4.0,1,auto,AWD,Florett Silver Metallic,Black,Certified 2016 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+685,698674980,27899,43990,NJ,2014,3.0,0,auto,AWD,Night Blue Pearl,Nougat Brown,Used 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+686,698213061,32286,38999,FL,2014,3.0,0,auto,AWD,Black,Velvet Beige,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+687,691679621,32286,38999,FL,2014,3.0,0,auto,AWD,Black,Velvet Beige,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+688,636998476,37423,40995,NY,2014,3.0,1,auto,AWD,Night Blue Pearl,Black,Certified 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+689,699754918,39173,45991,TX,2015,3.0,0,auto,AWD,Moonlight Blue Metallic,Black,Used 2015 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+690,699692581,64573,27000,CO,2011,4.2,0,auto,AWD,Blue,,Used 2011 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+691,699424178,104132,11425,MI,2008,4.2,0,auto,AWD,Quartz Gray Metallic,Cognac,Used 2008 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+692,692894659,112539,11500,GA,2007,4.2,0,auto,AWD,Gray,Gray,Used 2007 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+693,680581601,125276,9900,TX,2005,4.2,0,auto,AWD,Brilliant Black,Black,Used 2005 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+694,698807989,128348,10966,VA,2007,4.2,0,auto,,Black,BROWN,Used 2007 Audi A8 L 4.2 quattro,6 speed automatic,Audi,A8
+695,664902720,1628,54995,PA,2015,3.0,1,auto,AWD,Florett Silver Metallic,,Certified 2015 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+696,699236677,11085,62995,PA,2015,4.0,0,auto,AWD,Monsoon Gray Metallic,Titanium,Used 2015 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+697,697600771,14880,57998,MA,2015,3.0,0,auto,AWD,Moonlight Blue Metallic,Titanium,Used 2015 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+698,694674813,18049,49999,FL,2016,3.0,0,auto,AWD,Florett Silver Metallic,Black,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+699,699099409,18049,49999,FL,2016,3.0,0,auto,AWD,Florett Silver Metallic,Black,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+700,694181114,18748,55900,MA,2015,4.0,1,auto,AWD,Phantom Black Pearl,Black,Certified 2015 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+701,699013387,19257,47992,CA,2014,3.0,1,auto,AWD,Ibis White,Nougat Brown,Certified 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+702,700694092,19591,59900,AZ,2016,3.0,0,auto,AWD,Ibis White,Velvet Beige,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+703,696999991,20597,50900,FL,2016,3.0,0,auto,AWD,Glacier White Metallic,Nougat Brown,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+704,696162977,27321,56998,MA,2015,4.0,1,auto,AWD,Moonlight Blue Metallic,Velvet Beige,Certified 2015 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+705,699714367,30586,45998,MA,2014,3.0,0,auto,AWD,Monsoon Gray Metallic,Black,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+706,700160896,32086,43217,AZ,2014,3.0,0,auto,AWD,Brilliant Black,Black,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+707,699408769,41163,44995,CA,2014,4.0,0,auto,AWD,Phantom Black Pearl,Black,Used 2014 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+708,699324304,43264,40990,MA,2014,3.0,0,auto,AWD,Oolong Gray Metallic,Nougat Brown,Used 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+709,699623550,44779,47619,CA,2014,4.0,1,auto,AWD,Black,Black,Certified 2014 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+710,694669367,49272,38500,FL,2014,3.0,0,auto,AWD,Night Blue Pearl,Nougat Brown,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+711,693741647,51657,36800,AL,2013,3.0,0,auto,AWD,Bkack,,Used 2013 Audi A8 3.0L,Automatic | AWD,Audi,A8
+712,682698744,55524,27395,CO,2011,4.2,0,auto,AWD,Ice Silver Metallic,Black,Used 2011 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+713,694351364,66005,21888,MA,2009,4.2,0,auto,AWD,Phantom Black Pearl,Black,Used 2009 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+714,638037424,66118,13995,HI,2005,4.2,0,auto,AWD,Black,Black,Used 2005 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+715,694679726,88756,8995,GA,2004,4.2,0,auto,AWD,Maroon,Brown,Used 2004 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+716,699479934,99029,27988,SC,2011,4.2,0,auto,AWD,Havanna Black Metallic,Black,Used 2011 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+717,700104556,101424,11979,IL,2008,4.2,0,auto,AWD,Gray,,Used 2008 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+718,695517069,5101,58495,MA,2016,3.0,0,auto,AWD,Havanna Black Metallic,Velvet Beige,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+719,698176413,16941,43999,FL,2015,3.0,0,auto,AWD,Black,Dark Graystone / Medium Graystone,Used 2015 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+720,695295018,16941,43999,FL,2015,3.0,0,auto,AWD,Black,Dark Graystone / Medium Graystone,Used 2015 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+721,694221294,27313,48999,FL,2015,4.0,0,auto,AWD,Black,Black,Used 2015 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+722,698212817,27313,48999,FL,2015,4.0,0,auto,AWD,Black,Black,Used 2015 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+723,698921867,39477,44530,WA,2014,4.0,1,auto,AWD,Phantom Black Pearl Effect,Black,Certified 2014 Audi A8 4.0T,8-Speed Automatic w/OD | AWD,Audi,A8
+724,698621230,40929,40889,MO,2013,4.0,0,auto,AWD,Glacier White Metallic,Black,Used 2013 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+725,697515346,44588,41780,CA,2014,3.0,1,auto,AWD,Black,Black,Certified 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+726,695451366,52913,16995,AZ,2008,4.2,0,auto,AWD,Black,Black,Used 2008 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+727,698151119,4418,61900,SC,2016,3.0,0,auto,AWD,Mythos Black Metallic,Black,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+728,690672293,9459,56000,UT,2015,3.0,0,auto,AWD,Silver,Black,Used 2015 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+729,690564393,19222,47900,MA,2014,3.0,1,auto,AWD,Glacier White Metallic,Velvet Beige,Certified 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+730,612789905,39000,32394,CO,2011,4.2,0,auto,AWD,Black,,Used 2011 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+731,699834911,39866,38236,AR,2013,3.0,0,auto,AWD,Ibis White,Black,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+732,694561030,42066,41995,MI,2014,3.0,0,auto,AWD,Phantom Black Pearl,Black,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+733,684926113,42441,43950,CO,2014,4.0,0,auto,AWD,Phantom Black Pearl,Black,Used 2014 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+734,696312694,48968,32988,MA,2011,4.2,0,auto,AWD,Ice Silver Metallic,Nougat Brown,Used 2011 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+735,699958832,50113,30900,AZ,2011,4.2,0,auto,AWD,Quartz Gray Metallic,Black,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+736,699563028,53606,29975,IL,2011,4.2,0,auto,AWD,Black,Black,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+737,689089243,67000,28000,CA,2009,,0,auto,AWD,Black,Tan,Used 2009 Audi A8 W12 quattro,Black (ext) | Tan (int),Audi,A8
+738,700421558,99000,24900,PA,2011,4.2,0,auto,AWD,Black,Black,Used 2011 Audi A8 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+739,694337480,108967,9000,WI,2004,4.2,0,auto,AWD,Gray,Platinum,Used 2004 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+740,689253899,126396,5977,CA,2005,4.2,0,auto,AWD,Platinum Beige Pearl,Sand Beige,Used 2005 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+741,699165027,137075,8995,AZ,2007,4.2,0,auto,AWD,Gray,Gray,Used 2007 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+742,697294043,8915,57980,CA,2016,3.0,0,auto,AWD,Mythos Black Metallic,Black,Used 2016 Audi A8 L 3.0T,Automatic with Tiptronic | AWD,Audi,A8
+743,693623348,23661,47995,SC,2015,3.0,0,auto,AWD,Ibis White,Black,Used 2015 Audi A8 L 3.0T,8-Speed Automatic w/OD | AWD,Audi,A8
+744,698694980,27684,46997,MI,2014,3.0,0,auto,AWD,Ibis White,,Used 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+745,683504593,45311,36695,NY,2014,3.0,0,auto,AWD,Black,Nougat Brown,Used 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+746,699221619,55335,30955,MD,2011,4.2,0,auto,AWD,Beige,Tan,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+747,682359057,83112,12964,MT,2006,4.2,0,auto,AWD,Silver,,Used 2006 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+748,699351936,86133,27124,ME,2013,3.0,0,auto,AWD,Black,Black,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+749,695362270,100533,10801,AL,2005,4.2,0,auto,AWD,Black,,Used 2005 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+750,687660601,8945,57497,MI,2016,3.0,1,auto,AWD,Ibis White,Nougat Brown,Certified 2016 Audi A8 3.0T,Automatic with Tiptronic | AWD,Audi,A8
+751,700000154,21358,51995,CT,2015,3.0,0,auto,AWD,Ibis White,Nougat Brown,Used 2015 Audi A8 L 3.0T,8-Speed Automatic w/OD | AWD,Audi,A8
+752,700000206,26604,46995,CT,2014,4.0,0,auto,AWD,Oolong Gray Metallic,Black,Used 2014 Audi A8 L 4.0T,8-Speed Automatic w/OD | AWD,Audi,A8
+753,699941570,36999,35492,OH,2013,4.0,0,auto,AWD,Quartz Gray Metallic,Black,Used 2013 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+754,700327310,52468,36995,CT,2014,3.0,0,auto,AWD,Oolong Gray Metallic,Titanium Gray,Used 2014 Audi A8 L 3.0T,8-Speed Automatic w/OD | AWD,Audi,A8
+755,698982021,163000,7500,MA,2006,4.2,0,auto,AWD,Unspecified,,Used 2006 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+756,684714449,4798,60995,TN,2016,3.0,0,auto,AWD,Monsoon Gray Metallic,Black,Used 2016 Audi A8 3.0T,Automatic with Tiptronic | AWD,Audi,A8
+757,695254328,6215,72677,FL,2017,3.0,0,auto,AWD,Mythos Black Metallic,Black,Used 2017 Audi A8 L 3.0T,Automatic with Tiptronic | AWD,Audi,A8
+758,696572504,10261,68988,TN,2017,3.0,0,auto,AWD,Mythos Black Metallic,Black,Used 2017 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+759,700015191,20300,58995,UT,2015,3.0,0,auto,AWD,White,Black,Used 2015 Audi A8 L 3.0T,Automatic | AWD,Audi,A8
+760,700389418,41935,44980,CT,2015,4.0,0,auto,AWD,White,Velvet Beige,Used 2015 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+761,671094349,69955,15777,MT,2007,4.2,0,auto,AWD,Light Silver,Gray,Used 2007 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+762,687340179,112335,5995,CT,2000,4.2,0,auto,AWD,Green,Tan,Used 2000 Audi A8 4.2 quattro,5-Speed Automatic | AWD,Audi,A8
+763,646460420,21688,36000,NY,2013,3.0,0,auto,AWD,Black,Black,Used 2013 Audi A8 3.0T quattro,8-Speed Automatic | AWD,Audi,A8
+764,689804560,29764,39900,MN,2013,4.0,0,auto,AWD,Glacier White,,Used 2013 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+765,699387706,29953,45995,CT,2014,4.0,0,auto,AWD,Ice Silver Metallic,Black,Used 2014 Audi A8 L 4.0T,8-Speed Automatic w/OD | AWD,Audi,A8
+766,698458403,36650,34699,CA,2014,3.0,0,auto,AWD,Brilliant Black,Black,Used 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+767,691312270,39396,41999,CA,2014,3.0,1,auto,AWD,Quartz Gray Metallic,Black,Certified 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+768,696592734,44651,34999,MI,2012,4.2,0,auto,AWD,Gray,,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+769,697419212,138709,7995,NY,2007,4.2,0,auto,AWD,Black,Tan,Used 2007 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+770,696405436,30566,36988,TX,2017,3.0,0,auto,AWD,Glacier White,,Used 2017 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+771,697778958,45072,30990,IA,2011,4.2,0,auto,AWD,Quartz Gray Metallic,Titanium,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+772,700518867,65940,29975,MN,2013,3.0,0,auto,AWD,Quartz Gray Metallic,Black,Used 2013 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+773,696088340,103837,4995,MO,2002,4.2,0,auto,AWD,Brilliant Black,Saber Black,Used 2002 Audi A8 4.2 quattro L,5-Speed Automatic | AWD,Audi,A8
+774,695681784,112049,8995,MI,2004,4.2,0,auto,AWD,Gold,,Used 2004 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+775,681486406,113154,12995,IN,2007,4.2,0,auto,AWD,Navy Blue,Burnt Orange,Used 2007 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+776,697387819,124355,13995,CA,2009,4.2,0,auto,AWD,White,Bronze,Used 2009 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+777,699778422,182544,3500,SC,2003,4.2,0,auto,AWD,Black,,Used 2003 Audi A8 4.2 quattro L,5-Speed Automatic | AWD,Audi,A8
+778,659602723,0,19700,VA,2011,4.2,0,auto,AWD,Ibis White,Silk Beige,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+779,686431118,0,6700,VA,2008,4.2,0,auto,AWD,Ice Silver Metallic,Black,Used 2008 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+780,626361630,0,6901,VA,2006,4.2,0,auto,AWD,Akoya Silver Metallic,Ebony,Used 2006 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+781,695304139,3814,72800,OH,2017,,1,auto,AWD,Mythos Black Metallic,Black,Certified 2017 Audi A8,8-Speed Automatic w/OD | AWD,Audi,A8
+782,693902111,4021,73555,FL,2017,3.0,0,auto,AWD,Mythos Black Metallic,Black,Used 2017 Audi A8 L 3.0T,Automatic with Tiptronic | AWD,Audi,A8
+783,695817804,26707,53995,CT,2015,4.0,0,auto,AWD,Oolong Gray Metallic,Nougat Brown,Used 2015 Audi A8 L 4.0T,Automatic | AWD,Audi,A8
+784,697917609,88400,6700,VA,2009,4.2,0,auto,AWD,Black,Tan,Used 2009 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+785,690445594,106929,4995,TX,2005,4.2,0,auto,AWD,Gray,,Used 2005 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+786,641297654,117995,5901,VA,2006,4.2,0,auto,AWD,Sebring Silver Metallic,Ebony,Used 2006 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+787,697212033,137840,10500,TX,2005,4.2,0,auto,AWD,Blue,Platinum,Used 2005 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+788,698063508,142195,5995,CA,2005,4.2,0,auto,AWD,Brilliant Black,Black,Used 2005 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+789,698779365,169094,4400,VA,2006,4.2,0,auto,AWD,Black,Tan,Used 2006 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+790,681408904,183538,3900,VA,2006,4.2,0,auto,AWD,Akoya Silver Metallic,Platinum,Used 2006 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+791,686034992,188155,10995,TX,2010,4.2,0,auto,,Black,Tan,Used 2010 Audi A8 4.2 quattro,6 speed automatic,Audi,A8
+792,700644128,38896,36626,AL,2012,4.2,0,auto,AWD,Phantom Black Pearl,Velvet Beige,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+793,127240354,152936,4401,VA,2004,4.2,0,auto,AWD,Night Blue Pearl,Beige,Used 2004 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+794,700224551,59129,32987,CA,2012,4.2,0,auto,AWD,Black,,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+795,698244665,96930,16900,WI,2009,,0,auto,,Quartz Gray,Amaretto,Used 2009 Audi A8,6 speed automatic,Audi,A8
+796,699612127,97629,9995,OH,2005,4.2,0,auto,AWD,Platinum Beige Pearl,Beige,Used 2005 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+797,699739834,124288,8990,ME,2005,4.2,0,auto,AWD,Silver,Black,Used 2005 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+798,695911541,132000,8950,MI,2007,4.2,0,auto,AWD,Blue,Black,Used 2007 Audi A8 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+799,73165952,81755,4900,VA,2004,4.2,0,auto,AWD,Silver,Platinum,Used 2004 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+800,51126458,100991,5901,VA,2004,4.2,0,auto,AWD,Silver,Platinum,Used 2004 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+801,76189241,113096,5501,VA,2004,4.2,0,auto,AWD,Blue,Brown,Used 2004 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+802,700061754,130150,7800,CA,2006,4.2,0,auto,AWD,Dark Blue,,Used 2006 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+803,699602317,11880,49995,IL,2014,3.0,0,auto,AWD,Moonlight Blue Metallic,Nougat Brown,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+804,689251107,160102,8957,NV,2006,4.2,0,auto,AWD,Brilliant Black,Brown,Used 2006 Audi A8 L 4.2 quattro,Brilliant Black (ext) | Brown (int),Audi,A8
+805,696033290,22682,41999,GA,2014,4.0,0,auto,AWD,Black,Black,Used 2014 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+806,699198058,34199,45000,PA,2014,4.0,0,auto,AWD,White,Nougat Brown,Used 2014 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+807,681415368,51000,39999,VA,2012,4.2,0,auto,AWD,Black,Brown,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+808,700447816,32692,45000,GA,2014,3.0,0,auto,AWD,Night Blue Pearl,Velvet Beige,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+809,699437171,40482,41994,CA,2014,4.0,0,auto,AWD,Black,Black,Used 2014 Audi A8 L 4.0T,Black (ext) | Black (int),Audi,A8
+810,700021991,99920,15498,WI,2012,4.2,0,auto,AWD,Phantom Black Pearl,Black,Used 2012 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+811,686380864,117571,19780,OH,2009,4.2,0,auto,AWD,Phantom Black Pearl,,Used 2009 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+812,696624975,145598,7450,NJ,2005,4.2,0,auto,AWD,Black,Black,Used 2005 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+813,699799090,11581,78999,WI,2017,4.0,1,auto,AWD,Mythos Black Metallic,Black,Certified 2017 Audi A8 L 4.0T Sport,8-Speed Automatic | AWD,Audi,A8
+814,698848039,38087,39880,WA,2014,3.0,0,auto,AWD,Phantom Black Pearl,Black,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+815,699768064,45802,40984,MN,2013,4.0,0,auto,AWD,Black,,Used 2013 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+816,699822108,47590,38995,OK,2014,3.0,0,auto,AWD,Night Blue Pearl,Velvet Beige,Used 2014 Audi A8 3.0T,8-Speed Automatic | AWD,Audi,A8
+817,693574562,94500,13996,TX,2008,4.2,0,auto,AWD,Northern Blue Pearl,Linen,Used 2008 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+818,697495950,5452,63000,UT,2016,3.0,1,auto,AWD,Mythos Black Metallic,Black,Certified 2016 Audi A8 L 3.0T,Automatic with Tiptronic | AWD,Audi,A8
+819,700707100,16744,47000,FL,2014,4.0,0,auto,AWD,Gray,Black,Used 2014 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+820,697441943,22211,44755,IL,2014,3.0,0,auto,AWD,Night Blue Pearl,Silk Beige,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+821,700085576,23439,48950,TX,2014,3.0,0,auto,AWD,Ibis White,Velvet Beige,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+822,699830762,703,80000,FL,2017,3.0,0,auto,AWD,Monsoon Gray Metallic,Black,Used 2017 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+823,698847281,2186,81996,CA,2017,4.0,1,auto|manual,,Gray,Black W/Valcona Leather Seat Upholstery,Certified 2017 Audi A8 L 4.0T Sport 4D Sedan,automatic with clutchless manual,Audi,A8
+824,692740288,2655,71999,PA,2017,3.0,1,auto,,Glacier White Metallic,Nougat Brown,Certified 2017 Audi A8 L 3.0T,8-Speed Automatic with Tiptronic,Audi,A8
+825,693869966,3531,68235,SC,2016,3.0,1,auto,,Glacier White Metallic,Velvet Beige,Certified 2016 Audi A8 L 3.0T,8-Speed Automatic with Tiptronic,Audi,A8
+826,700705777,3752,68000,CO,2016,3.0,0,auto,AWD,Glacier White Metallic,Black,Used 2016 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+827,697084516,4940,89995,NC,2017,4.0,1,auto,AWD,Glacier White Metallic,Black,Certified 2017 Audi A8 L 4.0T Sport,Automatic with Tiptronic | AWD,Audi,A8
+828,698630065,5263,59933,TX,2016,3.0,1,auto,,Mythos Black Metallic,Nougat Brown,Certified 2016 Audi A8 3.0T,Automatic,Audi,A8
+829,693541740,5538,61988,CA,2016,3.0,1,auto,,Monsoon Gray Metallic,Black,Certified 2016 Audi A8 3.0T,Automatic,Audi,A8
+830,698619851,6760,74988,TN,2017,4.0,0,auto,AWD,Mythos Black Metallic,Black,Used 2017 Audi A8 L 4.0T Sport,Automatic with Tiptronic | AWD,Audi,A8
+831,699980384,7845,69594,WA,2016,4.0,1,auto,,Mythos Black Metallic,Black,Certified 2016 Audi A8 L 4.0T Sport,Automatic,Audi,A8
+832,699172446,10734,47991,LA,2014,3.0,0,auto,AWD,Phantom Black Pearl,Nougat Brown,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+833,699733214,11851,83155,FL,2017,,1,auto,,Glacier White Metallic,Velvet Beige,Certified 2017 Audi A8 L,Automatic,Audi,A8
+834,700077097,19568,44991,GA,2013,4.0,0,auto,AWD,Ice Silver Metallic,Titanium Gray,Used 2013 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+835,700363198,20760,60000,OR,2015,4.0,0,auto,AWD,Black,,Used 2015 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+836,699075809,22370,49222,TX,2014,4.0,1,auto,,Havanna Black Metallic,Black,Certified 2014 Audi A8 4.0T,Automatic,Audi,A8
+837,700653219,26001,39981,TX,2013,3.0,0,auto,AWD,White,Beige,Used 2013 Audi A8 3.0T quattro,8-Speed Automatic | AWD,Audi,A8
+838,699202056,26155,49991,TX,2015,3.0,0,auto,AWD,Oolong Gray Metallic,Nougat Brown,Used 2015 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+839,700630563,26878,41999,GA,2013,4.0,0,auto,AWD,Black,,Used 2013 Audi A8 4.0T,8-Speed Automatic | AWD,Audi,A8
+840,700449789,27054,66693,IL,2016,4.0,0,auto,AWD,Black,,Used 2016 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+841,699885922,27812,51950,MA,2014,3.0,0,auto,AWD,Brilliant Black,Black,Used 2014 Audi A8 L 3.0T,Brilliant Black (ext) | Black (int),Audi,A8
+842,699795333,28750,42990,NY,2013,4.0,1,auto,,Phantom Black Pearl,Nougat Brown,Certified 2013 Audi A8 L 4.0T (Tiptronic),8-Speed Automatic with Tiptronic,Audi,A8
+843,700122089,29644,38928,AZ,2012,,0,auto|manual,AWD,Oolong Grey Metallic,Balao Brown,Used 2012 Audi A8,8-Speed Automatic w/Manual Shift | AWD,Audi,A8
+844,699664074,30572,49920,CA,2013,4.0,0,auto,,Phantom Black Pearl,Black,Used 2013 Audi A8 4.0T,Automatic,Audi,A8
+845,696614813,31025,50999,PA,2014,4.0,1,auto,AWD,Phantom Black Pearl,Nougat Brown,Certified 2014 Audi A8 L 4.0T (Tiptronic),8-Speed Automatic with Tiptronic | AWD,Audi,A8
+846,699631545,31061,57000,NV,2015,4.0,0,auto,AWD,Glacier White Metallic,Black,Used 2015 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+847,700511835,32445,50970,CA,2015,3.0,0,auto,AWD,,,Used 2015 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+848,698856393,33449,42423,AR,2013,4.0,0,auto,AWD,Black,,Used 2013 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+849,699795297,33543,56927,TX,2015,4.0,1,auto,,Phantom Black Pearl Effect,Black,Certified 2015 Audi A8 4.0T,Automatic,Audi,A8
+850,699242083,35696,63444,NJ,2016,4.0,0,auto,AWD,Mythos Black Metallic,Black,Used 2016 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+851,700660821,35956,51990,NC,2014,4.0,1,auto,,Brilliant Black,Black,Certified 2014 Audi A8 L 4.0T (Tiptronic),Automatic,Audi,A8
+852,698615951,37706,43997,IN,2014,3.0,0,auto,AWD,Brilliant Black,Nougat Brown,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+853,699468930,37919,41997,TX,2014,3.0,1,auto,,Phantom Black Pearl,Black,Certified 2014 Audi A8 L 3.0T (Tiptronic),8-Speed Automatic with Tiptronic,Audi,A8
+854,695700566,40612,42995,NY,2014,3.0,1,auto,,Havanna Black Metallic,Nougat Brown,Certified 2014 Audi A8 3.0T,Automatic,Audi,A8
+855,700410699,40696,52920,FL,2015,3.0,1,auto,AWD,Phantom Black Pearl,Black,Certified 2015 Audi A8 3.0T,8-Speed Automatic with Tiptronic | AWD,Audi,A8
+856,700499378,40787,54999,PA,2015,4.0,1,auto,,Phantom Black Pearl,Black,Certified 2015 Audi A8 L 4.0T,8-Speed Automatic with Tiptronic,Audi,A8
+857,700012912,44646,34999,WA,2012,,0,auto|manual,AWD,Oolong Grey Metallic,Velvet Beige,Used 2012 Audi A8,8-Speed Automatic w/Manual Shift | AWD,Audi,A8
+858,699215605,47620,35977,MA,2013,3.0,1,auto,,Havanna Black Metallic,Nougat Brown,Certified 2013 Audi A8 3.0T (Tiptronic),8 speed automatic,Audi,A8
+859,700285715,51293,29981,CA,2011,4.2,0,auto,AWD,Gray,Black,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+860,700727891,55178,34995,CA,2013,4.0,0,auto,AWD,Black,,Used 2013 Audi A8 L 4.0T,8-Speed Automatic | AWD,Audi,A8
+861,699560206,55676,22995,MI,2009,4.2,0,auto,AWD,Ice Silver Metallic,Black,Used 2009 Audi A8 L 4.2 quattro,6-Speed Automatic | AWD,Audi,A8
+862,699434675,56788,34900,IL,2014,3.0,0,auto,AWD,Havanna Black Metallic,Nougat Brown,Used 2014 Audi A8 L 3.0T,8-Speed Automatic | AWD,Audi,A8
+863,700639528,56955,43991,SC,2014,3.0,0,auto,AWD,Black,Black,Used 2014 Audi A8 L 3.0 TDI,8-Speed Automatic | AWD,Audi,A8
+864,699812685,58690,33999,IL,2013,3.0,0,auto,AWD,Phantom Black Pearl,Black,Used 2013 Audi A8 3.0T quattro,8-Speed Automatic | AWD,Audi,A8
+865,700179005,61516,31950,CO,2012,4.2,0,auto,AWD,Silver,Black,Used 2012 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+866,699406044,62276,29991,TX,2011,4.2,0,auto,AWD,Phantom Black Pearl,,Used 2011 Audi A8 L 4.2 quattro,8-Speed Automatic | AWD,Audi,A8
+867,700709323,68026,17923,AZ,2005,,0,auto,AWD,Black,,Used 2005 Audi A8 W12,6-Speed Automatic | AWD,Audi,A8
+868,700034066,72831,21595,CA,2010,,0,auto,AWD,Blue,Gray,Used 2010 Audi A8,6-Speed Automatic | AWD,Audi,A8

@@ -1,0 +1,346 @@
+,id,miles,price,state,brand,model,year,capacity,Certified,gearbox,dwheel,ext,int,name,powertrain
+0,700600355,33908,33999,AL,Acura,RLX,2014,,1,auto,FWD,Black,,Certified 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+1,690758211,48185,20992,AZ,Acura,RLX,2014,,0,auto,FWD,Silver Moon,Ebony,Used 2014 Acura RLX,6-Speed Automatic | FWD
+2,696331616,42273,23998,IL,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Greystone,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+3,694321086,27964,26000,CO,Acura,RLX,2014,,0,auto,FWD,Black,,Used 2014 Acura RLX Tech Pkg,6-Speed Automatic w/OD | FWD
+4,697564856,15635,39389,NY,Acura,RLX,2016,,1,auto,FWD,Pomegranate Pearl,Seacoast,Certified 2016 Acura RLX Advance,6-Speed Automatic | FWD
+5,693965033,34326,24988,VA,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Seacoast,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+6,675978186,35428,24888,NY,Acura,RLX,2014,,0,auto,FWD,Gray,,Used 2014 Acura RLX Navigation,6-Speed Automatic | FWD
+7,683079704,42357,25588,NY,Acura,RLX,2014,,0,auto,FWD,Gray,,Used 2014 Acura RLX,6-Speed Automatic | FWD
+8,698922776,44814,24587,WI,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,,Used 2014 Acura RLX Navigation,6-Speed Automatic w/OD | FWD
+9,696857401,32754,25998,MN,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Greystone,Used 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+10,682324892,12107,29995,VA,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Ebony,Used 2014 Acura RLX Navigation,6-Speed Automatic | FWD
+11,697769050,13571,39493,VA,Acura,RLX,2016,,1,auto,FWD,Bellanova White Pearl,,Certified 2016 Acura RLX Advance,6-Speed Automatic | FWD
+12,699083522,15775,28998,ID,Acura,RLX,2014,,0,auto,FWD,Gray,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+13,665640553,16571,25987,AZ,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,,Used 2014 Acura RLX Navigation,6-Speed Automatic | FWD
+14,686200540,16962,32995,NJ,Acura,RLX,2015,,1,auto,FWD,Crystal Black Pearl,Ebony,Certified 2015 Acura RLX Advance Pkg,6-Speed Automatic w/OD | FWD
+15,694999675,17752,28990,AL,Acura,RLX,2014,,0,auto,FWD,Black,Tan,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+16,686303835,17816,28888,NJ,Acura,RLX,2014,,0,auto,FWD,White,Graphite,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+17,699593239,18510,37986,FL,Acura,RLX,2016,,0,auto,FWD,Pomegranate Pearl,Seacoast,Used 2016 Acura RLX Technology Package,6-Speed Automatic | FWD
+18,666992707,18534,25687,AZ,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,,Used 2014 Acura RLX,6-Speed Automatic | FWD
+19,697833506,18586,27736,KS,Acura,RLX,2014,,1,auto,FWD,Graphite Luster Metallic,Greystone,Certified 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+20,698422585,19915,35995,UT,Acura,RLX,2015,,0,auto,FWD,Pomegranate Pearl,Gray,Used 2015 Acura RLX Advance Package,6-Speed Automatic | FWD
+21,658316361,20663,27287,AZ,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,,Used 2014 Acura RLX Base,6-Speed Automatic | FWD
+22,699998402,20720,29998,ID,Acura,RLX,2014,,0,auto,FWD,Blue,Gray,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+23,695278808,21718,25990,VA,Acura,RLX,2014,,0,auto,FWD,Bellanova White Pearl,,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+24,671507537,21956,30980,IL,Acura,RLX,2014,,0,auto,FWD,Graphite Luster Metallic,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+25,697476261,22300,26300,TN,Acura,RLX,2014,,0,auto,FWD,Silver Moon,Ebony,Used 2014 Acura RLX Navigation,6-Speed Automatic | FWD
+26,698779874,23432,29402,GA,Acura,RLX,2014,,0,auto,FWD,White,Tan,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+27,699325679,23942,28557,CT,Acura,RLX,2014,,0,auto,FWD,Gray,,Used 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+28,691657259,24092,27995,NE,Acura,RLX,2014,,0,auto,FWD,Gray,Ebony,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+29,698711306,24177,28495,IN,Acura,RLX,2014,,0,auto,FWD,Black,Ebony,Used 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+30,676265160,24660,28499,PA,Acura,RLX,2014,,1,auto,FWD,Forged Silver Metallic,Ebony,Certified 2014 Acura RLX Navigation,Automatic | FWD
+31,693944948,25809,23995,SD,Acura,RLX,2014,,0,auto,FWD,Silver,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+32,698754611,26340,31986,FL,Acura,RLX,2014,,1,auto,FWD,Crystal Black Pearl,Ebony,Certified 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+33,694385364,26900,23979,KY,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Ebony,Used 2014 Acura RLX Base,6-Speed Automatic | FWD
+34,694299944,27663,27995,NJ,Acura,RLX,2014,,0,auto,FWD,White,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+35,700757219,27706,29499,CO,Acura,RLX,2014,,0,auto,FWD,Bellanova White Pearl,Seacoast,Used 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+36,690360875,27742,23997,FL,Acura,RLX,2014,,0,auto,FWD,White,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+37,685587238,28575,22995,OH,Acura,RLX,2014,,0,auto,FWD,Black,Ebony,Used 2014 Acura RLX,6-Speed Automatic | FWD
+38,685587237,28892,26990,OH,Acura,RLX,2014,,0,auto,FWD,Gray,Ebony,Used 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+39,671677585,29010,27999,CA,Acura,RLX,2014,,0,auto,FWD,Black,,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+40,695946629,29204,27990,KS,Acura,RLX,2014,,0,auto,FWD,Graphite Luster Metallic,Ebony,Used 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+41,698574488,29371,32492,VA,Acura,RLX,2015,,0,auto,FWD,Bellanova White Pearl,,Used 2015 Acura RLX Technology Package,6-Speed Automatic | FWD
+42,677704224,29909,28750,TN,Acura,RLX,2014,,0,auto,FWD,Burgundy,Gray,Used 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+43,699143993,30075,26250,MD,Acura,RLX,2014,,0,auto,FWD,Bellanova White Pearl,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+44,687060719,30232,24998,VA,Acura,RLX,2014,,0,auto,FWD,Silver,Ebony,Used 2014 Acura RLX,6-Speed Automatic | FWD
+45,695721787,30459,24977,WA,Acura,RLX,2014,,0,auto,FWD,Bellanova White Pearl,Seacoast,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+46,695527303,30506,21997,OR,Acura,RLX,2014,,0,auto,FWD,Bellanova White Pearl,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+47,672191223,30560,26578,TX,Acura,RLX,2014,,0,auto,FWD,Ebony,Ebony,Used 2014 Acura RLX Navigation,6-Speed Automatic | FWD
+48,700219385,30723,23977,GA,Acura,RLX,2014,,0,auto,FWD,Black,Ebony,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+49,672179478,30828,23790,VA,Acura,RLX,2014,,0,auto,FWD,Silver,Ebony,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+50,696351813,31011,24588,CA,Acura,RLX,2014,,0,auto,FWD,Black,,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+51,693592989,31581,25875,UT,Acura,RLX,2014,,0,auto,FWD,White,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+52,690836076,32613,27995,WA,Acura,RLX,2014,,0,auto,FWD,Midnight Black,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+53,690714246,32756,25983,FL,Acura,RLX,2014,,0,auto,FWD,Bellanova White Pearl,Black,Used 2014 Acura RLX Tech Pkg,6-Speed Automatic w/OD | FWD
+54,690836074,33202,27995,WA,Acura,RLX,2014,,0,auto,FWD,White,Greystone,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+55,695439954,33785,27990,AL,Acura,RLX,2014,,0,auto,FWD,Gray,Light Gray,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+56,679398540,34051,25997,TN,Acura,RLX,2014,,0,auto,FWD,Graphite Luster Metallic,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+57,692098151,34100,23895,MA,Acura,RLX,2014,,0,auto,FWD,Bellanova White Pearl,Ebony,Used 2014 Acura RLX Navigation,6-Speed Automatic | FWD
+58,697951049,34330,24000,NJ,Acura,RLX,2014,,0,auto,FWD,Graphite Luster Metallic,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+59,697976636,34330,24000,NJ,Acura,RLX,2014,,0,auto,FWD,Graphite Luster Metallic,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+60,700726195,34615,24590,MD,Acura,RLX,2014,,0,auto,FWD,Black,,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+61,690708856,35861,25984,FL,Acura,RLX,2014,,0,auto,FWD,White,Black,Used 2014 Acura RLX Tech Pkg,6-Speed Automatic w/OD | FWD
+62,696757003,35863,23390,MA,Acura,RLX,2014,,0,auto,FWD,Black,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+63,697850786,35917,26995,AL,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Seacoast,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+64,693884800,36580,28980,IL,Acura,RLX,2014,,0,auto,FWD,Forged Silver Metallic,Ebony,Used 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+65,697500569,36658,24485,VA,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+66,679639306,36675,24995,NH,Acura,RLX,2014,,0,auto,FWD,Silver Moon Metallic,Ebony,Used 2014 Acura RLX Base,6-Speed Automatic | FWD
+67,699183169,37100,27850,NC,Acura,RLX,2014,,1,auto,FWD,Silver Moon,Ebony,Certified 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+68,696969047,37305,26490,OH,Acura,RLX,2014,,0,auto,FWD,White,Tan,Used 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+69,695284609,38037,26900,NC,Acura,RLX,2014,,0,auto,FWD,Gray,Tan,Used 2014 Acura RLX Base,6-Speed Automatic | FWD
+70,698818023,39008,26991,WA,Acura,RLX,2014,,0,auto,FWD,Black,Tan,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+71,699690938,39171,26998,MA,Acura,RLX,2014,,0,auto,FWD,Pomegranate Pearl,Ivory,Used 2014 Acura RLX 6-SPD,6-Speed Automatic | FWD
+72,684551668,39532,26950,NE,Acura,RLX,2014,,0,auto,FWD,White,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+73,699644065,39987,22900,VA,Acura,RLX,2014,,0,auto,FWD,Gray,Gray,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+74,694450595,40001,26595,TX,Acura,RLX,2014,,0,auto,FWD,Black,Gray,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+75,665915294,40152,26295,TX,Acura,RLX,2014,,0,auto,FWD,Black,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+76,690297125,40216,22835,NJ,Acura,RLX,2014,,0,auto,FWD,Graphite Luster Metallic,Ebony,Used 2014 Acura RLX Navigation,6-Speed Automatic | FWD
+77,699914600,40392,28463,OR,Acura,RLX,2014,,0,auto,FWD,Crystal Black,Ebony,Used 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+78,699127374,40793,25490,CO,Acura,RLX,2014,,0,auto,FWD,Bellanova White Pearl,Ebony,Used 2014 Acura RLX Tech Pkg,6-Speed Automatic w/OD | FWD
+79,695383050,41081,24688,HI,Acura,RLX,2014,,0,auto,FWD,Gold,Tan,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+80,698580551,41561,25000,AL,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Seacoast,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+81,695890815,41824,23900,OK,Acura,RLX,2014,,0,auto,FWD,Gray,,Used 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+82,687569089,42095,24998,VA,Acura,RLX,2014,,0,auto,FWD,Silver,Gray,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+83,698326176,42320,26500,GA,Acura,RLX,2014,,0,auto,FWD,Bellanova White Pearl,Greystone,Used 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+84,685858687,42718,24300,NC,Acura,RLX,2014,,0,auto,FWD,Bellanova White Pearl,Greystone,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+85,695030891,44910,25900,FL,Acura,RLX,2014,,0,auto,FWD,Graphite Luster Metallic,,Used 2014 Acura RLX Navigation,6-Speed Automatic w/OD | FWD
+86,699758829,44941,28495,NC,Acura,RLX,2014,,1,auto,FWD,Pewter Metallic,Seacoast,Certified 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+87,692796141,45295,23900,CA,Acura,RLX,2014,,0,auto,FWD,Gray,,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+88,697020704,46465,25977,WA,Acura,RLX,2014,,0,auto,FWD,Bellanova White Pearl,Seacoast,Used 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+89,687755722,47893,22000,GA,Acura,RLX,2014,,0,auto,FWD,Gray,Ebony,Used 2014 Acura RLX Navigation,6-Speed Automatic | FWD
+90,698051855,48236,24993,TX,Acura,RLX,2015,,0,auto,FWD,Silver Moon Metallic,Ebony,Used 2015 Acura RLX Tech Pkg,Automatic | FWD
+91,685734651,48426,22775,TN,Acura,RLX,2014,,0,auto,FWD,Graphite Luster Metallic,Greystone,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+92,683395560,48734,27488,NC,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Ebony,Used 2014 Acura RLX Base,6-Speed Automatic | FWD
+93,698427505,49220,24999,TX,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Beige,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+94,686513965,49910,21995,VA,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+95,692886205,49974,20999,CT,Acura,RLX,2014,,0,auto,FWD,Silver Moon,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+96,699758830,50444,28995,NC,Acura,RLX,2014,,1,auto,FWD,Graphite Luster Metallic,Greystone,Certified 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+97,699863323,50525,25995,MD,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Ebony,Used 2014 Acura RLX Navigation,6-Speed Automatic | FWD
+98,688701897,51187,21560,CA,Acura,RLX,2014,,0,auto,FWD,Graphite Luster Metallic,Ebony,Used 2014 Acura RLX,6-Speed Automatic | FWD
+99,698244907,51675,24900,MD,Acura,RLX,2014,,0,auto,FWD,Black,Ebony,Used 2014 Acura RLX Base,6-Speed Automatic | FWD
+100,674013193,52438,22984,NY,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Ebony,Used 2014 Acura RLX Navigation,6-Speed Automatic | FWD
+101,699976958,52579,28593,TX,Acura,RLX,2015,,0,auto,FWD,Bellanova White Pearl,Graystone,Used 2015 Acura RLX Advance Pkg,Automatic | FWD
+102,692754550,52621,22995,AL,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Graystone,Used 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+103,690159234,53855,23984,TX,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+104,694821834,54790,22999,GA,Acura,RLX,2014,,0,auto,FWD,Graphite Luster Metallic,Greystone,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+105,695634811,56225,20900,GA,Acura,RLX,2014,,0,auto,FWD,Pomegranate Pearl,Seacoast,Used 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+106,696036133,56899,22999,GA,Acura,RLX,2014,,0,auto,FWD,Bellanova White Pearl,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+107,688587225,58262,23995,TX,Acura,RLX,2014,,0,auto,FWD,Black,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+108,681663943,58638,24980,IL,Acura,RLX,2014,,0,auto,FWD,Silver Moon,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+109,697601047,59098,20498,TX,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Seacoast,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+110,700492406,59503,26995,NC,Acura,RLX,2014,,0,auto,FWD,Silver Moon,Greystone,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+111,692231607,59800,21980,IL,Acura,RLX,2014,,0,auto,FWD,Graphite Luster Metallic,Ebony,Used 2014 Acura RLX Navigation,6-Speed Automatic | FWD
+112,677816313,61639,22998,NJ,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+113,699294784,66019,19991,VA,Acura,RLX,2014,,0,auto,FWD,Graphite Luster Metallic,,Used 2014 Acura RLX Navigation,6-Speed Automatic | FWD
+114,684381272,69483,21789,NY,Acura,RLX,2014,,0,auto,FWD,Black,Greystone,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+115,698213280,73193,23500,NJ,Acura,RLX,2014,,1,auto,FWD,Graphite Luster Metallic,Ebony,Certified 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+116,697165843,78758,20998,NY,Acura,RLX,2014,,0,auto,FWD,Bellanova White Pearl,Seacoast,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+117,699156409,80707,18990,KS,Acura,RLX,2014,,0,auto,FWD,Bellanova White Pearl,Seacoast,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+118,698425204,82791,21000,KS,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Greystone,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+119,690862309,89957,18453,AL,Acura,RLX,2014,,0,auto,FWD,Forged Silver Metallic,Ebony,Used 2014 Acura RLX Navigation,6-Speed Automatic | FWD
+120,699768927,90108,20000,CA,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Greystone,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+121,700364749,110970,20989,NC,Acura,RLX,2014,,0,auto,FWD,Graphite Luster Metallic,Greystone,Used 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+122,697799199,30987,27999,NJ,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Ebony,Used 2014 Acura RLX Tech Pkg,6-Speed Automatic w/OD | FWD
+123,697071011,39234,25869,GA,Acura,RLX,2014,,1,auto,FWD,Bellanova White Pearl,Seacoast,Certified 2014 Acura RLX Technology Package,6-Speed Automatic w/OD | FWD
+124,690789811,42951,26997,MD,Acura,RLX,2014,,0,auto,FWD,Forged Silver Metallic,Greystone,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+125,690303820,46075,22999,NY,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+126,687342167,48147,23877,NY,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Ebony,Used 2014 Acura RLX Navigation,6-Speed Automatic | FWD
+127,699241658,73068,22000,AZ,Acura,RLX,2014,,1,auto,FWD,Graphite Luster Metallic,Ebony,Certified 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+128,699333216,15608,29487,CT,Acura,RLX,2014,,1,auto,FWD,Crystal Black Pearl,Seacoast,Certified 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+129,695340137,20643,26988,MD,Acura,RLX,2014,,0,auto,FWD,Gray,,Used 2014 Acura RLX Tech Pkg,6-Speed Automatic w/OD | FWD
+130,675729891,23884,25999,NJ,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Ebony,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+131,691923989,26251,25995,MA,Acura,RLX,2014,,0,auto,FWD,Black,Gray,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+132,692683592,29810,26299,NJ,Acura,RLX,2014,,0,auto,FWD,White,Ebony,Used 2014 Acura RLX Navigation,6-Speed Automatic w/OD | FWD
+133,700251181,32424,28900,UT,Acura,RLX,2014,,1,auto,FWD,Bellanova White Pearl,Greystone,Certified 2014 Acura RLX Base,6-Speed Automatic | FWD
+134,696534877,33142,27000,AZ,Acura,RLX,2014,,1,auto,FWD,Crystal Black Pearl,Ebony,Certified 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+135,685870180,33930,24490,ME,Acura,RLX,2014,,0,auto,FWD,Black,,Used 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+136,699121688,36604,29000,AZ,Acura,RLX,2014,,1,auto,FWD,Pewter,Seacoast,Certified 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+137,689900222,39085,22999,NJ,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Gray,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+138,697966093,45936,23999,WI,Acura,RLX,2014,,0,auto,FWD,Silver Moon,,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+139,698603324,50829,22999,GA,Acura,RLX,2014,,0,auto,FWD,White,Tan,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+140,696534651,53575,23000,AZ,Acura,RLX,2014,,1,auto,FWD,Crystal Black Pearl,Ebony,Certified 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+141,691416472,62288,19996,NY,Acura,RLX,2014,,0,auto,FWD,Crystal Black,Ebony,Used 2014 Acura RLX Navigation,6-Speed Automatic | FWD
+142,694315036,21406,26000,WV,Acura,RLX,2014,,0,auto,FWD,Black,Ebony,Used 2014 Acura RLX Base,6-Speed Automatic | FWD
+143,696448783,25969,26555,CT,Acura,RLX,2014,,1,auto,FWD,Graphite Luster Metallic,Ebony,Certified 2014 Acura RLX Navigation,6-Speed Automatic w/OD | FWD
+144,698744238,26110,36995,DE,Acura,RLX,2016,,0,auto,FWD,Crystal Black Pearl,Ebony,Used 2016 Acura RLX Advance,6-Speed Automatic | FWD
+145,699282117,29225,23750,VA,Acura,RLX,2014,,0,auto,FWD,White,Ebony,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+146,700279348,29225,23750,FL,Acura,RLX,2014,,0,auto,FWD,White,Ebony,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+147,699288232,29225,23750,TX,Acura,RLX,2014,,0,auto,FWD,White,Ebony,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+148,699909360,29225,23750,PA,Acura,RLX,2014,,0,auto,FWD,White,Ebony,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+149,699873595,29225,23750,OH,Acura,RLX,2014,,0,auto,FWD,White,Ebony,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+150,699875539,29225,23750,VA,Acura,RLX,2014,,0,auto,FWD,White,Ebony,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+151,700267304,29225,23750,MO,Acura,RLX,2014,,0,auto,FWD,White,Ebony,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+152,699284904,29225,23750,GA,Acura,RLX,2014,,0,auto,FWD,White,Ebony,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+153,699848272,29225,23750,TN,Acura,RLX,2014,,0,auto,FWD,White,Ebony,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+154,700270047,29225,23750,PA,Acura,RLX,2014,,0,auto,FWD,White,Ebony,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+155,699285744,29225,23750,OH,Acura,RLX,2014,,0,auto,FWD,White,Ebony,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+156,699875930,29225,23750,AL,Acura,RLX,2014,,0,auto,FWD,White,Ebony,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+157,700266137,29225,23750,TX,Acura,RLX,2014,,0,auto,FWD,White,Ebony,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+158,699373802,29225,23750,NC,Acura,RLX,2014,,0,auto,FWD,White,Ebony,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+159,699643499,29225,23750,FL,Acura,RLX,2014,,0,auto,FWD,White,Ebony,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+160,699285456,29225,23750,OH,Acura,RLX,2014,,0,auto,FWD,White,Ebony,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+161,699910323,29225,23750,IN,Acura,RLX,2014,,0,auto,FWD,White,Ebony,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+162,699900799,29225,23750,TN,Acura,RLX,2014,,0,auto,FWD,White,Ebony,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+163,699286063,29225,23750,TX,Acura,RLX,2014,,0,auto,FWD,White,Ebony,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+164,699907016,29225,23750,NC,Acura,RLX,2014,,0,auto,FWD,White,Ebony,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+165,678412222,43054,22956,MA,Acura,RLX,2014,,0,auto,FWD,Forged Silver Metallic,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+166,699203860,43272,28280,LA,Acura,RLX,2015,,0,auto,FWD,Gray,Gray,Used 2015 Acura RLX Technology Package,6-Speed Automatic | FWD
+167,699846379,50530,23500,VA,Acura,RLX,2014,,0,auto,FWD,Dark Gray,Ebony,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+168,700109771,50530,23500,PA,Acura,RLX,2014,,0,auto,FWD,Dark Gray,Ebony,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+169,696654867,51099,25000,AZ,Acura,RLX,2014,,1,auto,FWD,Bellanova White Pearl,Ebony,Certified 2014 Acura RLX Navigation,6-Speed Automatic | FWD
+170,699246431,56872,24000,TX,Acura,RLX,2014,,0,auto,FWD,Black,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+171,700108439,56872,24000,PA,Acura,RLX,2014,,0,auto,FWD,Black,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+172,699229376,56872,24000,VA,Acura,RLX,2014,,0,auto,FWD,Black,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+173,696640726,106725,19900,NC,Acura,RLX,2014,,0,auto,FWD,Gray,,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+174,693370137,4245,42952,PA,Acura,RLX,2016,,1,auto,FWD,Crystal Black Pearl,Graystone,Certified 2016 Acura RLX Advance Pkg,6-Speed Automatic w/OD | FWD
+175,689033134,10455,34967,IN,Acura,RLX,2016,,0,auto,FWD,White,,Used 2016 Acura RLX Technology Package,6-Speed Automatic | FWD
+176,700267810,24202,25500,VA,Acura,RLX,2014,,0,auto,FWD,White,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+177,696385004,28578,29000,VA,Acura,RLX,2014,,1,auto,FWD,Black,Ebony,Certified 2014 Acura RLX Base,6-Speed Automatic w/OD | FWD
+178,696804463,32232,25000,OH,Acura,RLX,2014,,0,auto,FWD,Pomegranate Pearl,Greystone,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+179,696266663,34762,26995,FL,Acura,RLX,2014,,0,auto,FWD,Burgundy,,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+180,685640901,41368,25488,NY,Acura,RLX,2014,,0,auto,FWD,Silver,,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+181,689092266,48575,21500,CT,Acura,RLX,2014,,0,auto,FWD,Bellanova White Pearl,Ebony,Used 2014 Acura RLX Navigation,6-Speed Automatic | FWD
+182,700172110,53533,21940,KY,Acura,RLX,2014,,0,auto,FWD,Black,,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+183,695991729,11521,30698,IL,Acura,RLX,2014,,1,auto,FWD,Graphite Luster Metallic,Ebony,Certified 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+184,698089806,47700,23982,SC,Acura,RLX,2014,,0,auto,FWD,Bellanova White Pearl,Greystone,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+185,686070788,54699,21995,VA,Acura,RLX,2014,,0,auto,FWD,Black,GRAYSTONE,Used 2014 Acura RLX,6 speed automatic | FWD
+186,699124996,71616,19970,MD,Acura,RLX,2014,,0,auto,FWD,Silver Moon,Ebony,Used 2014 Acura RLX Tech Pkg,6-Speed Automatic w/OD | FWD
+187,697682973,21887,24900,MA,Acura,RLX,2014,,0,auto,FWD,Black,,Used 2014 Acura RLX Base,6-Speed Automatic | FWD
+188,688024023,22561,40888,SC,Acura,RLX,2016,,0,auto,FWD,Bellanova White Pearl,Seacoast,Used 2016 Acura RLX Technology Package,6-Speed Automatic | FWD
+189,696245604,27734,26998,TX,Acura,RLX,2014,,0,auto,FWD,Silver,Gray,Used 2014 Acura RLX Tech Pkg,Automatic | FWD
+190,698413534,28279,28449,WA,Acura,RLX,2014,,1,auto,FWD,Forged Silver Metallic,Black,Certified 2014 Acura RLX Tech Pkg,6-Speed Automatic w/OD | FWD
+191,695658092,29612,26900,KY,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+192,692708701,30314,28999,OH,Acura,RLX,2014,,0,auto,FWD,Maroon,Tan,Used 2014 Acura RLX Advance Pkg,6-Speed Automatic w/OD | FWD
+193,691610229,32599,22000,IL,Acura,RLX,2014,,0,auto,FWD,Black,,Used 2014 Acura RLX Tech Pkg,6-Speed Automatic w/OD | FWD
+194,693204779,51893,22072,NY,Acura,RLX,2014,,0,auto,FWD,Gray,,Used 2014 Acura RLX Base,6-Speed Automatic | FWD
+195,700644296,51973,22500,MD,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Ebony,Used 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+196,694474687,55062,22402,NJ,Acura,RLX,2014,,0,auto,FWD,Graphite Luster Metallic,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+197,700478369,0,54450,AZ,Acura,RLX,2017,,0,auto,FWD,Crystal Black Pearl,Ebony,Used 2017 Acura RLX Technology Package,6-Speed Automatic | FWD
+198,695397518,13421,34974,IL,Acura,RLX,2014,,1,auto,FWD,Crystal Black Pearl,Ebony,Certified 2014 Acura RLX Base,6-Speed Automatic | FWD
+199,698258850,15004,29474,IL,Acura,RLX,2014,,0,auto,FWD,White,,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+200,698765966,20114,34950,TX,Acura,RLX,2016,,1,auto,FWD,Slate Silver Metallic,Greystone,Certified 2016 Acura RLX Technology Package,6-Speed Automatic | FWD
+201,695887192,34835,23488,OK,Acura,RLX,2014,,0,auto,FWD,Black,,Used 2014 Acura RLX,6-Speed Automatic | FWD
+202,690343197,36995,25550,VA,Acura,RLX,2014,,0,auto,FWD,Black,Ebony,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+203,698557400,43699,24393,TX,Acura,RLX,2014,,1,auto,FWD,Pewter,Seacoast,Certified 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+204,698766074,47310,24783,TX,Acura,RLX,2014,,1,auto,FWD,Crystal Black Pearl,Ebony,Certified 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+205,698258852,51051,23473,IL,Acura,RLX,2014,,0,auto,FWD,Black,,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+206,699921396,13434,33657,GA,Acura,RLX,2014,,0,auto,FWD,Black,Ebony,Used 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+207,693393951,23529,24999,CT,Acura,RLX,2014,,0,auto,FWD,White,Tan,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+208,700599401,26610,28900,CT,Acura,RLX,2014,,0,auto,FWD,Graphite Luster Metallic,Greystone,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+209,688765972,29217,24900,UT,Acura,RLX,2014,,0,auto,FWD,White,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+210,700619800,63116,24330,MO,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+211,694573009,77335,23490,CA,Acura,RLX,2014,,1,auto,FWD,Bellanova White Pearl,Ebony,Certified 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+212,667378622,7409,49070,MO,Acura,RLX,2016,,0,auto,FWD,Crystal Black,Ebony,Used 2016 Acura RLX Advance,6-Speed Automatic | FWD
+213,700656079,8644,29999,FL,Acura,RLX,2016,,0,auto,FWD,White,Ebony,Used 2016 Acura RLX Technology Package,6-Speed Automatic | FWD
+214,700656704,8644,29999,FL,Acura,RLX,2016,,0,auto,FWD,White,Ebony,Used 2016 Acura RLX Technology Package,6-Speed Automatic | FWD
+215,698243216,26010,26975,WA,Acura,RLX,2014,,0,auto,FWD,Black,,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+216,700722568,34293,24400,MD,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Seacoast,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+217,693089524,45239,20999,FL,Acura,RLX,2014,,0,auto,FWD,Black,Ebony,Used 2014 Acura RLX,6-Speed Automatic | FWD
+218,699506961,45239,20999,FL,Acura,RLX,2014,,0,auto,FWD,Black,Ebony,Used 2014 Acura RLX,6-Speed Automatic | FWD
+219,682660694,56223,23900,MD,Acura,RLX,2014,,0,auto,FWD,Graphite Luster Metallic,Greystone,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+220,698059123,68082,21100,MA,Acura,RLX,2014,,0,auto,FWD,Silver Moon,,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+221,699692597,83276,20515,CO,Acura,RLX,2014,,0,auto,FWD,Forged Silver Metallic,Ebony,Used 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+222,679386043,4740,35995,CA,Acura,RLX,2015,,0,auto,FWD,Pewter Metallic,Greystone,Used 2015 Acura RLX Technology Package,6-Speed Automatic | FWD
+223,699256577,5286,35929,IL,Acura,RLX,2015,,1,auto,FWD,Crystal Black Pearl,Greystone,Certified 2015 Acura RLX Advance Package,6-Speed Automatic | FWD
+224,699410177,8357,40929,IL,Acura,RLX,2016,,1,auto,FWD,Crystal Black Pearl,Seacoast,Certified 2016 Acura RLX Advance,6-Speed Automatic | FWD
+225,698550447,18133,37987,OR,Acura,RLX,2016,,0,auto,FWD,Crystal,Ebony,Used 2016 Acura RLX Technology Package,6-Speed Automatic | FWD
+226,695553343,32197,25980,MO,Acura,RLX,2014,,0,auto,FWD,Black,,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+227,700661641,32325,18495,MI,Acura,RLX,2014,,0,auto,FWD,Black,Graphite,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+228,679923230,40893,26328,IL,Acura,RLX,2014,,1,auto,FWD,Bellanova White Pearl,Ebony,Certified 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+229,694668228,56214,22500,IN,Acura,RLX,2014,,0,auto,FWD,Graphite Luster Metallic,Greystone,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+230,679072982,56214,22500,IN,Acura,RLX,2014,,0,auto,FWD,Graphite Luster Metallic,Greystone,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+231,652097172,15135,35999,IL,Acura,RLX,2015,,1,auto,FWD,Crystal Black Pearl,Ebony,Certified 2015 Acura RLX Advance Package,6-Speed Automatic | FWD
+232,696387582,15864,37900,CA,Acura,RLX,2016,,0,auto,FWD,Bellanova White Pearl,,Used 2016 Acura RLX Technology Package,6-Speed Automatic | FWD
+233,699382121,17663,29929,IL,Acura,RLX,2014,,1,auto,FWD,Bellanova White Pearl,Seacoast,Certified 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+234,699140925,20391,29500,WI,Acura,RLX,2014,,1,auto,FWD,Bellanova White Pearl,Seacoast,Certified 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+235,700706413,22234,30000,NJ,Acura,RLX,2014,,0,auto,FWD,White,,Used 2014 Acura RLX Base,6-Speed Automatic | FWD
+236,698899157,26418,29400,WI,Acura,RLX,2014,,1,auto,FWD,Graphite Luster Metallic,Ebony,Certified 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+237,699866327,27894,29001,OH,Acura,RLX,2014,,1,auto,FWD,Forged Silver Metallic,Greystone,Certified 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+238,695830766,29996,25942,TN,Acura,RLX,2014,,0,auto,FWD,Black,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+239,700200883,32284,22999,FL,Acura,RLX,2015,,0,auto,FWD,Black,Ebony,Used 2015 Acura RLX Tech Pkg,6-Speed Automatic w/OD | FWD
+240,699613796,33178,21999,FL,Acura,RLX,2014,,0,auto,FWD,Gray,Ebony,Used 2014 Acura RLX,6-Speed Automatic | FWD
+241,686849023,33178,21999,FL,Acura,RLX,2014,,0,auto,FWD,Gray,Ebony,Used 2014 Acura RLX,6-Speed Automatic | FWD
+242,699049584,39530,27900,WI,Acura,RLX,2014,,1,auto,FWD,Crystal Black Pearl,Ebony,Certified 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+243,697848470,40317,25274,MD,Acura,RLX,2014,,0,auto,FWD,Silver Moon Metallic,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+244,697848415,40504,28443,MD,Acura,RLX,2014,,0,auto,FWD,Bellanova White Pearl,Seacoast,Used 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+245,699332859,43182,23988,OH,Acura,RLX,2014,,0,auto,FWD,Black,,Used 2014 Acura RLX Base,6-Speed Automatic | FWD
+246,696338752,44563,24951,TX,Acura,RLX,2014,,0,auto,FWD,Graphite Luster Metallic,Ebony,Used 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+247,697848423,48984,26992,MD,Acura,RLX,2014,,1,auto,FWD,Crystal Black Pearl,Seacoast,Certified 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+248,692848094,52054,20500,IL,Acura,RLX,2014,,0,auto,FWD,Forged Silver Metallic,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+249,694050055,59541,25626,MD,Acura,RLX,2014,,1,auto,FWD,Bellanova White Pearl,Ebony,Certified 2014 Acura RLX Tech Pkg,6-Speed Automatic w/OD | FWD
+250,697396391,25160,26990,MD,Acura,RLX,2014,,0,auto,FWD,Bellanova White Pearl,Ebony,Used 2014 Acura RLX w/ Navigation,6-Speed Automatic | FWD
+251,699052957,29872,30990,AL,Acura,RLX,2014,,1,auto,FWD,Bellanova White Pearl,Seacoast,Certified 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+252,698666778,35794,20999,FL,Acura,RLX,2014,,0,auto,FWD,Black,Gray,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+253,699385334,35794,20999,FL,Acura,RLX,2014,,0,auto,FWD,Black,Gray,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+254,699433563,41524,27524,GA,Acura,RLX,2014,,1,auto,FWD,Crystal Black Pearl,Ebony,Certified 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+255,699359274,43676,25983,DE,Acura,RLX,2014,,1,auto,FWD,Crystal Black Pearl,Greystone,Certified 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+256,699139429,8971,32995,HI,Acura,RLX,2014,,0,auto,FWD,Gray,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+257,689900452,20047,24900,PA,Acura,RLX,2014,,0,auto,FWD,Pearl White,Ebony,Used 2014 Acura RLX Base,6-Speed Automatic | FWD
+258,699556284,36565,20999,FL,Acura,RLX,2014,,0,auto,FWD,Forged Silver Metallic,Seacoast,Used 2014 Acura RLX Tech Pkg,6-Speed Automatic w/OD | FWD
+259,697753220,42780,26877,OH,Acura,RLX,2014,,0,auto,FWD,Bellanova White Pearl,Ebony,Used 2014 Acura RLX,6-Speed Automatic | FWD
+260,696047261,74623,17980,NY,Acura,RLX,2014,,0,auto,FWD,Bright Silver Metallic,Pastel Slate Gray,Used 2014 Acura RLX Navigation,6-Speed Automatic | FWD
+261,682346294,7500,31995,UT,Acura,RLX,2015,,0,auto,FWD,White,Black,Used 2015 Acura RLX Technology Package,6-Speed Automatic | FWD
+262,700107869,28173,27995,CT,Acura,RLX,2014,,0,auto,FWD,Gray,Greystone,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+263,696958745,32431,24977,OH,Acura,RLX,2014,,0,auto,FWD,White,Beige,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+264,695236911,21427,37988,FL,Acura,RLX,2016,,0,auto,FWD,Silver,Ebony,Used 2016 Acura RLX Advance,6-Speed Automatic | FWD
+265,687795764,28380,24991,NY,Acura,RLX,2014,,0,auto,FWD,Bellanova White Pearl,Greystone,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+266,696294495,31531,21699,CA,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+267,685125683,52434,22499,OH,Acura,RLX,2014,,0,auto,FWD,Bellanova White Pearl,,Used 2014 Acura RLX Base,6-Speed Automatic | FWD
+268,680153159,15580,27995,HI,Acura,RLX,2014,,0,auto,FWD,Blue,,Used 2014 Acura RLX Base,6-Speed Automatic | FWD
+269,692833290,15654,39682,CA,Acura,RLX,2016,,1,auto,FWD,Pearl White,,Certified 2016 Acura RLX Tech Pkg,6-Speed Automatic w/OD | FWD
+270,696038706,20305,34167,CA,Acura,RLX,2015,,1,auto,FWD,Pomegranate,,Certified 2015 Acura RLX Tech Pkg,6-Speed Automatic w/OD | FWD
+271,691509450,26652,29456,CA,Acura,RLX,2014,,1,auto,FWD,Forged Silver Metallic,Ebony,Certified 2014 Acura RLX Tech Pkg,6-Speed Automatic w/OD | FWD
+272,695876555,34185,22699,CA,Acura,RLX,2014,,0,auto,FWD,Gray,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+273,699416646,49241,23499,GA,Acura,RLX,2014,,0,auto,FWD,Graphite Luster Metallic,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+274,699439637,54381,24999,CA,Acura,RLX,2014,,1,auto,FWD,Black,Ebony,Certified 2014 Acura RLX,6-Speed Automatic | FWD
+275,683007125,93318,22995,IA,Acura,RLX,2014,,0,auto,FWD,Gray,,Used 2014 Acura RLX Base,6-Speed Automatic | FWD
+276,700123030,19738,31990,NC,Acura,RLX,2015,,0,auto,FWD,Bellanova White Pear,Seacoast,Used 2015 Acura RLX Tech Pkg,6-Speed Automatic w/OD | FWD
+277,698539384,33250,26000,MD,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Seacoast,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+278,700635610,49122,24940,MO,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Ebony,Used 2014 Acura RLX,6-Speed Automatic | FWD
+279,700592880,16616,31000,AZ,Acura,RLX,2014,,0,auto,FWD,Silver Moon,Greystone,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+280,695614703,37893,24581,CO,Acura,RLX,2014,,0,auto,FWD,Black,,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+281,700715865,12058,31995,MN,Acura,RLX,2015,,0,auto,FWD,Bellanova White Pearl,,Used 2015 Acura RLX Technology Package,6-Speed Automatic | FWD
+282,699875587,38151,29900,CA,Acura,RLX,2015,,0,auto,FWD,Bellanova White Pearl,Seacoast,Used 2015 Acura RLX Advance Package,6-Speed Automatic | FWD
+283,700102665,11459,30000,TN,Acura,RLX,2014,,0,auto,FWD,Bellanova White Pearl,Seacoast,Used 2014 Acura RLX Base,6-Speed Automatic | FWD
+284,700136634,25495,25770,TN,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Seacoast,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+285,669732272,28387,28095,TX,Acura,RLX,2014,,0,auto,FWD,Black,,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+286,699250331,52669,23900,MD,Acura,RLX,2014,,0,auto,FWD,Black,Tan,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+287,700143379,22736,36999,OK,Acura,RLX,2016,,0,auto,FWD,Crystal Black Pearl,Ebony,Used 2016 Acura RLX Technology Package,6-Speed Automatic | FWD
+288,699427350,72598,25773,WA,Acura,RLX,2014,,0,auto,FWD,Gray,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+289,695106998,10429,31988,IL,Acura,RLX,2014,,1,auto,,Bellanova White Pearl,Seacoast,Certified 2014 Acura RLX TECH,6AT
+290,698560851,12488,29978,FL,Acura,RLX,2014,,0,auto,FWD,Bellanova White Pearl,Seacoast,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+291,700484252,18151,33991,GA,Acura,RLX,2014,,0,auto,FWD,Black,Ebony,Used 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+292,696616423,18621,33977,IL,Acura,RLX,2014,,1,auto,,Crystal Black Pearl,Seacoast,Certified 2014 Acura RLX ADVANCE,6AT
+293,699445486,20970,28499,CA,Acura,RLX,2014,,1,auto,,Graphite Luster Metallic,Ebony,Certified 2014 Acura RLX NAVI,6AT
+294,693992425,22223,28799,CA,Acura,RLX,2014,,1,auto,,Silver Moon,Graystone,Certified 2014 Acura RLX TECH,6AT
+295,700639330,22817,27999,MD,Acura,RLX,2014,,0,auto,FWD,Silver Moon,Greystone,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+296,700294936,26181,27981,MA,Acura,RLX,2014,,0,auto,FWD,Silver,,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+297,700521526,26468,27900,NJ,Acura,RLX,2014,,1,auto,FWD,Silver,Gray,Certified 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+298,698632418,28177,30995,CA,Acura,RLX,2014,,1,auto,,Crystal Black Pearl,Ebony,Certified 2014 Acura RLX TECH,6AT
+299,700150281,28312,24900,NJ,Acura,RLX,2014,,1,auto,FWD,Black,Ebony,Certified 2014 Acura RLX Base,6-Speed Automatic | FWD
+300,699076571,30317,30995,CA,Acura,RLX,2014,,1,auto,,Graphite Luster Metallic,Ebony,Certified 2014 Acura RLX TECH,6AT
+301,700501512,31325,26275,PA,Acura,RLX,2014,,1,auto,,Crystal Black Pearl,Ebony,Certified 2014 Acura RLX NAVI,6AT
+302,698916634,32663,26489,MN,Acura,RLX,2014,,0,auto,FWD,Silver,,Used 2014 Acura RLX,6-Speed Automatic | FWD
+303,696897436,33413,30000,GA,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Seacoast,Used 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+304,699865160,35999,27400,GA,Acura,RLX,2014,,0,auto,FWD,Silver Moon,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+305,699746211,36452,28998,AL,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,,Used 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+306,700609001,36692,27900,NJ,Acura,RLX,2014,,1,auto,FWD,Silver,Gray,Certified 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+307,700715840,40088,29776,MN,Acura,RLX,2014,,0,auto,FWD,Black,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+308,700062150,42479,25990,OH,Acura,RLX,2014,,1,auto,,Forged Silver Metallic,Ebony,Certified 2014 Acura RLX TECH,6AT
+309,699548382,42867,27577,CO,Acura,RLX,2014,,0,auto,FWD,Black,,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+310,700371265,46400,24892,CA,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Ebony,Used 2014 Acura RLX,6-Speed Automatic | FWD
+311,694980696,52292,23389,CA,Acura,RLX,2014,,1,auto,,Bellanova White Pearl,Ebony,Certified 2014 Acura RLX NAVI,6AT
+312,700371498,69344,21990,AL,Acura,RLX,2014,,0,auto,FWD,Black,,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+313,700817487,6057,50000,CO,Acura,RLX,2017,,0,auto|manual,AWD,Black,Gray,Used 2017 Acura RLX w/Technology Pkg,7-Speed Auto-Shift Manual w/OD | AWD
+314,700563127,8610,34985,CA,Acura,RLX,2014,,0,auto,FWD,Graphite Luster Metallic,Ebony,Used 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+315,700493436,10601,36900,CA,Acura,RLX,2016,,0,auto,FWD,Pearl White,Beige,Used 2016 Acura RLX Advance,6-Speed Automatic | FWD
+316,700792809,19005,31868,MA,Acura,RLX,2015,,0,auto,,Bellanova White Pearl,Ebony,Used 2015 Acura RLX Technology Package,6AT
+317,698983730,19204,32999,AL,Acura,RLX,2014,,1,auto,FWD,Gray,,Certified 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+318,700710169,19786,32995,WA,Acura,RLX,2014,,1,auto,,Gilded Pewter Metallic,Seacoast,Certified 2014 Acura RLX TECH,6AT
+319,700620000,22768,29998,MD,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Parchment,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+320,700425749,25635,34999,AL,Acura,RLX,2015,,0,auto,FWD,White,,Used 2015 Acura RLX Technology Package,6-Speed Automatic | FWD
+321,699840748,26381,29963,GA,Acura,RLX,2014,,1,auto,FWD,Bellanova White Pearl,Seacoast,Certified 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+322,700439764,26464,27988,OH,Acura,RLX,2014,,0,auto,FWD,Black,,Used 2014 Acura RLX Advance Pkg,6-Speed Automatic w/OD | FWD
+323,700798478,29397,27991,TX,Acura,RLX,2014,,0,auto,FWD,Brown,Seacoast,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+324,699816859,31669,29999,OK,Acura,RLX,2014,,0,auto,FWD,Graphite Luster Metallic,Greystone,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+325,700309419,31855,28980,OR,Acura,RLX,2014,,0,auto,FWD,Purple,,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+326,698754734,32911,28683,FL,Acura,RLX,2014,,1,auto,FWD,Gray,,Certified 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+327,700620049,33462,28998,MD,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+328,680769507,33544,32998,AZ,Acura,RLX,2014,,1,auto,,Bellanova White Pearl,Seacoast,Certified 2014 Acura RLX TECH,6AT
+329,699971442,35402,19895,NY,Acura,RLX,2014,,0,auto,FWD,Black,,Used 2014 Acura RLX Base,6-Speed Automatic | FWD
+330,699742941,35942,27988,NC,Acura,RLX,2014,,0,auto,FWD,Silver Moon,Ebony,Used 2014 Acura RLX Base,6-Speed Automatic | FWD
+331,698258853,36534,26473,IL,Acura,RLX,2014,,1,auto,FWD,Black,,Certified 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+332,696540403,37053,29500,UT,Acura,RLX,2014,,1,auto,,Gilded Pewter Metallic,Seacoast,Certified 2014 Acura RLX TECH,6AT
+333,700493840,38381,27995,CA,Acura,RLX,2014,,0,auto,FWD,White,Ebony,Used 2014 Acura RLX L,6-Speed Automatic | FWD
+334,700687753,41798,24950,MS,Acura,RLX,2014,,0,auto,FWD,Gray,Charcoal,Used 2014 Acura RLX 6-SPD,6-Speed Automatic | FWD
+335,699969849,45489,28991,AK,Acura,RLX,2014,,0,auto,FWD,Black,,Used 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+336,699085313,46266,25995,HI,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,,Used 2014 Acura RLX Base,6-Speed Automatic | FWD
+337,700450649,47378,23900,KY,Acura,RLX,2014,,0,auto,FWD,Gray,,Used 2014 Acura RLX,6-Speed Automatic | FWD
+338,700287100,47617,31995,CA,Acura,RLX,2015,,1,auto,,Graphite Luster Metallic,Graystone,Certified 2015 Acura RLX ADVANCE,6AT
+339,700371616,57856,22995,MD,Acura,RLX,2014,,0,auto,FWD,Black,Gray,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+340,700600649,58073,22900,OK,Acura,RLX,2014,,0,auto,FWD,Crystal Black Pearl,Greystone,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+341,700646464,61995,21987,MD,Acura,RLX,2014,,0,auto,FWD,Black,Ebony,Used 2014 Acura RLX Technology Package,6-Speed Automatic | FWD
+342,700598225,67769,21999,NJ,Acura,RLX,2014,,0,auto,FWD,Black,,Used 2014 Acura RLX Tech Pkg,6-Speed Automatic w/OD | FWD
+343,700810527,71222,21995,MD,Acura,RLX,2014,,0,auto,FWD,Black,Gray,Used 2014 Acura RLX Advance Package,6-Speed Automatic | FWD
+344,700575057,137993,13995,RI,Acura,RLX,2014,,0,auto,FWD,Silver,,Used 2014 Acura RLX Base,6-Speed Automatic | FWD
